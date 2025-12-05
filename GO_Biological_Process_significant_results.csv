@@ -1,0 +1,193 @@
+comparison,pathway,NES,FDR,celltype
+Astro_AD_vs_CTRL,protein targeting to ER (GO:0045047),-2.086452487032961,0.0,Astro
+Astro_AD_vs_CTRL,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),-2.07385751547637,0.0,Astro
+Astro_AD_vs_CTRL,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184)",-2.0722555087575665,0.0,Astro
+Astro_AD_vs_CTRL,cotranslational protein targeting to membrane (GO:0006613),-2.0475156173633264,0.0,Astro
+Astro_AD_vs_CTRL,cytoplasmic translation (GO:0002181),-2.0471089110018785,0.0,Astro
+Astro_AD_vs_CTRL,translation (GO:0006412),-1.956481336533417,0.0,Astro
+Astro_AD_vs_CTRL,peptide biosynthetic process (GO:0043043),-1.9407080717440304,0.0,Astro
+Astro_AD_vs_CTRL,nuclear-transcribed mRNA catabolic process (GO:0000956),-1.9093317964300067,0.0,Astro
+Astro_AD_vs_CTRL,cellular macromolecule biosynthetic process (GO:0034645),-1.869869899982332,0.0011260041538369,Astro
+Astro_AD_vs_CTRL,type I interferon signaling pathway (GO:0060337),-1.8648574358869812,0.0009527727455543,Astro
+Astro_AD_vs_CTRL,cellular response to type I interferon (GO:0071357),-1.8648574358869812,0.0009527727455543,Astro
+Astro_AD_vs_CTRL,rRNA metabolic process (GO:0016072),-1.86111210541674,0.0008847175494432,Astro
+Astro_AD_vs_CTRL,rRNA processing (GO:0006364),-1.794064739888313,0.0144503866409071,Astro
+Astro_AD_vs_CTRL,retina homeostasis (GO:0001895),-1.7591143922251316,0.0313521781583968,Astro
+Astro_AD_vs_CTRL,defense response to symbiont (GO:0140546),-1.7440352726236423,0.0440797508457925,Astro
+Astro_AD_vs_CTRL,ncRNA processing (GO:0034470),-1.7422969712871166,0.043695216747505,Astro
+Astro_AD_vs_PD,cytoplasmic translation (GO:0002181),-1.9744798050015224,0.0146614801680572,Astro
+Astro_AD_vs_PD,chemical synaptic transmission (GO:0007268),1.840433084039407,0.0,Astro
+Astro_AD_vs_PD,anterograde trans-synaptic signaling (GO:0098916),1.8200816893332483,0.0011837006252739,Astro
+Astro_AD_vs_PD,regulation of epithelial cell proliferation (GO:0050678),1.7833088558340022,0.0037878420008765,Astro
+Astro_AD_vs_PD,central nervous system development (GO:0007417),1.7810607879183162,0.0036421557700736,Astro
+Astro_AD_vs_PD,"regulation of DNA-templated transcription, initiation (GO:2000142)",1.7717955569502188,0.003804752009809,Astro
+Astro_AD_vs_PD,response to cytokine (GO:0034097),1.7704167800165274,0.004081726294048,Astro
+Astro_AD_vs_PD,cellular response to organic substance (GO:0071310),1.7637224137212262,0.0055239362512783,Astro
+Astro_AD_vs_PD,central nervous system neuron differentiation (GO:0021953),1.7414662149624442,0.0110971933619431,Astro
+Astro_AD_vs_PD,axonogenesis (GO:0007409),1.7286836449089786,0.0174073621363813,Astro
+Astro_AD_vs_PD,brain development (GO:0007420),1.718872283188987,0.0192774101830326,Astro
+Astro_AD_vs_PD,regulation of transcription initiation from RNA polymerase II promoter (GO:0060260),1.717738816304366,0.0187419265668372,Astro
+Astro_AD_vs_PD,"Wnt signaling pathway, calcium modulating pathway (GO:0007223)",1.716935601182589,0.0191951452747124,Astro
+Astro_AD_vs_PD,regulation of neurotransmitter receptor activity (GO:0099601),1.7164288201371922,0.0186900098727462,Astro
+Astro_AD_vs_PD,regulation of peptidyl-tyrosine phosphorylation (GO:0050730),1.714564927192185,0.0188178048120471,Astro
+Astro_AD_vs_PD,regulation of sodium ion transmembrane transporter activity (GO:2000649),1.7017006895360454,0.0248013464343109,Astro
+Astro_AD_vs_PD,modulation by host of symbiont process (GO:0051851),1.6985988064365438,0.0252881497217612,Astro
+Astro_AD_vs_PD,inorganic cation transmembrane transport (GO:0098662),1.6955930437325464,0.0273566366729975,Astro
+Astro_AD_vs_PD,glutamate receptor signaling pathway (GO:0007215),1.6930485996832751,0.0270192534029919,Astro
+Astro_AD_vs_PD,cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),1.6890407771073446,0.0292147388365481,Astro
+Astro_AD_vs_PD,positive regulation of epithelial to mesenchymal transition (GO:0010718),1.6878315232382453,0.028852702741052,Astro
+Astro_AD_vs_PD,cardiac muscle cell action potential involved in contraction (GO:0086002),1.683447461924409,0.0318874454155426,Astro
+Astro_AD_vs_PD,actin filament bundle assembly (GO:0051017),1.6769160699011292,0.0362073132436732,Astro
+Astro_AD_vs_PD,actin filament bundle organization (GO:0061572),1.6752324223556505,0.0359662882294771,Astro
+Astro_AD_vs_PD,inflammatory response (GO:0006954),1.674516648449723,0.0357343584988356,Astro
+Astro_AD_vs_PD,negative regulation of cell junction assembly (GO:1901889),1.6659359592259042,0.0424863974428679,Astro
+Astro_AD_vs_PD,collagen fibril organization (GO:0030199),1.6647745927262767,0.0425716891545887,Astro
+Astro_AD_vs_PD,regulation of calcium ion-dependent exocytosis (GO:0017158),1.664669640722411,0.0418376945139924,Astro
+Astro_AD_vs_PD,response to tumor necrosis factor (GO:0034612),1.6627755742931043,0.0430077893849528,Astro
+Astro_AD_vs_PD,negative regulation of cell motility (GO:2000146),1.662033044856498,0.0430789407886578,Astro
+Astro_AD_vs_PD,positive regulation of glucose transmembrane transport (GO:0010828),1.6594656849060958,0.0442933137199277,Astro
+Astro_AD_vs_PD,positive regulation of synaptic transmission (GO:0050806),1.6591032288461522,0.0437781342363216,Astro
+Astro_AD_vs_PD,regulation of postsynaptic membrane potential (GO:0060078),1.6586702156699105,0.0434640073342771,Astro
+Astro_AD_vs_PD,negative regulation of cell-matrix adhesion (GO:0001953),1.6576413964729413,0.0437058692408836,Astro
+Astro_AD_vs_PD,histone H3 acetylation (GO:0043966),1.6576390344228746,0.0430436591008702,Astro
+Astro_AD_vs_PD,axon guidance (GO:0007411),1.6574682304586466,0.0427545598979539,Astro
+Astro_AD_vs_PD,positive regulation of long-term synaptic potentiation (GO:1900273),1.65720933558805,0.0422998899914066,Astro
+Astro_AD_vs_PD,regulation of cation channel activity (GO:2001257),1.6566328693531185,0.0418583989227303,Astro
+Astro_AD_vs_PD,peptidyl-serine phosphorylation (GO:0018105),1.6556938125778984,0.0424441224205367,Astro
+Astro_AD_vs_PD,branching morphogenesis of an epithelial tube (GO:0048754),1.654655921601722,0.0420871333430731,Astro
+Astro_AD_vs_PD,membrane depolarization (GO:0051899),1.6539805588891332,0.0421592003522222,Astro
+Astro_AD_vs_PD,inorganic anion transport (GO:0015698),1.651709757884326,0.0459083891153538,Astro
+Astro_AD_vs_PD,neuron development (GO:0048666),1.646970430029947,0.0495285261627776,Astro
+Astro_AD_vs_PD,cellular response to catecholamine stimulus (GO:0071870),1.646377397917436,0.0496539353199324,Astro
+Astro_AD_vs_PD,response to organic cyclic compound (GO:0014070),1.6462500790758268,0.0491691028959941,Astro
+Astro_AD_vs_PD,negative regulation of cell-substrate adhesion (GO:0010812),1.645172433741658,0.0495955578437558,Astro
+Astro_AD_vs_PD,peptidyl-threonine phosphorylation (GO:0018107),1.6451316083853171,0.0491235759488681,Astro
+Endo_AD_vs_PD,regulation of axon extension (GO:0030516),1.7062135661818214,0.0297211877910713,Endo
+Immune_AD_vs_CTRL,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184)",-2.048875302182094,0.0,Immune
+Immune_AD_vs_CTRL,cytoplasmic translation (GO:0002181),-2.029072798475453,0.0,Immune
+Immune_AD_vs_CTRL,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),-2.013582038898253,0.0,Immune
+Immune_AD_vs_CTRL,cotranslational protein targeting to membrane (GO:0006613),-1.9837027023813636,0.0,Immune
+Immune_AD_vs_CTRL,protein targeting to ER (GO:0045047),-1.974070491441428,0.0,Immune
+Immune_AD_vs_CTRL,peptide biosynthetic process (GO:0043043),-1.9308703394354565,0.0,Immune
+Immune_AD_vs_CTRL,translation (GO:0006412),-1.875971824233592,0.0,Immune
+Immune_AD_vs_CTRL,nuclear-transcribed mRNA catabolic process (GO:0000956),-1.8640710530863012,0.0008667664720796,Immune
+Immune_AD_vs_CTRL,cellular macromolecule biosynthetic process (GO:0034645),-1.8459806975386728,0.0012382378172565,Immune
+Immune_AD_vs_CTRL,neutrophil chemotaxis (GO:0030593),-1.7881855927632075,0.0073675150126766,Immune
+Immune_AD_vs_CTRL,positive regulation of ion transport (GO:0043270),-1.763230785505965,0.0128130695872636,Immune
+Immune_AD_vs_CTRL,cellular response to nitrogen compound (GO:1901699),-1.7444092560417113,0.0180287426192557,Immune
+Immune_AD_vs_CTRL,modulation by host of symbiont process (GO:0051851),-1.738704266222666,0.0234347972080781,Immune
+Immune_AD_vs_CTRL,cellular response to chemokine (GO:1990869),-1.7378982371306726,0.0229073996192466,Immune
+Immune_AD_vs_CTRL,neutrophil migration (GO:1990266),-1.7345312924160847,0.0228248504314295,Immune
+Immune_AD_vs_CTRL,antigen receptor-mediated signaling pathway (GO:0050851),-1.726447287467838,0.0262825962501557,Immune
+Immune_AD_vs_CTRL,response to hydroxyurea (GO:0072710),-1.7220818504790405,0.027316276695842,Immune
+Immune_AD_vs_CTRL,cellular protein metabolic process (GO:0044267),-1.7187245688920012,0.0285523073155633,Immune
+Immune_AD_vs_CTRL,rRNA metabolic process (GO:0016072),-1.7085144058287869,0.035413601573538,Immune
+Immune_AD_vs_CTRL,positive regulation of calcium ion transport (GO:0051928),-1.7052538788018912,0.0373191119923162,Immune
+Immune_AD_vs_CTRL,T cell receptor signaling pathway (GO:0050852),-1.7018896743052954,0.0377160545958962,Immune
+Immune_AD_vs_CTRL,negative regulation of viral genome replication (GO:0045071),-1.6958163457814388,0.0422548655138806,Immune
+Immune_AD_vs_CTRL,rRNA processing (GO:0006364),-1.690662832734253,0.0452409817134231,Immune
+Immune_AD_vs_CTRL,ncRNA processing (GO:0034470),-1.6878464994755014,0.0461603539781928,Immune
+Immune_PD_vs_CTRL,protein localization to lysosome (GO:0061462),1.9662232787850085,0.0355304635879534,Immune
+Immune_PD_vs_CTRL,cytoplasmic translation (GO:0002181),-1.711324995581842,0.0094478023590164,Immune
+Immune_PD_vs_CTRL,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),-1.7109419163181778,0.0047239011795082,Immune
+Immune_PD_vs_CTRL,cotranslational protein targeting to membrane (GO:0006613),-1.6962679089448305,0.0062985349060109,Immune
+Immune_PD_vs_CTRL,protein targeting to ER (GO:0045047),-1.6877636930619162,0.0094478023590164,Immune
+Immune_PD_vs_CTRL,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184)",-1.6790836144515684,0.0094478023590164,Immune
+Immune_PD_vs_CTRL,peptide biosynthetic process (GO:0043043),-1.6708438050030203,0.0141717035385247,Immune
+Immune_PD_vs_CTRL,positive regulation of ion transport (GO:0043270),-1.645316716054928,0.0269937210257613,Immune
+Immune_PD_vs_CTRL,neurotrophin TRK receptor signaling pathway (GO:0048011),-1.6411867685467325,0.0330673082565577,Immune
+Mural_AD_vs_CTRL,regulation of mitotic spindle organization (GO:0060236),1.8581646520179609,0.0206727904157162,Mural
+Oligo_AD_vs_CTRL,cotranslational protein targeting to membrane (GO:0006613),-2.041314098235676,0.0,Oligo
+Oligo_AD_vs_CTRL,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),-2.0249135684024733,0.0,Oligo
+Oligo_AD_vs_CTRL,peptide biosynthetic process (GO:0043043),-1.9873391800033129,0.0,Oligo
+Oligo_AD_vs_CTRL,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184)",-1.9806918912223856,0.0,Oligo
+Oligo_AD_vs_CTRL,cytoplasmic translation (GO:0002181),-1.975616082988917,0.0,Oligo
+Oligo_AD_vs_CTRL,protein targeting to ER (GO:0045047),-1.962129079212151,0.0,Oligo
+Oligo_AD_vs_CTRL,translation (GO:0006412),-1.960717159265793,0.0,Oligo
+Oligo_AD_vs_CTRL,nuclear-transcribed mRNA catabolic process (GO:0000956),-1.905687028035548,0.0,Oligo
+Oligo_AD_vs_CTRL,gene expression (GO:0010467),-1.9009399741512851,0.0,Oligo
+Oligo_AD_vs_CTRL,cellular macromolecule biosynthetic process (GO:0034645),-1.8869813337893555,0.0,Oligo
+Oligo_AD_vs_CTRL,rRNA metabolic process (GO:0016072),-1.8364869490324929,0.0014866984232502,Oligo
+Oligo_AD_vs_CTRL,rRNA processing (GO:0006364),-1.8081260235354688,0.011583858547825,Oligo
+Oligo_AD_vs_CTRL,ncRNA processing (GO:0034470),-1.7721985429149067,0.0270464751614376,Oligo
+Oligo_AD_vs_CTRL,ribosome biogenesis (GO:0042254),-1.7607653312572442,0.0338754855012026,Oligo
+Oligo_AD_vs_CTRL,cellular response to interferon-gamma (GO:0071346),-1.7503400749944,0.0430646976601496,Oligo
+Oligo_AD_vs_PD,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184)",-2.199216787667557,0.0,Oligo
+Oligo_AD_vs_PD,translation (GO:0006412),-2.1265368446842507,0.0,Oligo
+Oligo_AD_vs_PD,cotranslational protein targeting to membrane (GO:0006613),-2.104356618752417,0.0,Oligo
+Oligo_AD_vs_PD,peptide biosynthetic process (GO:0043043),-2.097449488373862,0.0,Oligo
+Oligo_AD_vs_PD,cellular macromolecule biosynthetic process (GO:0034645),-2.0812642099565624,0.0,Oligo
+Oligo_AD_vs_PD,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),-2.076082971289895,0.0,Oligo
+Oligo_AD_vs_PD,cytoplasmic translation (GO:0002181),-2.0733587352309337,0.0,Oligo
+Oligo_AD_vs_PD,protein targeting to ER (GO:0045047),-2.048711945652625,0.0,Oligo
+Oligo_AD_vs_PD,nuclear-transcribed mRNA catabolic process (GO:0000956),-2.048288732633954,0.0,Oligo
+Oligo_AD_vs_PD,ribosome biogenesis (GO:0042254),-2.0379385732871955,0.0,Oligo
+Oligo_AD_vs_PD,gene expression (GO:0010467),-2.0309938635765565,0.0,Oligo
+Oligo_AD_vs_PD,rRNA processing (GO:0006364),-2.025038409011924,0.0,Oligo
+Oligo_AD_vs_PD,ncRNA processing (GO:0034470),-2.00751754369797,0.0,Oligo
+Oligo_AD_vs_PD,rRNA metabolic process (GO:0016072),-1.9939918690869776,0.0005927982623897,Oligo
+Oligo_AD_vs_PD,regulation of Notch signaling pathway (GO:0008593),1.941472524658648,0.0021653257599234,Oligo
+Oligo_AD_vs_PD,cellular protein metabolic process (GO:0044267),-1.8971479360996448,0.0082991756734562,Oligo
+Oligo_AD_vs_PD,long-chain fatty acid biosynthetic process (GO:0042759),-1.887575824645884,0.0108926680714113,Oligo
+Oligo_AD_vs_PD,arachidonic acid metabolic process (GO:0019369),-1.8815693860953373,0.011228296499382,Oligo
+Oligo_AD_vs_PD,long-chain fatty acid metabolic process (GO:0001676),-1.858217608357011,0.0161372860317205,Oligo
+Oligo_AD_vs_PD,anterograde trans-synaptic signaling (GO:0098916),1.8562720968359367,0.0131629013300608,Oligo
+Oligo_AD_vs_PD,ribosome assembly (GO:0042255),-1.8487754710708688,0.0178432276979309,Oligo
+Oligo_AD_vs_PD,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)",-1.8465537867374229,0.0181791467132851,Oligo
+Oligo_AD_vs_PD,translational elongation (GO:0006414),-1.840949058939884,0.0192389981521031,Oligo
+Oligo_AD_vs_PD,ribosomal small subunit biogenesis (GO:0042274),-1.8392037349247328,0.0194850211463755,Oligo
+Oligo_AD_vs_PD,maturation of SSU-rRNA (GO:0030490),-1.8338585917145556,0.0210937381700346,Oligo
+Oligo_AD_vs_PD,positive regulation of cell adhesion (GO:0045785),1.831686060885264,0.0162399431994257,Oligo
+Oligo_AD_vs_PD,drug catabolic process (GO:0042737),-1.8304391517198613,0.021245889724048,Oligo
+Oligo_AD_vs_PD,mRNA processing (GO:0006397),-1.8153872330912024,0.0264935223421873,Oligo
+Oligo_AD_vs_PD,exogenous drug catabolic process (GO:0042738),-1.811604879534039,0.0282786726651102,Oligo
+Oligo_AD_vs_PD,"mRNA splicing, via spliceosome (GO:0000398)",-1.7994519961343851,0.0334931018250199,Oligo
+Oligo_AD_vs_PD,primary alcohol metabolic process (GO:0034308),-1.7963256020805334,0.0340552381083205,Oligo
+Oligo_AD_vs_PD,cilium-dependent cell motility (GO:0060285),1.796295203657324,0.0281059283638061,Oligo
+Oligo_AD_vs_PD,mitochondrial translational termination (GO:0070126),-1.7921427512817485,0.0351331770176315,Oligo
+Oligo_AD_vs_PD,cardiac epithelial to mesenchymal transition (GO:0060317),1.7903603314917822,0.0282294321293721,Oligo
+Oligo_AD_vs_PD,regulation of ion transmembrane transport (GO:0034765),1.786840782338012,0.0293478973532479,Oligo
+Oligo_AD_vs_PD,positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731),1.7662152313446324,0.0404915917105681,Oligo
+Oligo_AD_vs_PD,positive regulation of MAPK cascade (GO:0043410),1.763167890093754,0.0422587769275378,Oligo
+Oligo_AD_vs_PD,regulation of cardiac muscle cell proliferation (GO:0060043),1.7615193665917663,0.0427990169734865,Oligo
+OPC_AD_vs_CTRL,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184)",-1.921129305466992,0.0,OPC
+OPC_AD_vs_CTRL,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),-1.9136759261615104,0.0,OPC
+OPC_AD_vs_CTRL,cotranslational protein targeting to membrane (GO:0006613),-1.9015876165926076,0.0,OPC
+OPC_AD_vs_CTRL,cytoplasmic translation (GO:0002181),-1.8815710180825125,0.0,OPC
+OPC_AD_vs_CTRL,protein targeting to ER (GO:0045047),-1.8781658836905628,0.0,OPC
+OPC_AD_vs_CTRL,negative regulation of cysteine-type endopeptidase activity involved in apoptotic process (GO:0043154),-1.853253990376002,0.0026777549979305,OPC
+OPC_AD_vs_CTRL,nuclear-transcribed mRNA catabolic process (GO:0000956),-1.8437220165420325,0.0022952185696547,OPC
+OPC_AD_vs_CTRL,cellular response to interferon-gamma (GO:0071346),-1.827778639631215,0.0020083162484479,OPC
+OPC_AD_vs_CTRL,negative regulation of cysteine-type endopeptidase activity (GO:2000117),-1.8043310860158357,0.0044629249965509,OPC
+OPC_AD_vs_CTRL,peptide biosynthetic process (GO:0043043),-1.7851240887298667,0.0056232854956541,OPC
+OPC_AD_vs_CTRL,regulation of cysteine-type endopeptidase activity involved in apoptotic process (GO:0043281),-1.7546432066697892,0.0131453427171136,OPC
+OPC_AD_vs_CTRL,regulation of cell morphogenesis (GO:0022604),-1.7519893132852,0.0133887749896528,OPC
+OPC_AD_vs_CTRL,interferon-gamma-mediated signaling pathway (GO:0060333),-1.747763963756011,0.0135947561433397,OPC
+OPC_AD_vs_CTRL,negative regulation of signal transduction by p53 class mediator (GO:1901797),-1.7463809244810584,0.0143451160603423,OPC
+OPC_AD_vs_CTRL,translation (GO:0006412),-1.7398315096113095,0.0176731829863417,OPC
+OPC_AD_vs_CTRL,rRNA metabolic process (GO:0016072),-1.715432537637567,0.0344957849733407,OPC
+OPC_AD_vs_CTRL,rRNA processing (GO:0006364),-1.6976391647430022,0.0494045797118188,OPC
+OPC_AD_vs_PD,rRNA metabolic process (GO:0016072),-2.18915663405656,0.0,OPC
+OPC_AD_vs_PD,rRNA processing (GO:0006364),-2.11574072032983,0.0,OPC
+OPC_AD_vs_PD,ncRNA processing (GO:0034470),-2.111328884192443,0.0,OPC
+OPC_AD_vs_PD,protein targeting to ER (GO:0045047),-2.108771201891245,0.0,OPC
+OPC_AD_vs_PD,ribosome biogenesis (GO:0042254),-2.092060889690066,0.0,OPC
+OPC_AD_vs_PD,cotranslational protein targeting to membrane (GO:0006613),-2.0895455579606006,0.0,OPC
+OPC_AD_vs_PD,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),-2.0890646839466585,0.0,OPC
+OPC_AD_vs_PD,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184)",-2.022203544757505,0.0038400610561691,OPC
+OPC_AD_vs_PD,cytoplasmic translation (GO:0002181),-2.0087870797961545,0.0045511834739782,OPC
+OPC_AD_vs_PD,mitochondrial translation (GO:0032543),-2.0069542528162083,0.0040960651265803,OPC
+OPC_AD_vs_PD,mitochondrial translational termination (GO:0070126),-2.0047864793083177,0.0037236955696185,OPC
+OPC_AD_vs_PD,mitochondrial translational elongation (GO:0070125),-1.9901530734917532,0.0042667345068545,OPC
+OPC_AD_vs_PD,peptide biosynthetic process (GO:0043043),-1.987062030669184,0.0047262289922081,OPC
+OPC_AD_vs_PD,gene expression (GO:0010467),-1.974648800908229,0.0061440976898705,OPC
+OPC_AD_vs_PD,translational termination (GO:0006415),-1.9557972009279856,0.0108801729924791,OPC
+OPC_AD_vs_PD,mitochondrial ATP synthesis coupled electron transport (GO:0042775),-1.9521243359229556,0.0108425253350657,OPC
+OPC_AD_vs_PD,nuclear-transcribed mRNA catabolic process (GO:0000956),-1.945348762659048,0.0108090607506982,OPC
+OPC_AD_vs_PD,aerobic electron transport chain (GO:0019646),-1.9313830641489869,0.0140128543804065,OPC
+OPC_AD_vs_PD,mitochondrial respiratory chain complex assembly (GO:0033108),-1.8755043780825165,0.0286724558860626,OPC
+OPC_AD_vs_PD,translation (GO:0006412),-1.8707184382080333,0.0297452348477861,OPC
+OPC_AD_vs_PD,cellular protein metabolic process (GO:0044267),-1.8527936013854895,0.0418915751582084,OPC
+OPC_AD_vs_PD,"mitochondrial electron transport, NADH to ubiquinone (GO:0006120)",-1.842541753457616,0.0471937938497305,OPC
+OPC_AD_vs_PD,mitochondrial respiratory chain complex I assembly (GO:0032981),-1.835777917468878,0.046868437506064,OPC
+OPC_AD_vs_PD,NADH dehydrogenase complex assembly (GO:0010257),-1.835777917468878,0.046868437506064,OPC
