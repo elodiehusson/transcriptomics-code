@@ -1,0 +1,65 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	Hepatitis C	3/157	4.965170e-03	2.045432e-01	0	0	9.408616e+00	4.991560e+01	RSAD2;STAT1;MX1
+GO_Biological_Process_2021	Influenza A	3/172	6.391976e-03	2.045432e-01	0	0	8.567037e+00	4.328677e+01	RSAD2;STAT1;MX1
+GO_Biological_Process_2021	AGE-RAGE signaling pathway in diabetic complications	2/100	2.042948e-02	2.667585e-01	0	0	9.649174e+00	3.754278e+01	VCAM1;STAT1
+GO_Biological_Process_2021	C-type lectin receptor signaling pathway	2/104	2.198332e-02	2.667585e-01	0	0	9.268908e+00	3.538379e+01	CYLD;STAT1
+GO_Biological_Process_2021	NF-kappa B signaling pathway	2/104	2.198332e-02	2.667585e-01	0	0	9.268908e+00	3.538379e+01	CYLD;VCAM1
+GO_Biological_Process_2021	TNF signaling pathway	2/112	2.523299e-02	2.667585e-01	0	0	8.591342e+00	3.161273e+01	VCAM1;CX3CL1
+GO_Biological_Process_2021	Osteoclast differentiation	2/127	3.181463e-02	2.667585e-01	0	0	7.554667e+00	2.604720e+01	CYLD;STAT1
+GO_Biological_Process_2021	Human papillomavirus infection	3/331	3.612186e-02	2.667585e-01	0	0	4.378644e+00	1.454085e+01	STAT1;MX1;HES1
+GO_Biological_Process_2021	Measles	2/139	3.751292e-02	2.667585e-01	0	0	6.888773e+00	2.261632e+01	STAT1;MX1
+GO_Biological_Process_2021	Necroptosis	2/159	4.779994e-02	3.059196e-01	0	0	6.005156e+00	1.826006e+01	CYLD;STAT1
+GO_Biological_Process_2021	Maturity onset diabetes of the young	1/26	5.568795e-02	3.177072e-01	0	0	1.854047e+01	5.354471e+01	HES1
+GO_Biological_Process_2021	Tuberculosis	2/180	5.957010e-02	3.177072e-01	0	0	5.291065e+00	1.492399e+01	CD74;STAT1
+GO_Biological_Process_2021	Chemokine signaling pathway	2/192	6.670059e-02	3.251108e-01	0	0	4.953885e+00	1.341285e+01	STAT1;CX3CL1
+GO_Biological_Process_2021	Epstein-Barr virus infection	2/202	7.285000e-02	3.251108e-01	0	0	4.703810e+00	1.232094e+01	STAT1;HES1
+GO_Biological_Process_2021	African trypanosomiasis	1/37	7.832523e-02	3.251108e-01	0	0	1.286822e+01	3.277387e+01	VCAM1
+GO_Biological_Process_2021	Coronavirus disease	2/232	9.232076e-02	3.251108e-01	0	0	4.084058e+00	9.730212e+00	STAT1;MX1
+GO_Biological_Process_2021	Arginine and proline metabolism	1/50	1.043952e-01	3.251108e-01	0	0	9.448030e+00	2.134850e+01	LAP3
+GO_Biological_Process_2021	Malaria	1/50	1.043952e-01	3.251108e-01	0	0	9.448030e+00	2.134850e+01	VCAM1
+GO_Biological_Process_2021	Cholesterol metabolism	1/50	1.043952e-01	3.251108e-01	0	0	9.448030e+00	2.134850e+01	LRPAP1
+GO_Biological_Process_2021	Fanconi anemia pathway	1/54	1.122708e-01	3.251108e-01	0	0	8.733216e+00	1.909816e+01	HES1
+GO_Biological_Process_2021	Glutathione metabolism	1/57	1.181330e-01	3.251108e-01	0	0	8.264120e+00	1.765170e+01	LAP3
+GO_Biological_Process_2021	Notch signaling pathway	1/59	1.220201e-01	3.251108e-01	0	0	7.978348e+00	1.678301e+01	HES1
+GO_Biological_Process_2021	Inflammatory bowel disease	1/65	1.335812e-01	3.251108e-01	0	0	7.228198e+00	1.455069e+01	STAT1
+GO_Biological_Process_2021	Mitophagy	1/68	1.393059e-01	3.251108e-01	0	0	6.903506e+00	1.360739e+01	OPTN
+GO_Biological_Process_2021	Prolactin signaling pathway	1/70	1.431017e-01	3.251108e-01	0	0	6.702730e+00	1.303144e+01	STAT1
+GO_Biological_Process_2021	RIG-I-like receptor signaling pathway	1/70	1.431017e-01	3.251108e-01	0	0	6.702730e+00	1.303144e+01	CYLD
+GO_Biological_Process_2021	Pancreatic cancer	1/76	1.543914e-01	3.251108e-01	0	0	6.164651e+00	1.151720e+01	STAT1
+GO_Biological_Process_2021	Leishmaniasis	1/77	1.562589e-01	3.251108e-01	0	0	6.083231e+00	1.129194e+01	STAT1
+GO_Biological_Process_2021	Antigen processing and presentation	1/78	1.581223e-01	3.251108e-01	0	0	6.003926e+00	1.107356e+01	CD74
+GO_Biological_Process_2021	RNA degradation	1/79	1.599817e-01	3.251108e-01	0	0	5.926655e+00	1.086176e+01	BTG2
+GO_Biological_Process_2021	Cardiac muscle contraction	1/87	1.747129e-01	3.251108e-01	0	0	5.373175e+00	9.374100e+00	TPM1
+GO_Biological_Process_2021	Gap junction	1/88	1.765365e-01	3.251108e-01	0	0	5.311147e+00	9.210738e+00	MAP3K2
+GO_Biological_Process_2021	PD-L1 expression and PD-1 checkpoint pathway in cancer	1/89	1.783561e-01	3.251108e-01	0	0	5.250529e+00	9.051770e+00	STAT1
+GO_Biological_Process_2021	Hypertrophic cardiomyopathy	1/90	1.801718e-01	3.251108e-01	0	0	5.191273e+00	8.897034e+00	TPM1
+GO_Biological_Process_2021	Th1 and Th2 cell differentiation	1/92	1.837914e-01	3.251108e-01	0	0	5.076668e+00	8.599640e+00	STAT1
+GO_Biological_Process_2021	GnRH signaling pathway	1/93	1.855954e-01	3.251108e-01	0	0	5.021234e+00	8.456693e+00	MAP3K2
+GO_Biological_Process_2021	Dilated cardiomyopathy	1/96	1.909839e-01	3.251108e-01	0	0	4.861934e+00	8.049253e+00	TPM1
+GO_Biological_Process_2021	Choline metabolism in cancer	1/98	1.945569e-01	3.251108e-01	0	0	4.761208e+00	7.794245e+00	SLC22A5
+GO_Biological_Process_2021	Viral protein interaction with cytokine and cytokine receptor	1/100	1.981144e-01	3.251108e-01	0	0	4.664553e+00	7.551493e+00	CX3CL1
+GO_Biological_Process_2021	Toll-like receptor signaling pathway	1/104	2.051835e-01	3.282936e-01	0	0	4.482502e+00	7.099613e+00	STAT1
+GO_Biological_Process_2021	Th17 cell differentiation	1/107	2.104453e-01	3.285000e-01	0	0	4.354980e+00	6.787365e+00	STAT1
+GO_Biological_Process_2021	Toxoplasmosis	1/112	2.191394e-01	3.312980e-01	0	0	4.157762e+00	6.311679e+00	STAT1
+GO_Biological_Process_2021	Leukocyte transendothelial migration	1/114	2.225908e-01	3.312980e-01	0	0	4.083762e+00	6.135526e+00	VCAM1
+GO_Biological_Process_2021	Growth hormone synthesis, secretion and action	1/119	2.311542e-01	3.335875e-01	0	0	3.909736e+00	5.726473e+00	STAT1
+GO_Biological_Process_2021	Thyroid hormone signaling pathway	1/121	2.345537e-01	3.335875e-01	0	0	3.844186e+00	5.574341e+00	STAT1
+GO_Biological_Process_2021	Fluid shear stress and atherosclerosis	1/139	2.644954e-01	3.541664e-01	0	0	3.339737e+00	4.441621e+00	VCAM1
+GO_Biological_Process_2021	Ubiquitin mediated proteolysis	1/140	2.661248e-01	3.541664e-01	0	0	3.315543e+00	4.389082e+00	RHOBTB1
+GO_Biological_Process_2021	Signaling pathways regulating pluripotency of stem cells	1/143	2.709920e-01	3.541664e-01	0	0	3.245005e+00	4.236893e+00	TBX3
+GO_Biological_Process_2021	Breast cancer	1/147	2.774325e-01	3.541664e-01	0	0	3.155464e+00	4.045865e+00	HES1
+GO_Biological_Process_2021	Cell adhesion molecules	1/148	2.790339e-01	3.541664e-01	0	0	3.133840e+00	4.000102e+00	VCAM1
+GO_Biological_Process_2021	Adrenergic signaling in cardiomyocytes	1/150	2.822263e-01	3.541664e-01	0	0	3.091462e+00	3.910842e+00	TPM1
+GO_Biological_Process_2021	Herpes simplex virus 1 infection	2/498	2.998139e-01	3.568508e-01	0	0	1.868280e+00	2.250517e+00	CD74;STAT1
+GO_Biological_Process_2021	JAK-STAT signaling pathway	1/162	3.010928e-01	3.568508e-01	0	0	2.859310e+00	3.432134e+00	STAT1
+GO_Biological_Process_2021	Hepatitis B	1/162	3.010928e-01	3.568508e-01	0	0	2.859310e+00	3.432134e+00	STAT1
+GO_Biological_Process_2021	Pathways in cancer	2/531	3.267151e-01	3.771176e-01	0	0	1.748762e+00	1.956282e+00	STAT1;HES1
+GO_Biological_Process_2021	NOD-like receptor signaling pathway	1/181	3.299779e-01	3.771176e-01	0	0	2.555039e+00	2.832847e+00	STAT1
+GO_Biological_Process_2021	Kaposi sarcoma-associated herpesvirus infection	1/193	3.476165e-01	3.903062e-01	0	0	2.393895e+00	2.529523e+00	STAT1
+GO_Biological_Process_2021	Lipid and atherosclerosis	1/215	3.787828e-01	4.179673e-01	0	0	2.145403e+00	2.082741e+00	VCAM1
+GO_Biological_Process_2021	Human cytomegalovirus infection	1/225	3.924637e-01	4.257234e-01	0	0	2.048588e+00	1.916067e+00	CX3CL1
+GO_Biological_Process_2021	MAPK signaling pathway	1/294	4.791569e-01	5.039422e-01	0	0	1.560679e+00	1.148234e+00	MAP3K2
+GO_Biological_Process_2021	Cytokine-cytokine receptor interaction	1/295	4.803199e-01	5.039422e-01	0	0	1.555292e+00	1.140500e+00	CX3CL1
+GO_Biological_Process_2021	MicroRNAs in cancer	1/310	4.974626e-01	5.135098e-01	0	0	1.478663e+00	1.032454e+00	TPM1
+GO_Biological_Process_2021	Amyotrophic lateral sclerosis	1/364	5.547206e-01	5.635257e-01	0	0	1.255237e+00	7.396997e-01	OPTN
+GO_Biological_Process_2021	Pathways of neurodegeneration	1/475	6.531141e-01	6.531141e-01	0	0	9.558434e-01	4.071926e-01	OPTN

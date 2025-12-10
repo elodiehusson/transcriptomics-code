@@ -1,0 +1,217 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	Endocytosis	11/252	2.688435e-03	2.278755e-01	0	0	2.852624e+00	1.688410e+01	RAB5B;EHD4;SMURF1;NEDD4;VTA1;WIPF3;ARAP3;ARRB2;ARAP1;RAB22A;SH3GL1
+GO_Biological_Process_2021	MAPK signaling pathway	12/294	3.041443e-03	2.278755e-01	0	0	2.662457e+00	1.543007e+01	CSF1R;RPS6KA6;RAP1A;PLA2G4C;NFATC3;TGFA;KRAS;ARRB2;CRK;DUSP7;MAP4K4;MAP3K5
+GO_Biological_Process_2021	Neurotrophin signaling pathway	7/119	3.164937e-03	2.278755e-01	0	0	3.882143e+00	2.234415e+01	RPS6KA6;RAP1A;MATK;KRAS;CRK;SH2B3;MAP3K5
+GO_Biological_Process_2021	Yersinia infection	7/137	6.812936e-03	2.747064e-01	0	0	3.341538e+00	1.667071e+01	RPS6KA6;WIPF3;NFATC3;ITGA5;TICAM1;CRK;WASF2
+GO_Biological_Process_2021	Chronic myeloid leukemia	5/76	7.630734e-03	2.747064e-01	0	0	4.355756e+00	2.123680e+01	CTBP2;KRAS;CRK;DDB2;BCL2L1
+GO_Biological_Process_2021	Pancreatic cancer	5/76	7.630734e-03	2.747064e-01	0	0	4.355756e+00	2.123680e+01	RALB;TGFA;KRAS;DDB2;BCL2L1
+GO_Biological_Process_2021	Ras signaling pathway	9/232	1.317784e-02	3.882514e-01	0	0	2.508560e+00	1.086011e+01	CSF1R;RAB5B;RAP1A;RALB;PLA2G4C;TGFA;KRAS;RASAL2;BCL2L1
+GO_Biological_Process_2021	Long-term depression	4/60	1.586790e-02	3.882514e-01	0	0	4.407457e+00	1.826211e+01	RYR1;PLA2G4C;ITPR2;KRAS
+GO_Biological_Process_2021	Vascular smooth muscle contraction	6/133	2.079748e-02	3.882514e-01	0	0	2.923004e+00	1.132057e+01	ACTA2;NPR2;PLA2G4C;ITPR2;MYH9;RAMP1
+GO_Biological_Process_2021	Rap1 signaling pathway	8/210	2.079816e-02	3.882514e-01	0	0	2.456455e+00	9.513581e+00	CSF1R;DOCK4;RAP1A;RALB;MAGI3;ARAP3;KRAS;CRK
+GO_Biological_Process_2021	Thyroid cancer	3/37	2.145408e-02	3.882514e-01	0	0	5.433524e+00	2.087473e+01	NCOA4;KRAS;DDB2
+GO_Biological_Process_2021	Long-term potentiation	4/67	2.286944e-02	3.882514e-01	0	0	3.916342e+00	1.479576e+01	RPS6KA6;RAP1A;ITPR2;KRAS
+GO_Biological_Process_2021	Lipid and atherosclerosis	8/215	2.353913e-02	3.882514e-01	0	0	2.396505e+00	8.984713e+00	CASP7;RAP1A;POU2F1;NFATC3;KRAS;TICAM1;MAP3K5;BCL2L1
+GO_Biological_Process_2021	Renal cell carcinoma	4/69	2.516444e-02	3.882514e-01	0	0	3.795452e+00	1.397608e+01	RAP1A;TGFA;KRAS;CRK
+GO_Biological_Process_2021	Apoptosis	6/142	2.758139e-02	3.971720e-01	0	0	2.728313e+00	9.796321e+00	CASP7;ITPR2;KRAS;CTSC;MAP3K5;BCL2L1
+GO_Biological_Process_2021	p53 signaling pathway	4/73	3.015762e-02	4.071279e-01	0	0	3.574697e+00	1.251615e+01	ZMAT3;SESN2;DDB2;BCL2L1
+GO_Biological_Process_2021	Oxytocin signaling pathway	6/154	3.869732e-02	4.916836e-01	0	0	2.505559e+00	8.148041e+00	RYR1;NPR2;PLA2G4C;NFATC3;ITPR2;KRAS
+GO_Biological_Process_2021	Colorectal cancer	4/86	5.016578e-02	6.019894e-01	0	0	3.005983e+00	8.995169e+00	RALB;TGFA;KRAS;DDB2
+GO_Biological_Process_2021	Herpes simplex virus 1 infection	13/498	6.068346e-02	6.443727e-01	0	0	1.664892e+00	4.665167e+00	RNASEL;ZNF251;POU2F1;ZNF140;TICAM1;ZNF25;ZSCAN32;ZNF426;ITGA5;ZNF786;ZNF675;ZNF398;BCL2L1
+GO_Biological_Process_2021	Hedgehog signaling pathway	3/56	6.138655e-02	6.443727e-01	0	0	3.482285e+00	9.717542e+00	MOSMO;SMURF1;ARRB2
+GO_Biological_Process_2021	Regulation of actin cytoskeleton	7/218	6.342452e-02	6.443727e-01	0	0	2.050237e+00	5.654358e+00	GSN;MYH9;PIP4K2B;KRAS;ITGA5;CRK;WASF2
+GO_Biological_Process_2021	Apelin signaling pathway	5/137	7.085914e-02	6.443727e-01	0	0	2.335580e+00	6.182423e+00	RYR1;ACTA2;ITPR2;KRAS;NRF1
+GO_Biological_Process_2021	Fc gamma R-mediated phagocytosis	4/97	7.159696e-02	6.443727e-01	0	0	2.648948e+00	6.984489e+00	GSN;PLA2G4C;CRK;WASF2
+GO_Biological_Process_2021	Phosphatidylinositol signaling system	4/97	7.159696e-02	6.443727e-01	0	0	2.648948e+00	6.984489e+00	ITPR2;PIP4K2B;PI4KB;PIK3C2B
+GO_Biological_Process_2021	Pentose phosphate pathway	2/30	8.370605e-02	6.993263e-01	0	0	4.386161e+00	1.087963e+01	PGM2;PFKP
+GO_Biological_Process_2021	GnRH secretion	3/64	8.417817e-02	6.993263e-01	0	0	3.024359e+00	7.484743e+00	ITPR2;KRAS;ARRB2
+GO_Biological_Process_2021	Galactose metabolism	2/31	8.856046e-02	7.084837e-01	0	0	4.234698e+00	1.026520e+01	PGM2;PFKP
+GO_Biological_Process_2021	SNARE interactions in vesicular transport	2/33	9.850971e-02	7.599321e-01	0	0	3.961089e+00	9.180220e+00	YKT6;BET1
+GO_Biological_Process_2021	Adherens junction	3/71	1.066304e-01	7.693534e-01	0	0	2.712060e+00	6.070637e+00	FER;PTPRM;WASF2
+GO_Biological_Process_2021	Non-small cell lung cancer	3/72	1.100118e-01	7.693534e-01	0	0	2.672618e+00	5.898916e+00	TGFA;KRAS;DDB2
+GO_Biological_Process_2021	Inositol phosphate metabolism	3/73	1.134342e-01	7.693534e-01	0	0	2.634304e+00	5.733648e+00	PIP4K2B;PI4KB;PIK3C2B
+GO_Biological_Process_2021	Mucin type O-glycan biosynthesis	2/36	1.139783e-01	7.693534e-01	0	0	3.611029e+00	7.842243e+00	GALNT1;ST6GALNAC3
+GO_Biological_Process_2021	Glioma	3/75	1.203982e-01	7.869529e-01	0	0	2.560867e+00	5.421231e+00	TGFA;KRAS;DDB2
+GO_Biological_Process_2021	Pertussis	3/76	1.239381e-01	7.869529e-01	0	0	2.525658e+00	5.273506e+00	CASP7;ITGA5;TICAM1
+GO_Biological_Process_2021	Bacterial invasion of epithelial cells	3/77	1.275155e-01	7.869529e-01	0	0	2.491400e+00	5.131082e+00	ITGA5;CRK;WASF2
+GO_Biological_Process_2021	RNA degradation	3/79	1.347792e-01	8.013546e-01	0	0	2.425590e+00	4.861166e+00	PABPC1L;PFKP;DCP1B
+GO_Biological_Process_2021	Platelet activation	4/124	1.401775e-01	8.013546e-01	0	0	2.050105e+00	4.028140e+00	RAP1A;P2RX1;PLA2G4C;ITPR2
+GO_Biological_Process_2021	Ferroptosis	2/41	1.409791e-01	8.013546e-01	0	0	3.147276e+00	6.165966e+00	GCLC;NCOA4
+GO_Biological_Process_2021	Purine metabolism	4/129	1.550295e-01	8.217679e-01	0	0	1.967597e+00	3.667877e+00	DGUOK;NPR2;ADK;PGM2
+GO_Biological_Process_2021	ErbB signaling pathway	3/85	1.573784e-01	8.217679e-01	0	0	2.247420e+00	4.155709e+00	TGFA;KRAS;CRK
+GO_Biological_Process_2021	NOD-like receptor signaling pathway	5/181	1.682482e-01	8.217679e-01	0	0	1.747742e+00	3.115026e+00	RNASEL;ITPR2;TICAM1;MCU;BCL2L1
+GO_Biological_Process_2021	Axon guidance	5/182	1.708958e-01	8.217679e-01	0	0	1.737778e+00	3.070135e+00	NRP1;PLXNA2;NFATC3;KRAS;SRGAP2
+GO_Biological_Process_2021	PD-L1 expression and PD-1 checkpoint pathway in cancer	3/89	1.730478e-01	8.217679e-01	0	0	2.142451e+00	3.758261e+00	NFATC3;KRAS;TICAM1
+GO_Biological_Process_2021	Nucleotide excision repair	2/47	1.749108e-01	8.217679e-01	0	0	2.726806e+00	4.754129e+00	POLD3;DDB2
+GO_Biological_Process_2021	Amino sugar and nucleotide sugar metabolism	2/48	1.806890e-01	8.217679e-01	0	0	2.667391e+00	4.563847e+00	UXS1;PGM2
+GO_Biological_Process_2021	GnRH signaling pathway	3/93	1.891353e-01	8.217679e-01	0	0	2.046813e+00	3.408543e+00	PLA2G4C;ITPR2;KRAS
+GO_Biological_Process_2021	Ubiquitin mediated proteolysis	4/140	1.896040e-01	8.217679e-01	0	0	1.807436e+00	3.005437e+00	SMURF1;NEDD4;UBE2E2;DDB2
+GO_Biological_Process_2021	Calcium signaling pathway	6/240	1.915380e-01	8.217679e-01	0	0	1.577735e+00	2.607473e+00	RYR1;CYSLTR1;P2RX1;PTAFR;ITPR2;MCU
+GO_Biological_Process_2021	Cysteine and methionine metabolism	2/50	1.923280e-01	8.217679e-01	0	0	2.555990e+00	4.213684e+00	AHCYL2;GCLC
+GO_Biological_Process_2021	Spinocerebellar ataxia	4/143	1.994330e-01	8.217679e-01	0	0	1.768155e+00	2.850756e+00	RYR1;ITPR2;MCU;MAP3K5
+GO_Biological_Process_2021	Choline metabolism in cancer	3/98	2.097500e-01	8.217679e-01	0	0	1.938591e+00	3.027767e+00	PLA2G4C;KRAS;WASF2
+GO_Biological_Process_2021	mRNA surveillance pathway	3/98	2.097500e-01	8.217679e-01	0	0	1.938591e+00	3.027767e+00	CPSF4;PABPC1L;WDR33
+GO_Biological_Process_2021	Pathogenic Escherichia coli infection	5/197	2.124217e-01	8.217679e-01	0	0	1.600782e+00	2.479903e+00	MYO1D;CASP7;WIPF3;MYH9;WASF2
+GO_Biological_Process_2021	Cell adhesion molecules	4/148	2.161433e-01	8.217679e-01	0	0	1.706324e+00	2.613771e+00	NLGN4Y;SELPLG;PTPRM;CD276
+GO_Biological_Process_2021	Glutathione metabolism	2/57	2.336929e-01	8.217679e-01	0	0	2.229886e+00	3.241692e+00	HPGDS;GCLC
+GO_Biological_Process_2021	C-type lectin receptor signaling pathway	3/104	2.350936e-01	8.217679e-01	0	0	1.822868e+00	2.639097e+00	NFATC3;ITPR2;KRAS
+GO_Biological_Process_2021	NF-kappa B signaling pathway	3/104	2.350936e-01	8.217679e-01	0	0	1.822868e+00	2.639097e+00	TICAM1;EDA2R;BCL2L1
+GO_Biological_Process_2021	Toll-like receptor signaling pathway	3/104	2.350936e-01	8.217679e-01	0	0	1.822868e+00	2.639097e+00	IRF5;TLR7;TICAM1
+GO_Biological_Process_2021	Endometrial cancer	2/58	2.396541e-01	8.217679e-01	0	0	2.189955e+00	3.128479e+00	KRAS;DDB2
+GO_Biological_Process_2021	Nitrogen metabolism	1/17	2.412159e-01	8.217679e-01	0	0	3.828271e+00	5.444043e+00	CA8
+GO_Biological_Process_2021	Cellular senescence	4/156	2.436196e-01	8.217679e-01	0	0	1.615856e+00	2.281826e+00	NFATC3;ITPR2;KRAS;MCU
+GO_Biological_Process_2021	Notch signaling pathway	2/59	2.456226e-01	8.217679e-01	0	0	2.151425e+00	3.020513e+00	MAML2;CTBP2
+GO_Biological_Process_2021	VEGF signaling pathway	2/59	2.456226e-01	8.217679e-01	0	0	2.151425e+00	3.020513e+00	PLA2G4C;KRAS
+GO_Biological_Process_2021	Human immunodeficiency virus 1 infection	5/212	2.567726e-01	8.217679e-01	0	0	1.483640e+00	2.017105e+00	NFATC3;ITPR2;KRAS;CRK;BCL2L1
+GO_Biological_Process_2021	Arachidonic acid metabolism	2/61	2.575744e-01	8.217679e-01	0	0	2.078284e+00	2.819082e+00	HPGDS;PLA2G4C
+GO_Biological_Process_2021	Hepatitis B	4/162	2.647160e-01	8.217679e-01	0	0	1.554016e+00	2.065440e+00	NFATC3;KRAS;TICAM1;DDB2
+GO_Biological_Process_2021	Glycosaminoglycan degradation	1/19	2.654730e-01	8.217679e-01	0	0	3.402561e+00	4.512620e+00	HPSE
+GO_Biological_Process_2021	Serotonergic synapse	3/113	2.739984e-01	8.217679e-01	0	0	1.672955e+00	2.165863e+00	PLA2G4C;ITPR2;KRAS
+GO_Biological_Process_2021	Steroid biosynthesis	1/20	2.773102e-01	8.217679e-01	0	0	3.223315e+00	4.134284e+00	SC5D
+GO_Biological_Process_2021	Hepatocellular carcinoma	4/168	2.861358e-01	8.217679e-01	0	0	1.496702e+00	1.872806e+00	TGFA;KRAS;BCL2L1;DDB2
+GO_Biological_Process_2021	Pantothenate and CoA biosynthesis	1/21	2.889571e-01	8.217679e-01	0	0	3.061994e+00	3.801395e+00	PANK1
+GO_Biological_Process_2021	Tight junction	4/169	2.897313e-01	8.217679e-01	0	0	1.487555e+00	1.842785e+00	RAP1A;NEDD4;MYH9;MAP3K5
+GO_Biological_Process_2021	Acute myeloid leukemia	2/67	2.934301e-01	8.217679e-01	0	0	1.885865e+00	2.312289e+00	CSF1R;KRAS
+GO_Biological_Process_2021	Glycolysis / Gluconeogenesis	2/67	2.934301e-01	8.217679e-01	0	0	1.885865e+00	2.312289e+00	PGM2;PFKP
+GO_Biological_Process_2021	Fc epsilon RI signaling pathway	2/68	2.993904e-01	8.217679e-01	0	0	1.857197e+00	2.239792e+00	PLA2G4C;KRAS
+GO_Biological_Process_2021	Mitophagy	2/68	2.993904e-01	8.217679e-01	0	0	1.857197e+00	2.239792e+00	KRAS;BCL2L1
+GO_Biological_Process_2021	Growth hormone synthesis, secretion and action	3/119	3.002994e-01	8.217679e-01	0	0	1.585937e+00	1.907843e+00	ITPR2;KRAS;CRK
+GO_Biological_Process_2021	Sphingolipid signaling pathway	3/119	3.002994e-01	8.217679e-01	0	0	1.585937e+00	1.907843e+00	ACER2;KRAS;MAP3K5
+GO_Biological_Process_2021	Influenza A	4/172	3.005540e-01	8.217679e-01	0	0	1.460767e+00	1.756028e+00	CPSF4;RNASEL;TLR7;TICAM1
+GO_Biological_Process_2021	Central carbon metabolism in cancer	2/70	3.112852e-01	8.311802e-01	0	0	1.802390e+00	2.103471e+00	KRAS;PFKP
+GO_Biological_Process_2021	Mismatch repair	1/23	3.116926e-01	8.311802e-01	0	0	2.783347e+00	3.244654e+00	POLD3
+GO_Biological_Process_2021	Melanoma	2/72	3.231374e-01	8.511912e-01	0	0	1.750714e+00	1.977743e+00	KRAS;DDB2
+GO_Biological_Process_2021	alpha-Linolenic acid metabolism	1/25	3.337033e-01	8.684326e-01	0	0	2.551142e+00	2.799886e+00	PLA2G4C
+GO_Biological_Process_2021	Relaxin signaling pathway	3/129	3.443436e-01	8.718877e-01	0	0	1.459322e+00	1.555806e+00	ACTA2;KRAS;ARRB2
+GO_Biological_Process_2021	RNA transport	4/186	3.515181e-01	8.718877e-01	0	0	1.347432e+00	1.408732e+00	NUP188;NUP42;PABPC1L;PAIP1
+GO_Biological_Process_2021	Pathways in cancer	10/531	3.520910e-01	8.718877e-01	0	0	1.178515e+00	1.230212e+00	CSF1R;CASP7;RALB;CTBP2;NCOA4;TGFA;KRAS;CRK;DDB2;BCL2L1
+GO_Biological_Process_2021	Shigellosis	5/246	3.633276e-01	8.718877e-01	0	0	1.272105e+00	1.287943e+00	ITPR2;ITGA5;CRK;WASF2;BCL2L1
+GO_Biological_Process_2021	Chemokine signaling pathway	4/192	3.734321e-01	8.718877e-01	0	0	1.304028e+00	1.284492e+00	RAP1A;KRAS;ARRB2;CRK
+GO_Biological_Process_2021	Transcriptional misregulation in cancer	4/192	3.734321e-01	8.718877e-01	0	0	1.304028e+00	1.284492e+00	CSF1R;LYL1;BCL2L1;DDB2
+GO_Biological_Process_2021	Linoleic acid metabolism	1/29	3.756418e-01	8.718877e-01	0	0	2.186248e+00	2.140598e+00	PLA2G4C
+GO_Biological_Process_2021	B cell receptor signaling pathway	2/81	3.757072e-01	8.718877e-01	0	0	1.550554e+00	1.517907e+00	NFATC3;KRAS
+GO_Biological_Process_2021	Kaposi sarcoma-associated herpesvirus infection	4/193	3.770807e-01	8.718877e-01	0	0	1.297062e+00	1.265019e+00	NFATC3;ITPR2;KRAS;TICAM1
+GO_Biological_Process_2021	Autophagy	3/137	3.794326e-01	8.718877e-01	0	0	1.371637e+00	1.329224e+00	KRAS;BCL2L1;RAB33B
+GO_Biological_Process_2021	Estrogen signaling pathway	3/137	3.794326e-01	8.718877e-01	0	0	1.371637e+00	1.329224e+00	ITPR2;TGFA;KRAS
+GO_Biological_Process_2021	Base excision repair	1/33	4.149482e-01	8.739888e-01	0	0	1.912578e+00	1.682307e+00	POLD3
+GO_Biological_Process_2021	Fructose and mannose metabolism	1/33	4.149482e-01	8.739888e-01	0	0	1.912578e+00	1.682307e+00	PFKP
+GO_Biological_Process_2021	Gap junction	2/88	4.154191e-01	8.739888e-01	0	0	1.423837e+00	1.250794e+00	ITPR2;KRAS
+GO_Biological_Process_2021	Proteoglycans in cancer	4/205	4.206330e-01	8.739888e-01	0	0	1.218874e+00	1.055538e+00	ITPR2;KRAS;HPSE;ITGA5
+GO_Biological_Process_2021	Phospholipase D signaling pathway	3/148	4.269617e-01	8.739888e-01	0	0	1.266868e+00	1.078182e+00	RALB;PLA2G4C;KRAS
+GO_Biological_Process_2021	Small cell lung cancer	2/92	4.375404e-01	8.739888e-01	0	0	1.360278e+00	1.124387e+00	DDB2;BCL2L1
+GO_Biological_Process_2021	Th1 and Th2 cell differentiation	2/92	4.375404e-01	8.739888e-01	0	0	1.360278e+00	1.124387e+00	MAML2;NFATC3
+GO_Biological_Process_2021	DNA replication	1/36	4.428002e-01	8.739888e-01	0	0	1.748376e+00	1.424291e+00	POLD3
+GO_Biological_Process_2021	Starch and sucrose metabolism	1/36	4.428002e-01	8.739888e-01	0	0	1.748376e+00	1.424291e+00	PGM2
+GO_Biological_Process_2021	Aldosterone-regulated sodium reabsorption	1/37	4.517873e-01	8.739888e-01	0	0	1.699723e+00	1.350504e+00	KRAS
+GO_Biological_Process_2021	mTOR signaling pathway	3/154	4.523568e-01	8.739888e-01	0	0	1.216156e+00	9.647568e-01	RPS6KA6;SESN2;KRAS
+GO_Biological_Process_2021	Staphylococcus aureus infection	2/95	4.538302e-01	8.739888e-01	0	0	1.316196e+00	1.039837e+00	SELPLG;PTAFR
+GO_Biological_Process_2021	Prostate cancer	2/97	4.645394e-01	8.739888e-01	0	0	1.288355e+00	9.877936e-01	TGFA;KRAS
+GO_Biological_Process_2021	Hepatitis C	3/157	4.648815e-01	8.739888e-01	0	0	1.192281e+00	9.132547e-01	RNASEL;KRAS;TICAM1
+GO_Biological_Process_2021	Inflammatory mediator regulation of TRP channels	2/98	4.698475e-01	8.739888e-01	0	0	1.274870e+00	9.629693e-01	PLA2G4C;ITPR2
+GO_Biological_Process_2021	Human T-cell leukemia virus 1 infection	4/219	4.704695e-01	8.739888e-01	0	0	1.138687e+00	8.585973e-01	NRP1;NFATC3;KRAS;BCL2L1
+GO_Biological_Process_2021	Hematopoietic cell lineage	2/99	4.751241e-01	8.739888e-01	0	0	1.261662e+00	9.389030e-01	CSF1R;ITGA5
+GO_Biological_Process_2021	Progesterone-mediated oocyte maturation	2/100	4.803688e-01	8.739888e-01	0	0	1.248724e+00	9.155662e-01	RPS6KA6;KRAS
+GO_Biological_Process_2021	Bladder cancer	1/41	4.863135e-01	8.739888e-01	0	0	1.529439e+00	1.102576e+00	KRAS
+GO_Biological_Process_2021	Homologous recombination	1/41	4.863135e-01	8.739888e-01	0	0	1.529439e+00	1.102576e+00	POLD3
+GO_Biological_Process_2021	Longevity regulating pathway	2/102	4.907613e-01	8.739888e-01	0	0	1.223625e+00	8.709731e-01	SESN2;KRAS
+GO_Biological_Process_2021	Pancreatic secretion	2/102	4.907613e-01	8.739888e-01	0	0	1.223625e+00	8.709731e-01	RAP1A;ITPR2
+GO_Biological_Process_2021	Human cytomegalovirus infection	4/225	4.913555e-01	8.739888e-01	0	0	1.107430e+00	7.869261e-01	NFATC3;ITPR2;KRAS;CRK
+GO_Biological_Process_2021	Protein digestion and absorption	2/103	4.959085e-01	8.739888e-01	0	0	1.211448e+00	8.496659e-01	SLC7A8;MEP1A
+GO_Biological_Process_2021	Pathways of neurodegeneration	8/475	4.987202e-01	8.739888e-01	0	0	1.048078e+00	7.291581e-01	RYR1;CASP7;MAP3K10;ITPR2;KRAS;MCU;MAP3K5;BCL2L1
+GO_Biological_Process_2021	T cell receptor signaling pathway	2/104	5.010225e-01	8.739888e-01	0	0	1.199510e+00	8.289864e-01	NFATC3;KRAS
+GO_Biological_Process_2021	Wnt signaling pathway	3/166	5.016661e-01	8.739888e-01	0	0	1.125930e+00	7.766898e-01	ZNRF3;CTBP2;NFATC3
+GO_Biological_Process_2021	Fatty acid degradation	1/43	5.027548e-01	8.739888e-01	0	0	1.456460e+00	1.001539e+00	ECI1
+GO_Biological_Process_2021	cGMP-PKG signaling pathway	3/167	5.056744e-01	8.739888e-01	0	0	1.119008e+00	7.630091e-01	NPR2;NFATC3;ITPR2
+GO_Biological_Process_2021	Vasopressin-regulated water reabsorption	1/44	5.107777e-01	8.739888e-01	0	0	1.422517e+00	9.556764e-01	RAB5B
+GO_Biological_Process_2021	Parathyroid hormone synthesis, secretion and action	2/106	5.111501e-01	8.739888e-01	0	0	1.176322e+00	7.894205e-01	ITPR2;ARRB2
+GO_Biological_Process_2021	Glucagon signaling pathway	2/107	5.161631e-01	8.739888e-01	0	0	1.165060e+00	7.704916e-01	ITPR2;PFKP
+GO_Biological_Process_2021	Glycosphingolipid biosynthesis	1/45	5.186715e-01	8.739888e-01	0	0	1.390116e+00	9.125897e-01	ST6GALNAC3
+GO_Biological_Process_2021	Other types of O-glycan biosynthesis	1/47	5.340803e-01	8.739888e-01	0	0	1.329541e+00	8.339002e-01	GALNT1
+GO_Biological_Process_2021	Pyruvate metabolism	1/47	5.340803e-01	8.739888e-01	0	0	1.329541e+00	8.339002e-01	ME3
+GO_Biological_Process_2021	Chemical carcinogenesis	4/239	5.386790e-01	8.739888e-01	0	0	1.040707e+00	6.438179e-01	RPS6KA6;HPGDS;KRAS;ARRB2
+GO_Biological_Process_2021	TNF signaling pathway	2/112	5.407130e-01	8.739888e-01	0	0	1.111818e+00	6.836199e-01	CASP7;MAP3K5
+GO_Biological_Process_2021	Cholinergic synapse	2/113	5.455187e-01	8.739888e-01	0	0	1.101745e+00	6.676778e-01	ITPR2;KRAS
+GO_Biological_Process_2021	Alzheimer disease	6/369	5.474285e-01	8.739888e-01	0	0	1.010304e+00	6.087320e-01	CASP7;ITPR2;KRAS;IDE;MCU;MAP3K5
+GO_Biological_Process_2021	Ether lipid metabolism	1/49	5.489972e-01	8.739888e-01	0	0	1.274013e+00	7.639774e-01	PLA2G4C
+GO_Biological_Process_2021	Sphingolipid metabolism	1/49	5.489972e-01	8.739888e-01	0	0	1.274013e+00	7.639774e-01	ACER2
+GO_Biological_Process_2021	Glutamatergic synapse	2/114	5.502892e-01	8.739888e-01	0	0	1.091853e+00	6.521759e-01	PLA2G4C;ITPR2
+GO_Biological_Process_2021	Malaria	1/50	5.562762e-01	8.770486e-01	0	0	1.247950e+00	7.319105e-01	GYPC
+GO_Biological_Process_2021	Ovarian steroidogenesis	1/51	5.634380e-01	8.811030e-01	0	0	1.222928e+00	7.015915e-01	PLA2G4C
+GO_Biological_Process_2021	Parkinson disease	4/249	5.710852e-01	8.811030e-01	0	0	9.977153e-01	5.589369e-01	ITPR2;MCU;MAP3K5;BCL2L1
+GO_Biological_Process_2021	Salmonella infection	4/249	5.710852e-01	8.811030e-01	0	0	9.977153e-01	5.589369e-01	RAB5B;CASP7;PLEKHM2;PIK3C2B
+GO_Biological_Process_2021	Glycosaminoglycan biosynthesis	1/53	5.774178e-01	8.845549e-01	0	0	1.175773e+00	6.457217e-01	B4GALT7
+GO_Biological_Process_2021	Thyroid hormone signaling pathway	2/121	5.826917e-01	8.863479e-01	0	0	1.027258e+00	5.548193e-01	KRAS;PFKP
+GO_Biological_Process_2021	Legionellosis	1/57	6.040526e-01	9.124152e-01	0	0	1.091567e+00	5.502521e-01	CASP7
+GO_Biological_Process_2021	Osteoclast differentiation	2/127	6.090741e-01	9.136111e-01	0	0	9.776500e-01	4.847339e-01	CSF1R;SIRPA
+GO_Biological_Process_2021	Lysosome	2/128	6.133460e-01	9.136741e-01	0	0	9.698413e-01	4.740837e-01	AP4E1;CTSC
+GO_Biological_Process_2021	Oocyte meiosis	2/129	6.175823e-01	9.136834e-01	0	0	9.621555e-01	4.637041e-01	RPS6KA6;ITPR2
+GO_Biological_Process_2021	Dopaminergic synapse	2/132	6.300773e-01	9.157137e-01	0	0	9.398077e-01	4.341092e-01	ITPR2;ARRB2
+GO_Biological_Process_2021	Focal adhesion	3/201	6.309218e-01	9.157137e-01	0	0	9.252399e-01	4.261408e-01	RAP1A;ITGA5;CRK
+GO_Biological_Process_2021	Basal cell carcinoma	1/63	6.408994e-01	9.157137e-01	0	0	9.856296e-01	4.384896e-01	DDB2
+GO_Biological_Process_2021	Insulin signaling pathway	2/137	6.501935e-01	9.157137e-01	0	0	9.047685e-01	3.894895e-01	KRAS;CRK
+GO_Biological_Process_2021	Cortisol synthesis and secretion	1/65	6.524056e-01	9.157137e-01	0	0	9.547313e-01	4.077551e-01	ITPR2
+GO_Biological_Process_2021	Measles	2/139	6.579938e-01	9.157137e-01	0	0	8.914690e-01	3.731331e-01	TLR7;BCL2L1
+GO_Biological_Process_2021	Aminoacyl-tRNA biosynthesis	1/66	6.580201e-01	9.157137e-01	0	0	9.399952e-01	3.934067e-01	CARS2
+GO_Biological_Process_2021	Signaling pathways regulating pluripotency of stem cells	2/143	6.731767e-01	9.157137e-01	0	0	8.660018e-01	3.427179e-01	KRAS;SKIL
+GO_Biological_Process_2021	Renin secretion	1/69	6.743269e-01	9.157137e-01	0	0	8.983874e-01	3.540009e-01	ITPR2
+GO_Biological_Process_2021	PI3K-Akt signaling pathway	5/354	6.769540e-01	9.157137e-01	0	0	8.735639e-01	3.408227e-01	CSF1R;TGFA;KRAS;ITGA5;BCL2L1
+GO_Biological_Process_2021	Prolactin signaling pathway	1/70	6.795883e-01	9.157137e-01	0	0	8.853221e-01	3.419717e-01	KRAS
+GO_Biological_Process_2021	Breast cancer	2/147	6.878095e-01	9.157137e-01	0	0	8.419397e-01	3.150903e-01	KRAS;DDB2
+GO_Biological_Process_2021	Gastric cancer	2/149	6.949223e-01	9.157137e-01	0	0	8.303997e-01	3.022283e-01	KRAS;DDB2
+GO_Biological_Process_2021	PPAR signaling pathway	1/74	6.998003e-01	9.157137e-01	0	0	8.366406e-01	2.986475e-01	ME3
+GO_Biological_Process_2021	Thyroid hormone synthesis	1/75	7.046514e-01	9.157137e-01	0	0	8.252926e-01	2.888954e-01	ITPR2
+GO_Biological_Process_2021	Phagosome	2/152	7.053405e-01	9.157137e-01	0	0	8.136667e-01	2.840303e-01	RAB5B;ITGA5
+GO_Biological_Process_2021	Gastric acid secretion	1/76	7.094244e-01	9.157137e-01	0	0	8.142471e-01	2.795321e-01	ITPR2
+GO_Biological_Process_2021	Metabolism of xenobiotics by cytochrome P450	1/76	7.094244e-01	9.157137e-01	0	0	8.142471e-01	2.795321e-01	HPGDS
+GO_Biological_Process_2021	Arrhythmogenic right ventricular cardiomyopathy	1/77	7.141205e-01	9.157137e-01	0	0	8.034924e-01	2.705388e-01	ITGA5
+GO_Biological_Process_2021	Cushing syndrome	2/155	7.154614e-01	9.157137e-01	0	0	7.975899e-01	2.670552e-01	RAP1A;ITPR2
+GO_Biological_Process_2021	Non-alcoholic fatty liver disease	2/155	7.154614e-01	9.157137e-01	0	0	7.975899e-01	2.670552e-01	CASP7;MAP3K5
+GO_Biological_Process_2021	Antigen processing and presentation	1/78	7.187409e-01	9.157137e-01	0	0	7.930170e-01	2.618973e-01	NFYC
+GO_Biological_Process_2021	Thermogenesis	3/232	7.244953e-01	9.157137e-01	0	0	7.987160e-01	2.574102e-01	RPS6KA6;KRAS;MAP3K5
+GO_Biological_Process_2021	Necroptosis	2/159	7.285013e-01	9.157137e-01	0	0	7.771099e-01	2.461619e-01	PLA2G4C;TICAM1
+GO_Biological_Process_2021	Peroxisome	1/82	7.364900e-01	9.157137e-01	0	0	7.537018e-01	2.305269e-01	PEX13
+GO_Biological_Process_2021	MicroRNAs in cancer	4/310	7.381645e-01	9.157137e-01	0	0	7.963168e-01	2.417527e-01	KRAS;ITGA5;CRK;RECK
+GO_Biological_Process_2021	ECM-receptor interaction	1/88	7.610417e-01	9.157137e-01	0	0	7.015075e-01	1.915587e-01	ITGA5
+GO_Biological_Process_2021	Hypertrophic cardiomyopathy	1/90	7.687078e-01	9.157137e-01	0	0	6.856733e-01	1.803625e-01	ITGA5
+GO_Biological_Process_2021	Morphine addiction	1/91	7.724484e-01	9.157137e-01	0	0	6.780201e-01	1.750581e-01	ARRB2
+GO_Biological_Process_2021	Salivary secretion	1/93	7.797496e-01	9.157137e-01	0	0	6.632128e-01	1.649957e-01	ITPR2
+GO_Biological_Process_2021	Human papillomavirus infection	4/331	7.828436e-01	9.157137e-01	0	0	7.443694e-01	1.822382e-01	MAML2;KRAS;ITGA5;TICAM1
+GO_Biological_Process_2021	TGF-beta signaling pathway	1/94	7.833122e-01	9.157137e-01	0	0	6.560480e-01	1.602226e-01	SMURF1
+GO_Biological_Process_2021	Tuberculosis	2/180	7.889058e-01	9.157137e-01	0	0	6.846910e-01	1.623460e-01	RAB5B;NFYC
+GO_Biological_Process_2021	Dilated cardiomyopathy	1/96	7.902659e-01	9.157137e-01	0	0	6.421708e-01	1.511579e-01	ITGA5
+GO_Biological_Process_2021	Circadian entrainment	1/97	7.936589e-01	9.157137e-01	0	0	6.354491e-01	1.468532e-01	RYR1
+GO_Biological_Process_2021	Aldosterone synthesis and secretion	1/98	7.969972e-01	9.157137e-01	0	0	6.288660e-01	1.426923e-01	ITPR2
+GO_Biological_Process_2021	Glycerophospholipid metabolism	1/98	7.969972e-01	9.157137e-01	0	0	6.288660e-01	1.426923e-01	PLA2G4C
+GO_Biological_Process_2021	AGE-RAGE signaling pathway in diabetic complications	1/100	8.035130e-01	9.157137e-01	0	0	6.160987e-01	1.347789e-01	KRAS
+GO_Biological_Process_2021	Viral protein interaction with cytokine and cytokine receptor	1/100	8.035130e-01	9.157137e-01	0	0	6.160987e-01	1.347789e-01	CSF1R
+GO_Biological_Process_2021	Melanogenesis	1/101	8.066923e-01	9.157137e-01	0	0	6.099065e-01	1.310158e-01	KRAS
+GO_Biological_Process_2021	Amoebiasis	1/102	8.098204e-01	9.157137e-01	0	0	6.038370e-01	1.273751e-01	RAB5B
+GO_Biological_Process_2021	Chagas disease	1/102	8.098204e-01	9.157137e-01	0	0	6.038370e-01	1.273751e-01	TICAM1
+GO_Biological_Process_2021	Neutrophil extracellular trap formation	2/189	8.109637e-01	9.157137e-01	0	0	6.514372e-01	1.364969e-01	SELPLG;TLR7
+GO_Biological_Process_2021	Prion disease	3/273	8.185546e-01	9.157137e-01	0	0	6.760014e-01	1.353457e-01	RYR1;ITPR2;MCU
+GO_Biological_Process_2021	Th17 cell differentiation	1/107	8.247196e-01	9.157137e-01	0	0	5.752072e-01	1.108492e-01	NFATC3
+GO_Biological_Process_2021	Drug metabolism	1/108	8.275567e-01	9.157137e-01	0	0	5.698023e-01	1.078508e-01	HPGDS
+GO_Biological_Process_2021	Insulin resistance	1/108	8.275567e-01	9.157137e-01	0	0	5.698023e-01	1.078508e-01	RPS6KA6
+GO_Biological_Process_2021	HIF-1 signaling pathway	1/109	8.303481e-01	9.157137e-01	0	0	5.644975e-01	1.049459e-01	PFKP
+GO_Biological_Process_2021	Toxoplasmosis	1/112	8.384549e-01	9.157137e-01	0	0	5.491566e-01	9.675838e-02	BCL2L1
+GO_Biological_Process_2021	Epstein-Barr virus infection	2/202	8.392029e-01	9.157137e-01	0	0	6.086875e-01	1.067046e-01	NEDD4;DDB2
+GO_Biological_Process_2021	Amyotrophic lateral sclerosis	4/364	8.405999e-01	9.157137e-01	0	0	6.749825e-01	1.172036e-01	NUP188;MCU;MAP3K5;BCL2L1
+GO_Biological_Process_2021	Viral carcinogenesis	2/203	8.412092e-01	9.157137e-01	0	0	6.056281e-01	1.047221e-01	GSN;KRAS
+GO_Biological_Process_2021	Leukocyte transendothelial migration	1/114	8.436437e-01	9.157137e-01	0	0	5.393819e-01	9.170845e-02	RAP1A
+GO_Biological_Process_2021	AMPK signaling pathway	1/120	8.582341e-01	9.268928e-01	0	0	5.120291e-01	7.827820e-02	PFKP
+GO_Biological_Process_2021	cAMP signaling pathway	2/216	8.653038e-01	9.273016e-01	0	0	5.684579e-01	8.224145e-02	RAP1A;ARAP3
+GO_Biological_Process_2021	Cell cycle	1/124	8.671987e-01	9.273016e-01	0	0	4.952764e-01	7.057054e-02	CDC14B
+GO_Biological_Process_2021	Huntington disease	3/306	8.730716e-01	9.288507e-01	0	0	6.013532e-01	8.162630e-02	MAP3K10;NRF1;MAP3K5
+GO_Biological_Process_2021	FoxO signaling pathway	1/131	8.815481e-01	9.288507e-01	0	0	4.684400e-01	5.905888e-02	KRAS
+GO_Biological_Process_2021	Natural killer cell mediated cytotoxicity	1/131	8.815481e-01	9.288507e-01	0	0	4.684400e-01	5.905888e-02	KRAS
+GO_Biological_Process_2021	Coronavirus disease	2/232	8.903506e-01	9.335715e-01	0	0	5.284783e-01	6.137743e-02	NRP1;TLR7
+GO_Biological_Process_2021	Fluid shear stress and atherosclerosis	1/139	8.960641e-01	9.350234e-01	0	0	4.411034e-01	4.840816e-02	MAP3K5
+GO_Biological_Process_2021	Retrograde endocannabinoid signaling	1/148	9.102850e-01	9.407270e-01	0	0	4.139064e-01	3.890616e-02	ITPR2
+GO_Biological_Process_2021	Spliceosome	1/150	9.131718e-01	9.407270e-01	0	0	4.083088e-01	3.708719e-02	RP9
+GO_Biological_Process_2021	Neuroactive ligand-receptor interaction	3/341	9.145957e-01	9.407270e-01	0	0	5.381091e-01	4.803868e-02	CYSLTR1;P2RX1;PTAFR
+GO_Biological_Process_2021	JAK-STAT signaling pathway	1/162	9.286480e-01	9.506539e-01	0	0	3.776436e-01	2.795526e-02	BCL2L1
+GO_Biological_Process_2021	Protein processing in endoplasmic reticulum	1/171	9.384212e-01	9.561272e-01	0	0	3.574858e-01	2.272052e-02	MAP3K5
+GO_Biological_Process_2021	Alcoholism	1/186	9.518338e-01	9.614922e-01	0	0	3.282479e-01	1.620392e-02	KRAS
+GO_Biological_Process_2021	Cytokine-cytokine receptor interaction	2/295	9.525895e-01	9.614922e-01	0	0	4.135026e-01	2.008430e-02	CSF1R;EDA2R
+GO_Biological_Process_2021	Diabetic cardiomyopathy	1/203	9.635471e-01	9.680287e-01	0	0	3.003609e-01	1.115357e-02	MPC1
+GO_Biological_Process_2021	Olfactory transduction	1/440	9.992667e-01	9.992667e-01	0	0	1.365252e-01	1.001552e-04	ARRB2
