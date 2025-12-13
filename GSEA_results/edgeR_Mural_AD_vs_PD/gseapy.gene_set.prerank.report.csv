@@ -28,8 +28,8 @@ prerank,GO_Biological_Process_2021__skeletal muscle tissue development (GO:00075
 prerank,GO_Biological_Process_2021__regulation by virus of viral protein levels in host cell (GO:0046719),0.9834067290913021,1.5948279072770752,0.0,0.7060795887347263,0.44,1/5,0.85%,TBC1D20
 prerank,GO_Biological_Process_2021__regulation of ion transport (GO:0043269),0.8399516718702436,1.5896422480948698,0.0,0.41860432760701627,0.5,7/23,6.42%,STC1;NKAIN3;SYT1;NEDD4L;SPTBN4;ANK3;SNX6
 prerank,PanglaoDB_Augmented_2021__Hepatic Stellate Cells,-0.4953628382297824,-1.583450194259978,0.0,0.6218451785594459,1.0,20/76,8.47%,TAGLN;TPM2;PRRX1;DKK3;ACTA2;SLIT3;LMOD1;COL14A1;KCNJ8;PDZRN3;MYL9;COL5A2;IGFBP7;PAMR1;LAMB2;PTPN21;CXCL12;COL1A2;EDNRA;SPARC
-prerank,GO_Biological_Process_2021__negative regulation of focal adhesion assembly (GO:0051895),-0.6920393550304775,-1.5607079498227812,0.0625,0.7163000236617928,1.0,4/11,15.80%,PHLDB2;CORO1C;PTEN;THBS1
 prerank,GO_Biological_Process_2021__negative regulation of cell-substrate junction organization (GO:0150118),-0.6920393550304775,-1.5607079498227812,0.0625,0.7163000236617928,1.0,4/11,15.80%,PHLDB2;CORO1C;PTEN;THBS1
+prerank,GO_Biological_Process_2021__negative regulation of focal adhesion assembly (GO:0051895),-0.6920393550304775,-1.5607079498227812,0.0625,0.7163000236617928,1.0,4/11,15.80%,PHLDB2;CORO1C;PTEN;THBS1
 prerank,PanglaoDB_Augmented_2021__Trophoblast Stem Cells,0.9143768104547341,1.560377686351156,0.0,0.6354716298612536,0.79,1/12,0.20%,WWC1
 prerank,"GO_Biological_Process_2021__regulation of alternative mRNA splicing, via spliceosome (GO:0000381)",0.8001607589067092,1.5508781164977492,0.0,0.6152979273259758,0.88,2/30,0.60%,SRSF12;HNRNPL
 prerank,GO_Biological_Process_2021__positive regulation of response to endoplasmic reticulum stress (GO:1905898),-0.9412786817760266,-1.5454048618904692,0.0,0.7978620102619703,1.0,2/6,5.47%,BCL2L11;NCK1
@@ -51,8 +51,8 @@ prerank,GO_Biological_Process_2021__regulation of smooth muscle cell migration (
 prerank,"GO_Biological_Process_2021__negative regulation of mRNA splicing, via spliceosome (GO:0048025)",0.9100811179714254,1.5025220650496431,0.0,1.0,1.0,1/9,0.16%,SRSF12
 prerank,GO_Biological_Process_2021__negative regulation of epithelial cell migration (GO:0010633),0.8388261338856744,1.4992445126939127,0.0,1.0,1.0,3/15,1.44%,STC1;ADAMTS9;MCC
 prerank,GO_Biological_Process_2021__negative regulation of mRNA processing (GO:0050686),0.9100581863568189,1.4969805187753091,0.0,1.0,1.0,1/10,0.16%,SRSF12
-prerank,GO_Biological_Process_2021__peptidyl-S-diacylglycerol-L-cysteine biosynthetic process from peptidyl-cysteine (GO:0018231),-0.8043293768789086,-1.4961303074991865,0.038461538461538464,0.8241047794809011,1.0,3/7,7.23%,ZDHHC15;ZDHHC21;ZDHHC3
 prerank,GO_Biological_Process_2021__peptidyl-L-cysteine S-palmitoylation (GO:0018230),-0.8043293768789086,-1.4961303074991865,0.038461538461538464,0.8241047794809011,1.0,3/7,7.23%,ZDHHC15;ZDHHC21;ZDHHC3
+prerank,GO_Biological_Process_2021__peptidyl-S-diacylglycerol-L-cysteine biosynthetic process from peptidyl-cysteine (GO:0018231),-0.8043293768789086,-1.4961303074991865,0.038461538461538464,0.8241047794809011,1.0,3/7,7.23%,ZDHHC15;ZDHHC21;ZDHHC3
 prerank,GO_Biological_Process_2021__bile acid metabolic process (GO:0008206),-0.7372289069869462,-1.4960906863421137,0.09523809523809523,0.805791339936881,1.0,2/12,3.75%,OSBPL6;CYP27A1
 prerank,GO_Biological_Process_2021__negative regulation of cellular response to vascular endothelial growth factor stimulus (GO:1902548),-0.8212632185449371,-1.4936332450845677,0.06060606060606061,0.8042073375341375,1.0,3/6,13.77%,ATP2B4;DAB2IP;ADAMTS12
 prerank,GO_Biological_Process_2021__cytosolic calcium ion transport (GO:0060401),-0.7215697705729542,-1.492093858777868,0.08333333333333333,0.7957143884811291,1.0,4/12,12.03%,JPH2;RYR2;AFG3L2;MCU
@@ -69,8 +69,8 @@ prerank,GO_Biological_Process_2021__negative regulation of collateral sprouting 
 prerank,GO_Biological_Process_2021__transcription preinitiation complex assembly (GO:0070897),0.9864118672802099,1.4693398528866666,0.0,1.0,1.0,2/5,1.07%,TAF7;TAF1B
 prerank,GO_Biological_Process_2021__regulation of microtubule depolymerization (GO:0031114),-0.5995926514088048,-1.4677363877972707,0.1,0.8636746223090859,1.0,1/13,0.48%,FGF13
 prerank,GO_Biological_Process_2021__induction of positive chemotaxis (GO:0050930),-0.8114779497821353,-1.4669510584562777,0.09375,0.8513819529326074,1.0,3/5,8.59%,PGF;CXCL12;NTF3
-prerank,GO_Biological_Process_2021__regulation of dendrite extension (GO:1903859),0.9376462312906149,1.4654024178064669,0.0,1.0,1.0,4/8,3.97%,SYT1;PLAA;NEDD4L;RIMS2
 prerank,GO_Biological_Process_2021__positive regulation of dendrite extension (GO:1903861),0.9376462312906149,1.4654024178064669,0.0,1.0,1.0,4/8,3.97%,SYT1;PLAA;NEDD4L;RIMS2
+prerank,GO_Biological_Process_2021__regulation of dendrite extension (GO:1903859),0.9376462312906149,1.4654024178064669,0.0,1.0,1.0,4/8,3.97%,SYT1;PLAA;NEDD4L;RIMS2
 prerank,GO_Biological_Process_2021__RNA secondary structure unwinding (GO:0010501),0.9469016453811465,1.4600667439585215,0.0,1.0,1.0,2/6,4.64%,DDX3X;AGO2
 prerank,GO_Biological_Process_2021__positive regulation of autophagosome assembly (GO:2000786),-0.8168276420126905,-1.4595453707411195,0.10714285714285714,0.8800841585126219,1.0,1/6,4.13%,PIP4K2B
 prerank,GO_Biological_Process_2021__positive regulation of actin cytoskeleton reorganization (GO:2000251),-0.753352694368525,-1.4594325333957636,0.16666666666666666,0.864783994127618,1.0,4/7,10.75%,NRP1;BAIAP2L2;NTF3;CDC42
@@ -91,8 +91,8 @@ prerank,GO_Biological_Process_2021__aminoglycan catabolic process (GO:0006026),-
 prerank,GO_Biological_Process_2021__vascular associated smooth muscle contraction (GO:0014829),-0.8996644124637915,-1.4407717599320524,0.029411764705882353,0.8764772562236358,1.0,3/5,8.22%,EDN3;ACTA2;EDNRA
 prerank,GO_Biological_Process_2021__vasoconstriction (GO:0042310),-0.8996644124637915,-1.4407717599320524,0.029411764705882353,0.8764772562236358,1.0,3/5,8.22%,EDN3;ACTA2;EDNRA
 prerank,GO_Biological_Process_2021__regulation of membrane tubulation (GO:1903525),-0.8276046519260495,-1.4377517353267006,0.1724137931034483,0.8775839194259384,1.0,1/6,0.16%,ATP10A
-prerank,GO_Biological_Process_2021__regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:1902165),0.9300749063131573,1.437677482540806,0.0,1.0,1.0,2/5,2.62%,CD44;KDM1A
 prerank,GO_Biological_Process_2021__negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:1902166),0.9300749063131573,1.437677482540806,0.0,1.0,1.0,2/5,2.62%,CD44;KDM1A
+prerank,GO_Biological_Process_2021__regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:1902165),0.9300749063131573,1.437677482540806,0.0,1.0,1.0,2/5,2.62%,CD44;KDM1A
 prerank,GO_Biological_Process_2021__regulation of chromatin binding (GO:0035561),-0.8774381028640137,-1.4375967905009204,0.0,0.865031698705037,1.0,2/5,2.71%,PARP9;ZNF618
 prerank,GO_Biological_Process_2021__negative regulation of endothelial cell migration (GO:0010596),0.7665609080964741,1.4369616690293945,0.012048192771084338,1.0,1.0,2/20,0.48%,STC1;ADAMTS9
 prerank,GO_Biological_Process_2021__monocarboxylic acid biosynthetic process (GO:0072330),-0.6111199621066854,-1.4355544640498963,0.0,0.857994992653038,1.0,4/16,10.48%,OSBPL6;CYP27A1;PER2;ACACA
@@ -137,7 +137,7 @@ prerank,GO_Biological_Process_2021__negative regulation of protein catabolic pro
 prerank,GO_Biological_Process_2021__positive regulation of translational initiation (GO:0045948),0.78365368195534,1.3973293991250046,0.08571428571428572,1.0,1.0,4/10,11.68%,DDX3X;HABP4;CDC123;UHMK1
 prerank,GO_Biological_Process_2021__Rho protein signal transduction (GO:0007266),0.7205065803220901,1.39680427385491,0.03409090909090909,1.0,1.0,4/26,2.37%,RHOB;RIPOR1;CDC42EP4;RHOJ
 prerank,GO_Biological_Process_2021__membrane depolarization during cardiac muscle cell action potential (GO:0086012),-0.7816373347339712,-1.3965069431707449,0.1111111111111111,0.8883404425296374,1.0,5/8,20.87%,CACNA1D;HCN2;CACNB2;SLC8A1;ATP1A2
-prerank,GO_Biological_Process_2021__ribosomal large subunit biogenesis (GO:0042273),-0.5619034727007368,-1.395291065930579,0.07142857142857142,0.8834434309202275,1.0,4/18,12.31%,SDAD1;MRPL1;RPL6;RPL23A
+prerank,GO_Biological_Process_2021__ribosomal large subunit biogenesis (GO:0042273),-0.5619034727007369,-1.3952910659305793,0.07142857142857142,0.8834434309202275,1.0,4/18,12.31%,SDAD1;MRPL1;RPL6;RPL23A
 prerank,GO_Biological_Process_2021__regulation of defense response to virus (GO:0050688),0.8867919876021684,1.3952242722840686,0.02702702702702703,1.0,1.0,1/7,9.31%,TRAF3IP1
 prerank,GO_Biological_Process_2021__positive regulation of cold-induced thermogenesis (GO:0120162),0.7445740831225665,1.3950654868981154,0.010752688172043012,1.0,1.0,10/39,12.56%,LPIN1;GJA1;KDM1A;SCD;IL18;PPARGC1A;CEBPB;PRLR;KDM3A;ACADL
 prerank,GO_Biological_Process_2021__cell-cell junction organization (GO:0045216),0.7478338938445556,1.394665976551928,0.0,1.0,1.0,12/31,12.45%,CADM1;CDH18;CDH2;CSF1R;NECTIN2;PRKCI;CDH12;TGFB1;CTNND2;CADM2;CDH10;CDH20
@@ -193,9 +193,9 @@ prerank,GO_Biological_Process_2021__regulation of macrophage derived foam cell d
 prerank,GO_Biological_Process_2021__regulation of protein autophosphorylation (GO:0031952),0.7109555593810208,1.3715281074145724,0.08433734939759036,1.0,1.0,3/20,10.19%,DDX3X;ERRFI1;EPHA7
 prerank,PanglaoDB_Augmented_2021__Monocytes,0.7391895074772747,1.3714207519308517,0.047058823529411764,1.0,1.0,6/19,11.37%,CD44;CSF1R;ZFP36L2;TNFRSF1B;NFKBIZ;CEBPB
 prerank,GO_Biological_Process_2021__vasculature development (GO:0001944),0.9003812019608429,1.3710384367855144,0.04054054054054054,1.0,1.0,1/5,6.72%,ERRFI1
-prerank,GO_Biological_Process_2021__negative regulation of protein exit from endoplasmic reticulum (GO:0070862),0.90809743881149,1.3708072921548808,0.03896103896103896,1.0,1.0,3/6,5.54%,OS9;UBAC2;UBE2J1
-prerank,"GO_Biological_Process_2021__negative regulation of retrograde protein transport, ER to cytosol (GO:1904153)",0.90809743881149,1.3708072921548808,0.03896103896103896,1.0,1.0,3/6,5.54%,OS9;UBAC2;UBE2J1
 prerank,"GO_Biological_Process_2021__regulation of retrograde protein transport, ER to cytosol (GO:1904152)",0.90809743881149,1.3708072921548808,0.03896103896103896,1.0,1.0,3/6,5.54%,OS9;UBAC2;UBE2J1
+prerank,"GO_Biological_Process_2021__negative regulation of retrograde protein transport, ER to cytosol (GO:1904153)",0.90809743881149,1.3708072921548808,0.03896103896103896,1.0,1.0,3/6,5.54%,OS9;UBAC2;UBE2J1
+prerank,GO_Biological_Process_2021__negative regulation of protein exit from endoplasmic reticulum (GO:0070862),0.90809743881149,1.3708072921548808,0.03896103896103896,1.0,1.0,3/6,5.54%,OS9;UBAC2;UBE2J1
 prerank,GO_Biological_Process_2021__negative regulation of peptidyl-lysine acetylation (GO:2000757),0.978083137279532,1.3704874769948276,0.0,1.0,1.0,2/5,0.99%,TAF7;KLF15
 prerank,GO_Biological_Process_2021__regulation of small molecule metabolic process (GO:0062012),0.8006426949453618,1.3704300488840726,0.05263157894736842,1.0,1.0,7/16,14.53%,PANK2;PDK1;ACADVL;PPARA;PDK3;ACADL;PDK4
 prerank,GO_Biological_Process_2021__phosphatidylinositol phosphate biosynthetic process (GO:0046854),-0.6069709251349023,-1.369652831752163,0.10526315789473684,0.895478487746345,1.0,2/19,4.13%,TTC7A;PIP4K2B
@@ -227,8 +227,8 @@ prerank,GO_Biological_Process_2021__positive regulation of protein deacetylation
 prerank,GO_Biological_Process_2021__myoblast differentiation (GO:0045445),0.828521447026596,1.3542886508223788,0.05128205128205128,1.0,1.0,1/9,2.19%,NRG1
 prerank,GO_Biological_Process_2021__negative regulation of neuron death (GO:1901215),0.7052300798887995,1.3531262912058888,0.010869565217391304,1.0,1.0,12/35,16.24%,SOD1;CSF1;SNX6;TNFRSF1B;NAIP;PRKCI;SOD2;PPARGC1A;PTPRZ1;LRRK2;UNC5B;CPEB4
 prerank,GO_Biological_Process_2021__negative regulation of biomineral tissue development (GO:0070168),0.8198563770685146,1.3523550542160656,0.1267605633802817,1.0,1.0,3/9,12.44%,SRGN;TGFB1;ROCK2
-prerank,GO_Biological_Process_2021__ethanol metabolic process (GO:0006067),-0.7516066485121911,-1.352147867519375,0.17391304347826086,0.910094392027307,1.0,2/6,10.56%,ALDH1A1;ADH5
 prerank,GO_Biological_Process_2021__ethanol oxidation (GO:0006069),-0.7516066485121911,-1.352147867519375,0.17391304347826086,0.910094392027307,1.0,2/6,10.56%,ALDH1A1;ADH5
+prerank,GO_Biological_Process_2021__ethanol metabolic process (GO:0006067),-0.7516066485121911,-1.352147867519375,0.17391304347826086,0.910094392027307,1.0,2/6,10.56%,ALDH1A1;ADH5
 prerank,GO_Biological_Process_2021__myelination in peripheral nervous system (GO:0022011),0.8904686357595546,1.3521206285334093,0.058823529411764705,1.0,1.0,1/6,0.42%,SOD1
 prerank,GO_Biological_Process_2021__regulation of glucose transmembrane transport (GO:0010827),0.890416643020678,1.3494162687329085,0.01282051282051282,1.0,1.0,3/7,7.58%,NR4A3;PRKCB;SLC2A1
 prerank,"GO_Biological_Process_2021__negative regulation of DNA-templated transcription, elongation (GO:0032785)",0.7898136442398858,1.3486324498023672,0.07894736842105263,1.0,1.0,3/8,13.17%,EAPP;RNF168;TCERG1
@@ -246,8 +246,8 @@ prerank,GO_Biological_Process_2021__endoplasmic reticulum mannose trimming (GO:1
 prerank,GO_Biological_Process_2021__positive regulation of metabolic process (GO:0009893),0.7056327786887084,1.3398971096608068,0.05319148936170213,1.0,1.0,11/43,14.87%,LPIN1;GJA1;KDM1A;SCD;IL18;PPARGC1A;CEBPB;PRLR;KDM3A;ACADL;INSR
 prerank,GO_Biological_Process_2021__heparan sulfate proteoglycan biosynthetic process (GO:0015012),0.823167418989713,1.338247741798262,0.0375,1.0,1.0,1/11,0.39%,HS3ST5
 prerank,GO_Biological_Process_2021__miRNA metabolic process (GO:0010586),0.7856831635265102,1.338092339582752,0.09090909090909091,1.0,1.0,2/11,10.84%,AGO2;TUT7
-prerank,GO_Biological_Process_2021__contractile actin filament bundle assembly (GO:0030038),0.7851876786527702,1.3378171512353105,0.06097560975609756,1.0,1.0,1/10,1.99%,PDLIM1
 prerank,GO_Biological_Process_2021__stress fiber assembly (GO:0043149),0.7851876786527702,1.3378171512353105,0.06097560975609756,1.0,1.0,1/10,1.99%,PDLIM1
+prerank,GO_Biological_Process_2021__contractile actin filament bundle assembly (GO:0030038),0.7851876786527702,1.3378171512353105,0.06097560975609756,1.0,1.0,1/10,1.99%,PDLIM1
 prerank,GO_Biological_Process_2021__collagen-activated tyrosine kinase receptor signaling pathway (GO:0038063),0.8910159670727829,1.3371062854259637,0.06493506493506493,1.0,1.0,1/5,0.73%,COL4A6
 prerank,GO_Biological_Process_2021__positive regulation of smooth muscle cell proliferation (GO:0048661),0.7652370350636835,1.3367450596923238,0.09333333333333334,1.0,1.0,4/18,7.57%,GJA1;NR4A3;IL18;DNMT1
 prerank,GO_Biological_Process_2021__COPII-coated vesicle budding (GO:0090114),0.687183377522249,1.3365142533076295,0.07692307692307693,1.0,1.0,12/37,20.50%,TBC1D20;SEC24A;VAPB;CSNK1D;SEC13;VAPA;NSF;SEC24D;COL7A1;CNIH3;GOLGA2;ANKRD28
@@ -337,8 +337,8 @@ prerank,GO_Biological_Process_2021__gene silencing by miRNA (GO:0035195),0.74894
 prerank,PanglaoDB_Augmented_2021__Cajal-Retzius Cells,0.6367888245490316,1.3040233303241302,0.08421052631578947,1.0,1.0,17/76,13.59%,SYT1;ELAVL3;FAT3;NRG1;CRMP1;KCNH7;ADGRB3;CACNA1B;DCLK1;LZTFL1;HOMER2;SNAP25;EPHA7;CADM2;ZNF536;NLGN1;CNTNAP2
 prerank,GO_Biological_Process_2021__lipopolysaccharide-mediated signaling pathway (GO:0031663),0.8809344340003614,1.303507661294641,0.11764705882352941,1.0,1.0,2/5,8.45%,IL18;TGFB1
 prerank,GO_Biological_Process_2021__negative regulation of hippo signaling (GO:0035331),0.8042659220516502,1.3034479474223384,0.0945945945945946,1.0,1.0,2/10,4.70%,WWC1;WWC2
-prerank,GO_Biological_Process_2021__miRNA mediated inhibition of translation (GO:0035278),0.8957659899238383,1.3032373362522844,0.06944444444444445,1.0,1.0,1/5,4.64%,AGO2
 prerank,"GO_Biological_Process_2021__negative regulation of translation, ncRNA-mediated (GO:0040033)",0.8957659899238383,1.3032373362522844,0.06944444444444445,1.0,1.0,1/5,4.64%,AGO2
+prerank,GO_Biological_Process_2021__miRNA mediated inhibition of translation (GO:0035278),0.8957659899238383,1.3032373362522844,0.06944444444444445,1.0,1.0,1/5,4.64%,AGO2
 prerank,GO_Biological_Process_2021__protein heterotetramerization (GO:0051290),0.8177140537598422,1.302712634401228,0.08,1.0,1.0,3/8,11.23%,GRIN1;FARSB;GRIN2B
 prerank,GO_Biological_Process_2021__hydrogen peroxide metabolic process (GO:0042743),0.8232645615791361,1.3026552499140691,0.0958904109589041,1.0,1.0,1/7,0.42%,SOD1
 prerank,GO_Biological_Process_2021__regulation of ventricular cardiac muscle cell action potential (GO:0098911),-0.8037656072583688,-1.3025083318693624,0.1,0.9739378538187144,1.0,2/8,4.31%,CTNNA3;RYR2
@@ -366,17 +366,17 @@ prerank,GO_Biological_Process_2021__positive regulation of endopeptidase activit
 prerank,GO_Biological_Process_2021__heparan sulfate proteoglycan metabolic process (GO:0030201),0.8124693332880762,1.293463635523472,0.05333333333333334,1.0,1.0,1/10,0.39%,HS3ST5
 prerank,GO_Biological_Process_2021__female gonad development (GO:0008585),0.8538268298337092,1.293351887060795,0.1232876712328767,1.0,1.0,2/5,11.37%,SOD1;CEBPB
 prerank,GO_Biological_Process_2021__negative regulation of cellular carbohydrate metabolic process (GO:0010677),0.8709960793720603,1.2932786739830888,0.12857142857142856,1.0,1.0,2/5,7.80%,CRY1;PPARA
-prerank,GO_Biological_Process_2021__glutathione derivative metabolic process (GO:1901685),0.8529373909141035,1.292517560643489,0.11764705882352941,1.0,1.0,1/5,4.87%,MGST1
 prerank,GO_Biological_Process_2021__glutathione derivative biosynthetic process (GO:1901687),0.8529373909141035,1.292517560643489,0.11764705882352941,1.0,1.0,1/5,4.87%,MGST1
+prerank,GO_Biological_Process_2021__glutathione derivative metabolic process (GO:1901685),0.8529373909141035,1.292517560643489,0.11764705882352941,1.0,1.0,1/5,4.87%,MGST1
 prerank,GO_Biological_Process_2021__positive regulation of chromosome organization (GO:2001252),0.8428441141312627,1.2920748935420399,0.07042253521126761,1.0,1.0,1/7,2.47%,RAD21
 prerank,GO_Biological_Process_2021__regulation of calcium ion transport (GO:0051924),0.708510159689323,1.2916365186103462,0.12048192771084337,1.0,1.0,2/21,5.13%,STC1;HOMER2
 prerank,GO_Biological_Process_2021__cell junction assembly (GO:0034329),0.6631057616328755,1.2916253682968692,0.031914893617021274,1.0,1.0,11/45,12.84%,NRCAM;DNER;CDH18;CDH2;KIRREL3;CDH12;CTNND2;NLGN1;CDH10;CDH20;FARP1
 prerank,GO_Biological_Process_2021__positive regulation of behavior (GO:0048520),0.8290924114312499,1.290601456826955,0.1388888888888889,1.0,1.0,3/5,13.76%,NR4A3;NLGN1;SGIP1
 prerank,GO_Biological_Process_2021__triglyceride metabolic process (GO:0006641),0.7733060467480818,1.2901923821416217,0.14942528735632185,1.0,1.0,3/11,13.99%,LPIN1;GK5;PLAAT3
-prerank,GO_Biological_Process_2021__spindle assembly checkpoint signaling (GO:0071173),-0.6918575164686855,-1.2900226291141643,0.275,0.9776082422739588,1.0,2/5,7.40%,ATM;TPR
-prerank,GO_Biological_Process_2021__negative regulation of mitotic metaphase/anaphase transition (GO:0045841),-0.6918575164686855,-1.2900226291141643,0.275,0.9776082422739588,1.0,2/5,7.40%,ATM;TPR
 prerank,GO_Biological_Process_2021__mitotic spindle assembly checkpoint signaling (GO:0007094),-0.6918575164686855,-1.2900226291141643,0.275,0.9776082422739588,1.0,2/5,7.40%,ATM;TPR
+prerank,GO_Biological_Process_2021__spindle assembly checkpoint signaling (GO:0071173),-0.6918575164686855,-1.2900226291141643,0.275,0.9776082422739588,1.0,2/5,7.40%,ATM;TPR
 prerank,GO_Biological_Process_2021__mitotic spindle checkpoint signaling (GO:0071174),-0.6918575164686855,-1.2900226291141643,0.275,0.9776082422739588,1.0,2/5,7.40%,ATM;TPR
+prerank,GO_Biological_Process_2021__negative regulation of mitotic metaphase/anaphase transition (GO:0045841),-0.6918575164686855,-1.2900226291141643,0.275,0.9776082422739588,1.0,2/5,7.40%,ATM;TPR
 prerank,PanglaoDB_Augmented_2021__Ependymal Cells,0.7674851631409593,1.2895548590171646,0.12643678160919541,1.0,1.0,3/11,9.65%,TMEM232;GFAP;MYO16
 prerank,PanglaoDB_Augmented_2021__Pyramidal Cells,0.6828473240583264,1.2895535921231578,0.06593406593406594,1.0,1.0,13/38,12.45%,ELAVL3;KCNC2;NXPH1;KCND2;GFAP;ADGRB3;CACNA1B;KCNQ3;CTNNA2;SNAP25;CADM2;GRIN2B;CDH20
 prerank,GO_Biological_Process_2021__regulation of steroid metabolic process (GO:0019218),0.8341248179120713,1.2891510755582423,0.057971014492753624,1.0,1.0,3/7,12.56%,PANK2;ACADVL;ACADL
@@ -424,9 +424,9 @@ prerank,GO_Biological_Process_2021__RNA biosynthetic process (GO:0032774),0.8030
 prerank,GO_Biological_Process_2021__histone H3-K14 acetylation (GO:0044154),0.8220245634168065,1.2759628249605752,0.11764705882352941,1.0,1.0,1/5,13.85%,BRD1
 prerank,MSigDB_Hallmark_2020__E2F Targets,0.6304763398499921,1.2757007556744535,0.04395604395604396,1.0,1.0,18/55,24.30%,RAD21;CCP110;DUT;NUP153;STMN1;DNMT1;CSE1L;MELK;NAA38;EED;DONSON;RPA1;CDKN1B;NAP1L1;CTCF;NUP205;TRA2B;RBBP7
 prerank,GO_Biological_Process_2021__synaptic vesicle endocytosis (GO:0048488),0.6888956808577538,1.2750297028484345,0.15,1.0,1.0,7/20,23.77%,SYT1;DNAJC6;NLGN1;CANX;GAK;PIP5K1C;DNM2
-prerank,GO_Biological_Process_2021__vesicle coating (GO:0006901),0.6628972627512418,1.274989262190149,0.16666666666666666,1.0,1.0,10/32,20.50%,TBC1D20;SEC24A;CSNK1D;SEC13;NSF;SEC24D;COL7A1;CNIH3;GOLGA2;ANKRD28
 prerank,"GO_Biological_Process_2021__vesicle targeting, rough ER to cis-Golgi (GO:0048207)",0.6628972627512418,1.274989262190149,0.16666666666666666,1.0,1.0,10/32,20.50%,TBC1D20;SEC24A;CSNK1D;SEC13;NSF;SEC24D;COL7A1;CNIH3;GOLGA2;ANKRD28
 prerank,GO_Biological_Process_2021__COPII vesicle coating (GO:0048208),0.6628972627512418,1.274989262190149,0.16666666666666666,1.0,1.0,10/32,20.50%,TBC1D20;SEC24A;CSNK1D;SEC13;NSF;SEC24D;COL7A1;CNIH3;GOLGA2;ANKRD28
+prerank,GO_Biological_Process_2021__vesicle coating (GO:0006901),0.6628972627512418,1.274989262190149,0.16666666666666666,1.0,1.0,10/32,20.50%,TBC1D20;SEC24A;CSNK1D;SEC13;NSF;SEC24D;COL7A1;CNIH3;GOLGA2;ANKRD28
 prerank,GO_Biological_Process_2021__positive regulation of ATP metabolic process (GO:1903580),0.711875435322321,1.274193762486399,0.15476190476190477,1.0,1.0,6/16,14.87%,ENO1;PPARA;PPARGC1A;TMSB4X;HIF1A;INSR
 prerank,GO_Biological_Process_2021__protein-containing complex subunit organization (GO:0043933),0.6320867815485343,1.2738287219783746,0.07368421052631578,1.0,1.0,15/52,16.89%,WASF3;DARS1;WASF1;WIPF1;SLC2A1;LIN7A;PPARGC1A;NUP133;ST13;RANBP9;MDM2;MDM4;NAPG;TEAD1;SPG7
 prerank,GO_Biological_Process_2021__mitotic sister chromatid cohesion (GO:0007064),0.7565811017474855,1.2736972940468587,0.1527777777777778,1.0,1.0,1/9,2.47%,RAD21
@@ -463,8 +463,8 @@ prerank,GO_Biological_Process_2021__muscle contraction (GO:0006936),-0.465061646
 prerank,GO_Biological_Process_2021__RNA interference (GO:0016246),0.8183719126937156,1.2656855840467163,0.11842105263157894,1.0,1.0,1/9,4.64%,AGO2
 prerank,GO_Biological_Process_2021__regulation of homotypic cell-cell adhesion (GO:0034110),0.8232386674661532,1.264967654317855,0.11864406779661017,1.0,1.0,1/5,3.71%,ANK3
 prerank,GO_Biological_Process_2021__regulation of protein metabolic process (GO:0051246),0.7248152899170175,1.2644966833535949,0.13414634146341464,1.0,1.0,5/18,13.96%,KLF2;NEDD4L;SSH1;ROCK2;MDM2
-prerank,GO_Biological_Process_2021__positive regulation of ATP biosynthetic process (GO:2001171),0.7981508255769861,1.264277082910587,0.18309859154929578,1.0,1.0,4/6,10.39%,ENO1;PPARA;PPARGC1A;TMSB4X
 prerank,GO_Biological_Process_2021__positive regulation of purine nucleotide biosynthetic process (GO:1900373),0.7981508255769861,1.264277082910587,0.18309859154929578,1.0,1.0,4/6,10.39%,ENO1;PPARA;PPARGC1A;TMSB4X
+prerank,GO_Biological_Process_2021__positive regulation of ATP biosynthetic process (GO:2001171),0.7981508255769861,1.264277082910587,0.18309859154929578,1.0,1.0,4/6,10.39%,ENO1;PPARA;PPARGC1A;TMSB4X
 prerank,GO_Biological_Process_2021__regulation of vascular endothelial growth factor receptor signaling pathway (GO:0030947),0.7486674360679287,1.2640899836933823,0.1625,1.0,1.0,5/12,11.04%,ITGA5;PTPN1;NIBAN2;PRKCB;HIF1A
 prerank,GO_Biological_Process_2021__central nervous system neuron differentiation (GO:0021953),0.783983312851154,1.2640215580932972,0.09090909090909091,1.0,1.0,4/14,11.77%,MDGA2;ZC4H2;AGTPBP1;SIN3A
 prerank,GO_Biological_Process_2021__regulation of neutrophil chemotaxis (GO:0090022),-0.7096814685408223,-1.2634906332563383,0.19230769230769232,1.0,1.0,3/8,7.44%,DAPK2;SLIT2;RIPOR2
@@ -480,8 +480,8 @@ prerank,GO_Biological_Process_2021__positive regulation of leukocyte mediated cy
 prerank,GO_Biological_Process_2021__regulation of NIK/NF-kappaB signaling (GO:1901222),0.6491414624513634,1.2604249233604006,0.17045454545454544,1.0,1.0,5/29,10.39%,DDX3X;NFKBIA;EIF2AK2;EGFR;TMSB4X
 prerank,GO_Biological_Process_2021__positive regulation of protein metabolic process (GO:0051247),0.6423656302651853,1.2602731889487995,0.10752688172043011,1.0,1.0,19/52,19.91%,CSF1;KLF2;NFKBIA;NEDD4L;IL18;TGFB1;SMURF2;ROCK2;RAB7A;NSF;RANBP9;WWP1;TIPARP;HECW1;CSNK2A1;AREL1;ABCB10;SLC25A37;CDKN1B
 prerank,GO_Biological_Process_2021__cellular response to starvation (GO:0009267),0.6175614268344859,1.2602688944089548,0.07291666666666667,1.0,1.0,23/78,16.98%,ATP6V1G1;RIPOR1;ATP6V1H;WIPI1;SIK2;RHEB;EIF2AK2;SLC38A9;SEC13;PPARA;ATP6V1E1;SZT2;RNF152;EIF2AK4;CEBPB;SREBF1;SESN1;HSPA5;PDK4;LRRK2;CPEB4;MAPK1;WDR45B
-prerank,GO_Biological_Process_2021__positive regulation of neutrophil chemotaxis (GO:0090023),-0.7429559320177117,-1.2594854698653177,0.20689655172413793,1.0,1.0,3/6,12.03%,DAPK2;RIPOR2;MCU
 prerank,GO_Biological_Process_2021__positive regulation of granulocyte chemotaxis (GO:0071624),-0.7429559320177117,-1.2594854698653177,0.20689655172413793,1.0,1.0,3/6,12.03%,DAPK2;RIPOR2;MCU
+prerank,GO_Biological_Process_2021__positive regulation of neutrophil chemotaxis (GO:0090023),-0.7429559320177117,-1.2594854698653177,0.20689655172413793,1.0,1.0,3/6,12.03%,DAPK2;RIPOR2;MCU
 prerank,GO_Biological_Process_2021__ganglioside biosynthetic process (GO:0001574),-0.7066596272121977,-1.2593018397994213,0.28,0.9964524291471237,1.0,3/5,14.25%,ST6GALNAC3;ST3GAL1;ST3GAL5
 prerank,GO_Biological_Process_2021__alpha-amino acid metabolic process (GO:1901605),0.7320031730071886,1.2590094619538441,0.16279069767441862,1.0,1.0,4/13,12.00%,MMUT;GLUL;GLUD1;ASPA
 prerank,GO_Biological_Process_2021__negative regulation of TOR signaling (GO:0032007),0.7022690553246124,1.2584186857470392,0.15384615384615385,1.0,1.0,8/18,12.92%,EPM2A;TSC2;DDIT4;UBR1;SZT2;RNF152;TNFAIP8L1;SESN1
@@ -494,8 +494,8 @@ prerank,GO_Biological_Process_2021__regulation of trophoblast cell migration (GO
 prerank,GO_Biological_Process_2021__positive regulation of interferon-beta production (GO:0032728),0.7351080015501125,1.2572875347133508,0.17721518987341772,1.0,1.0,3/12,12.38%,DDX3X;TBK1;RIOK3
 prerank,GO_Biological_Process_2021__regulation of endothelial cell migration (GO:0010594),0.6521158595829616,1.256993752221047,0.13793103448275862,1.0,1.0,4/44,2.37%,STC1;ADAMTS9;RHOB;RHOJ
 prerank,GO_Biological_Process_2021__T cell mediated immunity (GO:0002456),0.8440612944539775,1.2567255428528519,0.11688311688311688,1.0,1.0,1/6,2.54%,CADM1
-prerank,GO_Biological_Process_2021__negative regulation of tumor necrosis factor production (GO:0032720),0.7876568903086223,1.256709888514266,0.20833333333333334,1.0,1.0,1/7,7.91%,SELENOS
 prerank,GO_Biological_Process_2021__negative regulation of tumor necrosis factor superfamily cytokine production (GO:1903556),0.7876568903086223,1.256709888514266,0.20833333333333334,1.0,1.0,1/7,7.91%,SELENOS
+prerank,GO_Biological_Process_2021__negative regulation of tumor necrosis factor production (GO:0032720),0.7876568903086223,1.256709888514266,0.20833333333333334,1.0,1.0,1/7,7.91%,SELENOS
 prerank,GO_Biological_Process_2021__regulation of transcription elongation from RNA polymerase II promoter (GO:0034243),0.6746583571052331,1.2564277965643933,0.19753086419753085,1.0,1.0,6/16,22.49%,EAPP;RNF168;WDR43;TCERG1;SUPT16H;ELL
 prerank,GO_Biological_Process_2021__positive regulation of phosphatase activity (GO:0010922),0.7940265351866993,1.2560923116330993,0.17142857142857143,1.0,1.0,1/8,5.99%,MTMR9
 prerank,GO_Biological_Process_2021__negative regulation of kinase activity (GO:0033673),0.6986074964214708,1.2559208527597536,0.0989010989010989,1.0,1.0,9/28,21.68%,TAF7;TSC2;CAMK2N1;UBASH3B;PPM1E;CDKN1B;NF1;YWHAG;IRS2
@@ -505,8 +505,8 @@ prerank,GO_Biological_Process_2021__adenylate cyclase-activating G protein-coupl
 prerank,GO_Biological_Process_2021__extrinsic apoptotic signaling pathway via death domain receptors (GO:0008625),0.7593643409600852,1.2546049729141067,0.15853658536585366,1.0,1.0,4/11,15.51%,DDX3X;DELE1;CASP8AP2;TNFRSF10B
 prerank,GO_Biological_Process_2021__regulation of cellular localization (GO:0060341),0.6734294008421287,1.2544296106790611,0.16279069767441862,1.0,1.0,6/24,17.82%,WWC1;KDM1A;REEP5;LRRK2;ADGRE2;STXBP4
 prerank,GO_Biological_Process_2021__negative regulation of extrinsic apoptotic signaling pathway via death domain receptors (GO:1902042),0.765880746427746,1.2542906272802095,0.11842105263157894,1.0,1.0,3/9,15.51%,DDX3X;RNF34;TNFRSF10B
-prerank,GO_Biological_Process_2021__actin filament capping (GO:0051693),0.743258221037304,1.2542887536200542,0.1794871794871795,1.0,1.0,2/9,13.45%,TRIOBP;CAPZB
 prerank,GO_Biological_Process_2021__barbed-end actin filament capping (GO:0051016),0.743258221037304,1.2542887536200542,0.1794871794871795,1.0,1.0,2/9,13.45%,TRIOBP;CAPZB
+prerank,GO_Biological_Process_2021__actin filament capping (GO:0051693),0.743258221037304,1.2542887536200542,0.1794871794871795,1.0,1.0,2/9,13.45%,TRIOBP;CAPZB
 prerank,GO_Biological_Process_2021__negative regulation of cold-induced thermogenesis (GO:0120163),0.6718007152000777,1.2541535686363439,0.14814814814814814,1.0,1.0,9/20,22.29%,RHEB;ACOT11;ADAM17;MAP2K6;PLCL1;LGR4;NOVA1;RBPJ;LNPEP
 prerank,GO_Biological_Process_2021__protein N-linked glycosylation (GO:0006487),0.6896856910844941,1.2541532019689219,0.16049382716049382,1.0,1.0,5/25,6.61%,DPM1;TMEM165;UBE2J1;MGAT4A;MGAT1
 prerank,GO_Biological_Process_2021__membrane fission (GO:0090148),-0.7524890520246892,-1.25401685670895,0.25925925925925924,1.0,1.0,4/7,17.25%,CORO1C;TMCC1;CHMP4B;SLC25A46
@@ -536,8 +536,8 @@ prerank,GO_Biological_Process_2021__odontogenesis of dentin-containing tooth (GO
 prerank,GO_Biological_Process_2021__regulation of peptidyl-tyrosine phosphorylation (GO:0050730),0.634099194274257,1.2477373782128423,0.2127659574468085,1.0,1.0,6/31,10.19%,CD44;ITGA5;SEMA4D;TGFB1;EGFR;EPHA7
 prerank,GO_Biological_Process_2021__gland morphogenesis (GO:0022612),0.7975549100667518,1.2477204878264538,0.18571428571428572,1.0,1.0,2/5,14.62%,TGFB1;FGFR2
 prerank,GO_Biological_Process_2021__regulation of membrane repolarization (GO:0060306),0.8187272269256003,1.247137371684322,0.20833333333333334,1.0,1.0,3/7,14.13%,NEDD4L;KCNQ1;AKAP6
-prerank,GO_Biological_Process_2021__positive regulation of calcineurin-NFAT signaling cascade (GO:0070886),-0.7028715932796008,-1.2464042317693966,0.14285714285714285,0.9978595053494282,1.0,2/6,5.72%,LMCD1;SLC9A1
 prerank,GO_Biological_Process_2021__positive regulation of calcineurin-mediated signaling (GO:0106058),-0.7028715932796008,-1.2464042317693966,0.14285714285714285,0.9978595053494282,1.0,2/6,5.72%,LMCD1;SLC9A1
+prerank,GO_Biological_Process_2021__positive regulation of calcineurin-NFAT signaling cascade (GO:0070886),-0.7028715932796008,-1.2464042317693966,0.14285714285714285,0.9978595053494282,1.0,2/6,5.72%,LMCD1;SLC9A1
 prerank,GO_Biological_Process_2021__regulation of vasoconstriction (GO:0019229),-0.61769229534858,-1.246175730402298,0.13043478260869565,0.9915558570137225,1.0,2/9,5.38%,ZDHHC21;PER2
 prerank,GO_Biological_Process_2021__regulation of lymphocyte migration (GO:2000401),-0.7115424323427016,-1.2459621560897929,0.3448275862068966,0.9854737007289898,1.0,2/5,22.64%,SLC8B1;JAM2
 prerank,GO_Biological_Process_2021__dermatan sulfate biosynthetic process (GO:0030208),0.826636869265986,1.2456174092935361,0.1794871794871795,1.0,1.0,1/6,8.65%,DSE
@@ -652,8 +652,8 @@ prerank,GO_Biological_Process_2021__negative regulation of T cell receptor signa
 prerank,GO_Biological_Process_2021__negative regulation of antigen receptor-mediated signaling pathway (GO:0050858),0.8029280842074313,1.2195274771611124,0.2236842105263158,1.0,1.0,3/5,18.19%,PTPN2;LGALS3;PRNP
 prerank,GO_Biological_Process_2021__neuron differentiation (GO:0030182),0.5940328528560505,1.2192312866341442,0.2391304347826087,1.0,1.0,12/42,13.52%,PTPRD;TENM2;DDIT4;TENM3;SMARCA1;UGCG;ACSL4;WNT2B;ADNP2;FZD3;MYT1L;RUNX1
 prerank,PanglaoDB_Augmented_2021__Beta Cells,0.6234128112061971,1.2189320335955158,0.17391304347826086,1.0,1.0,11/46,10.64%,PHYHIPL;ELAVL3;LSAMP;DPP6;ADGRB3;CACNA1B;PCDH17;ROBO2;SNAP25;CTNND2;CADM2
-prerank,GO_Biological_Process_2021__protein N-linked glycosylation via asparagine (GO:0018279),0.6825093095043204,1.2186642433103676,0.275,1.0,1.0,3/15,6.61%,DPM1;UBE2J1;MGAT1
 prerank,GO_Biological_Process_2021__peptidyl-asparagine modification (GO:0018196),0.6825093095043204,1.2186642433103676,0.275,1.0,1.0,3/15,6.61%,DPM1;UBE2J1;MGAT1
+prerank,GO_Biological_Process_2021__protein N-linked glycosylation via asparagine (GO:0018279),0.6825093095043204,1.2186642433103676,0.275,1.0,1.0,3/15,6.61%,DPM1;UBE2J1;MGAT1
 prerank,GO_Biological_Process_2021__positive regulation of response to external stimulus (GO:0032103),0.6147473058954922,1.2181932360536822,0.16279069767441862,1.0,1.0,7/36,13.42%,NFKBIA;USP15;IL18;TGFB1;NFKBIZ;RIOK3;ANKRD17
 prerank,GO_Biological_Process_2021__positive regulation of release of cytochrome c from mitochondria (GO:0090200),-0.6695477575501831,-1.2176693250579977,0.28125,0.9988025634640462,1.0,1/6,1.38%,BCL2L11
 prerank,GO_Biological_Process_2021__signal release from synapse (GO:0099643),0.6976320247569925,1.217326171947282,0.17073170731707318,1.0,1.0,4/14,9.40%,SYT1;LIN7A;SNAP25;SYN3
@@ -745,16 +745,16 @@ prerank,GO_Biological_Process_2021__calcium-dependent cell-cell adhesion via pla
 prerank,PanglaoDB_Augmented_2021__Neuroblasts,0.6453569296729127,1.1981505412873144,0.1348314606741573,1.0,1.0,15/33,25.00%,ELAVL3;CRMP1;CACNA1B;NCAM1;EGFR;EPHA7;TSHZ1;PURG;PPM1E;DAB1;ERC2;PROS1;MAPK4;GRM5;MAP1B
 prerank,GO_Biological_Process_2021__protein maturation by iron-sulfur cluster transfer (GO:0097428),-0.7545036515673245,-1.1980804732626515,0.3103448275862069,1.0,1.0,2/5,4.92%,NFU1;YAE1
 prerank,GO_Biological_Process_2021__regulation of lamellipodium organization (GO:1902743),0.8151288746669917,1.1979676671575075,0.1527777777777778,1.0,1.0,1/6,0.56%,CD44
-prerank,GO_Biological_Process_2021__cellular response to nitric oxide (GO:0071732),0.8078178559598723,1.1976111599700936,0.10294117647058823,1.0,1.0,1/5,1.57%,KCNC2
 prerank,GO_Biological_Process_2021__response to nitric oxide (GO:0071731),0.8078178559598723,1.1976111599700936,0.10294117647058823,1.0,1.0,1/5,1.57%,KCNC2
+prerank,GO_Biological_Process_2021__cellular response to nitric oxide (GO:0071732),0.8078178559598723,1.1976111599700936,0.10294117647058823,1.0,1.0,1/5,1.57%,KCNC2
 prerank,GO_Biological_Process_2021__cellular response to reactive nitrogen species (GO:1902170),0.8078178559598723,1.1976111599700936,0.10294117647058823,1.0,1.0,1/5,1.57%,KCNC2
 prerank,GO_Biological_Process_2021__regulation of Arp2/3 complex-mediated actin nucleation (GO:0034315),0.7467006683957943,1.1975811971026653,0.19230769230769232,1.0,1.0,3/10,8.70%,WASF3;WASF1;CTNNA2
 prerank,GO_Biological_Process_2021__regulation of membrane protein ectodomain proteolysis (GO:0051043),0.7122666999553229,1.1975239103297384,0.19230769230769232,1.0,1.0,1/9,7.43%,TNFRSF1B
 prerank,GO_Biological_Process_2021__regulation of histone acetylation (GO:0035065),0.7252018111905373,1.1973070158273613,0.21686746987951808,1.0,1.0,3/14,15.12%,TAF7;PPARGC1A;GLYR1
 prerank,GO_Biological_Process_2021__protein localization to mitochondrion (GO:0070585),0.7504311291592711,1.1971603686369292,0.3055555555555556,1.0,1.0,4/6,21.45%,MTCH2;LRRK2;DNAJA1;HK1
 prerank,GO_Biological_Process_2021__negative regulation of macroautophagy (GO:0016242),0.6740152854246416,1.1966465612866146,0.2261904761904762,1.0,1.0,4/17,15.00%,TSC2;RUBCN;LZTS1;LRRK2
-prerank,GO_Biological_Process_2021__presynaptic membrane organization (GO:0097090),0.7478258192619727,1.1966312975228943,0.22857142857142856,1.0,1.0,2/7,11.91%,PTPRD;NLGN1
 prerank,GO_Biological_Process_2021__presynaptic membrane assembly (GO:0097105),0.7478258192619727,1.1966312975228943,0.22857142857142856,1.0,1.0,2/7,11.91%,PTPRD;NLGN1
+prerank,GO_Biological_Process_2021__presynaptic membrane organization (GO:0097090),0.7478258192619727,1.1966312975228943,0.22857142857142856,1.0,1.0,2/7,11.91%,PTPRD;NLGN1
 prerank,GO_Biological_Process_2021__growth hormone receptor signaling pathway (GO:0060396),0.7122050524559905,1.196223559775685,0.22077922077922077,1.0,1.0,3/11,14.42%,PTPN1;PRLR;STAT3
 prerank,GO_Biological_Process_2021__positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100),0.5895071377669,1.1960819760711354,0.19318181818181818,1.0,1.0,8/36,19.43%,ADAM17;TGFB1;SDCBP;ACVR1B;RNF111;ACVR2A;SMAD2;RBPJ
 prerank,GO_Biological_Process_2021__regulation of osteoclast differentiation (GO:0045670),0.7641995329868769,1.1959657611558963,0.1625,1.0,1.0,5/8,19.14%,CSF1;PRXL2A;CEBPB;FBN1;UBASH3B
@@ -780,8 +780,8 @@ prerank,GO_Biological_Process_2021__regulation of ER to Golgi vesicle-mediated t
 prerank,GO_Biological_Process_2021__central nervous system projection neuron axonogenesis (GO:0021952),0.7519405721697215,1.1928922573550496,0.19736842105263158,1.0,1.0,4/8,18.50%,SPTBN4;SZT2;C12ORF57;PAFAH1B1
 prerank,GO_Biological_Process_2021__axonal transport of mitochondrion (GO:0019896),0.7345032056817336,1.1923652763611567,0.3048780487804878,1.0,1.0,2/7,17.97%,HIF1A;SYBU
 prerank,GO_Biological_Process_2021__protein-containing complex assembly (GO:0065003),0.5751146114467093,1.1921892287928666,0.08,1.0,1.0,32/126,20.50%,TBC1D20;SEC24A;WASF3;DARS1;WASF1;WIPF1;CSNK1D;CSNK1A1;SEC13;SLC2A1;LIN7A;PPARGC1A;CDC123;PDE4DIP;NSF;ST13;RANBP9;MDM2;MDM4;SEC24D;NAPG;LRRK2;TEAD1;RBX1;COL7A1;SPG7;CNIH3;GOLGA2;SMARCA4;WDR19;SKP1;ANKRD28
-prerank,GO_Biological_Process_2021__regulation of posttranscriptional gene silencing (GO:0060147),0.6272197267801691,1.192184957996821,0.25609756097560976,1.0,1.0,5/27,10.62%,NUP153;AGO2;SEC13;NUP88;NUP133
 prerank,GO_Biological_Process_2021__regulation of gene silencing by RNA (GO:0060966),0.6272197267801691,1.192184957996821,0.25609756097560976,1.0,1.0,5/27,10.62%,NUP153;AGO2;SEC13;NUP88;NUP133
+prerank,GO_Biological_Process_2021__regulation of posttranscriptional gene silencing (GO:0060147),0.6272197267801691,1.192184957996821,0.25609756097560976,1.0,1.0,5/27,10.62%,NUP153;AGO2;SEC13;NUP88;NUP133
 prerank,GO_Biological_Process_2021__organelle fusion (GO:0048284),0.7120583403907994,1.1914907071884973,0.25301204819277107,1.0,1.0,4/9,20.44%,MIGA1;CHCHD3;SPG7;EEA1
 prerank,GO_Biological_Process_2021__fatty acid catabolic process (GO:0009062),0.6580125016620499,1.1913146353201265,0.2558139534883721,1.0,1.0,5/26,12.56%,LPIN1;MMUT;ACADVL;ECHDC1;ACADL
 prerank,GO_Biological_Process_2021__endoplasmic reticulum membrane organization (GO:0090158),0.8194191367250755,1.1913090620903262,0.2328767123287671,1.0,1.0,4/6,15.04%,VAPB;ATL1;ATL2;LPCAT3
@@ -790,8 +790,8 @@ prerank,GO_Biological_Process_2021__prostanoid metabolic process (GO:0006692),0.
 prerank,GO_Biological_Process_2021__regulation of protein kinase C signaling (GO:0090036),0.8244849793575981,1.190654872733915,0.17567567567567569,1.0,1.0,2/5,12.17%,ADGRV1;ULK4
 prerank,GO_Biological_Process_2021__regulation of epithelial cell differentiation (GO:0030856),0.785217494659334,1.1905132524120512,0.25,1.0,1.0,2/5,11.37%,APOLD1;CEBPB
 prerank,GO_Biological_Process_2021__regulation of bicellular tight junction assembly (GO:2000810),0.7391033935526661,1.1898334794537015,0.16901408450704225,1.0,1.0,4/10,18.41%,PRKACA;ROCK2;RUNX1;CBFB
-prerank,GO_Biological_Process_2021__positive regulation of miRNA mediated inhibition of translation (GO:1905618),0.8020758223393573,1.1897659372646803,0.2753623188405797,1.0,1.0,3/6,14.42%,AGO2;EIF4ENIF1;STAT3
 prerank,GO_Biological_Process_2021__regulation of miRNA mediated inhibition of translation (GO:1905616),0.8020758223393573,1.1897659372646803,0.2753623188405797,1.0,1.0,3/6,14.42%,AGO2;EIF4ENIF1;STAT3
+prerank,GO_Biological_Process_2021__positive regulation of miRNA mediated inhibition of translation (GO:1905618),0.8020758223393573,1.1897659372646803,0.2753623188405797,1.0,1.0,3/6,14.42%,AGO2;EIF4ENIF1;STAT3
 prerank,GO_Biological_Process_2021__positive regulation of vascular associated smooth muscle cell migration (GO:1904754),0.746975144317075,1.189279142108463,0.25675675675675674,1.0,1.0,2/6,18.91%,NR4A3;DOCK4
 prerank,GO_Biological_Process_2021__response to molecule of bacterial origin (GO:0002237),0.6625927052766499,1.189124978497326,0.2608695652173913,1.0,1.0,6/16,23.23%,PELI1;ADAM17;MAPKAPK2;ERBIN;SMAD6;TAB2
 prerank,GO_Biological_Process_2021__protein maturation (GO:0051604),0.586431725500876,1.189083686607365,0.25274725274725274,1.0,1.0,8/41,10.11%,SRGN;NAA11;PITRM1;CPD;ADAM17;MMP16;CPM;F3
@@ -850,8 +850,8 @@ prerank,GO_Biological_Process_2021__intracellular protein transport (GO:0006886)
 prerank,GO_Biological_Process_2021__positive regulation of protein acetylation (GO:1901985),0.7742175598056165,1.1790432320511253,0.21052631578947367,1.0,1.0,2/8,10.41%,DDX3X;DIP2B
 prerank,GO_Biological_Process_2021__embryonic digit morphogenesis (GO:0042733),0.733337110156286,1.178641457324511,0.1917808219178082,1.0,1.0,3/11,16.11%,HDAC2;TBX3;TWIST1
 prerank,GO_Biological_Process_2021__positive regulation of lipid catabolic process (GO:0050996),0.7745721789998007,1.1786040507432463,0.23684210526315788,1.0,1.0,5/6,21.68%,PPARA;IRS1;TWIST1;ABHD5;IRS2
-prerank,GO_Biological_Process_2021__positive regulation of transforming growth factor beta receptor signaling pathway (GO:0030511),0.6949152123298796,1.1785582319992,0.29333333333333333,1.0,1.0,3/11,16.13%,ADAM17;SDCBP;RNF111
 prerank,GO_Biological_Process_2021__positive regulation of cellular response to transforming growth factor beta stimulus (GO:1903846),0.6949152123298796,1.1785582319992,0.29333333333333333,1.0,1.0,3/11,16.13%,ADAM17;SDCBP;RNF111
+prerank,GO_Biological_Process_2021__positive regulation of transforming growth factor beta receptor signaling pathway (GO:0030511),0.6949152123298796,1.1785582319992,0.29333333333333333,1.0,1.0,3/11,16.13%,ADAM17;SDCBP;RNF111
 prerank,GO_Biological_Process_2021__Notch receptor processing (GO:0007220),0.7785223154353201,1.178222263246828,0.2753623188405797,1.0,1.0,2/5,12.13%,ADAM17;GALNT11
 prerank,GO_Biological_Process_2021__cellular calcium ion homeostasis (GO:0006874),0.5917884135649761,1.1779039300342262,0.1595744680851064,1.0,1.0,6/49,7.34%,STC1;TPT1;PRKACA;VAPB;TMEM165;TMCO1
 prerank,GO_Biological_Process_2021__mitochondrial transport (GO:0006839),0.6471667984347522,1.1778695398231689,0.25,1.0,1.0,5/18,20.52%,PITRM1;SLC25A4;SPG7;ABCB10;BNIP3
@@ -938,11 +938,11 @@ prerank,GO_Biological_Process_2021__regulation of protein localization (GO:00328
 prerank,GO_Biological_Process_2021__cellular response to ATP (GO:0071318),0.794782755399859,1.160178501238114,0.2714285714285714,1.0,1.0,2/5,18.63%,SSH1;RYR3
 prerank,GO_Biological_Process_2021__establishment or maintenance of epithelial cell apical/basal polarity (GO:0045197),0.6361908542981839,1.160132004739644,0.3076923076923077,1.0,1.0,4/19,15.85%,LRRC7;PRKCI;LIN7A;ERBIN
 prerank,GO_Biological_Process_2021__regulation of interferon-gamma production (GO:0032649),0.6886921583769523,1.1596391318334451,0.21052631578947367,1.0,1.0,6/13,23.09%,PDE4B;IL18;PDE4D;PRNP;ZFPM1;AXL
-prerank,GO_Biological_Process_2021__response to epinephrine (GO:0071871),0.7178349559930343,1.1595896213446077,0.34615384615384615,1.0,1.0,3/7,5.07%,PRKACA;KCNQ1;PDE4B
 prerank,GO_Biological_Process_2021__cellular response to epinephrine stimulus (GO:0071872),0.7178349559930343,1.1595896213446077,0.34615384615384615,1.0,1.0,3/7,5.07%,PRKACA;KCNQ1;PDE4B
+prerank,GO_Biological_Process_2021__response to epinephrine (GO:0071871),0.7178349559930343,1.1595896213446077,0.34615384615384615,1.0,1.0,3/7,5.07%,PRKACA;KCNQ1;PDE4B
 prerank,GO_Biological_Process_2021__regulation of interferon-gamma-mediated signaling pathway (GO:0060334),-0.5314390942520041,-1.1592522722546528,0.3333333333333333,0.992423618233975,1.0,1/13,2.12%,PARP9
 prerank,GO_Biological_Process_2021__negative regulation of glucose transmembrane transport (GO:0010829),0.7655332408862738,1.1591902153582232,0.25675675675675674,1.0,1.0,2/5,7.91%,PRKCB;SELENOS
-prerank,GO_Biological_Process_2021__negative regulation of nucleocytoplasmic transport (GO:0046823),0.7322149921492065,1.1591109105580506,0.2987012987012987,1.0,1.0,2/9,4.33%,NUP153;SUFU
+prerank,GO_Biological_Process_2021__negative regulation of nucleocytoplasmic transport (GO:0046823),0.7322149921492065,1.1591109105580508,0.2987012987012987,1.0,1.0,2/9,4.33%,NUP153;SUFU
 prerank,GO_Biological_Process_2021__regulation of nucleic acid-templated transcription (GO:1903506),0.5492959648926491,1.1585575102709476,0.14,1.0,1.0,38/155,26.36%,WWC1;SUFU;HCFC2;WWC2;CTR9;ESR2;YAF2;CCAR1;APBB1;CLOCK;PPARGC1A;HIF1A;MTF2;CEBPB;ZNF536;CREM;STAT3;SRSF10;INSR;ACVR1B;MZF1;PLAG1;SP1;NLK;ABL1;RALY;NCOA2;SP3;NSD2;ZNF138;DNM2;YBX1;RFX3;SFPQ;UBE2L3;ESRRG;ZMIZ1;RPS6KA5
 prerank,GO_Biological_Process_2021__regulation of vesicle-mediated transport (GO:0060627),0.595838967294447,1.15802045815276,0.23655913978494625,1.0,1.0,16/43,20.84%,SYT1;TSC2;PTPN1;RIMS2;NSF;RAB12;LRRK2;PACSIN2;MAPK1;SCARB1;MAP2K1;RAB8B;ABL2;ABL1;RUFY1;ITGAV
 prerank,GO_Biological_Process_2021__peptidyl-threonine phosphorylation (GO:0018107),0.6039517858397325,1.158011832968463,0.2619047619047619,1.0,1.0,12/34,20.55%,TBK1;OXSR1;ROCK2;LRRK2;ACVR1B;TNKS;MAPK1;MAP2K1;STK39;CSNK2A1;NLK;CAMK2D
@@ -954,15 +954,15 @@ prerank,GO_Biological_Process_2021__regulation of release of cytochrome c from m
 prerank,GO_Biological_Process_2021__embryonic axis specification (GO:0000578),0.7670594723018876,1.1565484167874684,0.28169014084507044,1.0,1.0,3/5,22.75%,TBX3;SMAD2;SMAD6
 prerank,GO_Biological_Process_2021__lipid modification (GO:0030258),0.6862356726063262,1.156394229626838,0.3026315789473684,1.0,1.0,5/13,22.72%,DGKI;CYP3A5;LPCAT3;DGKH;SGPP1
 prerank,GO_Biological_Process_2021__cellular response to lectin (GO:1990858),0.5851189112653178,1.1562304149537308,0.23333333333333334,1.0,1.0,7/42,7.61%,MUCL1;PRKACA;PSMB1;RAF1;PSMB2;BTRC;PSMA7
-prerank,GO_Biological_Process_2021__innate immune response activating cell surface receptor signaling pathway (GO:0002220),0.5851189112653178,1.1562304149537308,0.23333333333333334,1.0,1.0,7/42,7.61%,MUCL1;PRKACA;PSMB1;RAF1;PSMB2;BTRC;PSMA7
 prerank,GO_Biological_Process_2021__stimulatory C-type lectin receptor signaling pathway (GO:0002223),0.5851189112653178,1.1562304149537308,0.23333333333333334,1.0,1.0,7/42,7.61%,MUCL1;PRKACA;PSMB1;RAF1;PSMB2;BTRC;PSMA7
+prerank,GO_Biological_Process_2021__innate immune response activating cell surface receptor signaling pathway (GO:0002220),0.5851189112653178,1.1562304149537308,0.23333333333333334,1.0,1.0,7/42,7.61%,MUCL1;PRKACA;PSMB1;RAF1;PSMB2;BTRC;PSMA7
 prerank,"GO_Biological_Process_2021__negative regulation of transcription, DNA-templated (GO:0045892)",0.5441276417846431,1.1561803590161008,0.04,1.0,1.0,88/391,20.05%,WWC1;SCML1;TAF7;KLF2;ETV5;PRDM6;HDAC2;NRG1;NEDD4L;KDM1A;CBFA2T2;TENM2;GLIS3;CD38;NR4A3;BASP1;SUFU;ENO1;ZNF608;HCFC2;WWC2;CRY1;NIBAN2;SEMA4D;CTR9;SNX6;SAP130;BTRC;ESR2;YAF2;PPARA;CTBP2;TGFB1;TP63;APBB1;CXXC5;CLOCK;RPS27A;SDCBP;RARB;RCOR1;ZBTB16;MTF2;CEBPB;ZNF536;SIN3A;ZFPM2;SMURF2;DEAF1;TSHZ3;CREM;MYT1L;TCERG1;MXD4;BCL6;RUNX1;TBX3;PHF21A;MDM2;MDM4;EED;STAT3;FGFR2;MBD2;HIVEP1;EZH1;LCOR;TWIST1;WWP1;ZBTB7A;MZF1;PDCD4;ZBTB1;LOXL3;PER1;NFIX;CBFB;ZHX3;ZMYM5;SMAD2;SMARCA4;ZFPM1;MBTD1;RTF1;RBPJ;FOXP2;CDKN1B;SMAD7
 prerank,GO_Biological_Process_2021__Golgi organization (GO:0007030),0.57449003177226,1.1561538454589164,0.20833333333333334,1.0,1.0,8/70,7.71%,STX6;TBC1D20;COG2;FAM174B;COG7;CSNK1D;CSNK1A1;ATL2
 prerank,PanglaoDB_Augmented_2021__Kidney Progenitor Cells,0.58473542831052,1.1559597265716102,0.21505376344086022,1.0,1.0,6/53,5.71%,GPR161;MID1;GLRB;TENM3;CDH2;SMARCA1
 prerank,GO_Biological_Process_2021__regulation of cytoplasmic transport (GO:1903649),0.742580000465758,1.155752442675951,0.28378378378378377,1.0,1.0,3/7,17.23%,LRRK2;MAPK1;MAP2K1
 prerank,GO_Biological_Process_2021__positive regulation of phosphatidylinositol 3-kinase activity (GO:0043552),0.701765000389907,1.1557249063952284,0.26506024096385544,1.0,1.0,4/11,15.54%,FLT1;TGFB1;IRS1;AMBRA1
-prerank,GO_Biological_Process_2021__response to dopamine (GO:1903350),0.7796140777023628,1.155592194887727,0.2876712328767123,1.0,1.0,3/5,20.27%,LRRK2;MAPK1;ABL1
 prerank,GO_Biological_Process_2021__cellular response to dopamine (GO:1903351),0.7796140777023628,1.155592194887727,0.2876712328767123,1.0,1.0,3/5,20.27%,LRRK2;MAPK1;ABL1
+prerank,GO_Biological_Process_2021__response to dopamine (GO:1903350),0.7796140777023628,1.155592194887727,0.2876712328767123,1.0,1.0,3/5,20.27%,LRRK2;MAPK1;ABL1
 prerank,GO_Biological_Process_2021__peptidyl-tyrosine phosphorylation (GO:0018108),0.6202215839081962,1.1555767977037859,0.2441860465116279,1.0,1.0,9/28,20.27%,CSF1R;FLT1;EGFR;PRLR;FGFR2;INSR;KDR;ABL2;ABL1
 prerank,GO_Biological_Process_2021__mammary gland development (GO:0030879),0.7325563159258331,1.1551372390688506,0.2,1.0,1.0,3/9,13.80%,NRG1;PRLR;TBX3
 prerank,GO_Biological_Process_2021__positive regulation of lymphocyte chemotaxis (GO:0140131),0.7132856691513849,1.1551101274230406,0.32432432432432434,1.0,1.0,3/6,18.04%,ADAM17;OXSR1;STK39
@@ -1033,8 +1033,8 @@ prerank,GO_Biological_Process_2021__antigen processing and presentation of pepti
 prerank,GO_Biological_Process_2021__membrane assembly (GO:0071709),0.602284879826243,1.141212565957064,0.2345679012345679,1.0,1.0,7/23,22.30%,PTPRD;ANK3;UGCG;NLGN1;NRXN1;STX2;GAK
 prerank,GO_Biological_Process_2021__regulation of endocytosis (GO:0030100),0.6184487980880606,1.141012579666198,0.2808988764044944,1.0,1.0,10/31,21.82%,TSC2;NEDD4L;PTPN1;RUBCN;PACSIN2;LGALS3;ABL2;ABL1;RUFY1;MTMR2
 prerank,GO_Biological_Process_2021__oxoacid metabolic process (GO:0043436),0.7746656912115757,1.1407837115163855,0.3387096774193548,1.0,1.0,2/6,8.73%,MINPP1;PPA1
-prerank,GO_Biological_Process_2021__regulation of alcohol biosynthetic process (GO:1902930),0.7483823294002337,1.1407084077568803,0.29411764705882354,1.0,1.0,2/5,15.04%,SREBF1;LPCAT3
 prerank,GO_Biological_Process_2021__regulation of sterol biosynthetic process (GO:0106118),0.7483823294002337,1.1407084077568803,0.29411764705882354,1.0,1.0,2/5,15.04%,SREBF1;LPCAT3
+prerank,GO_Biological_Process_2021__regulation of alcohol biosynthetic process (GO:1902930),0.7483823294002337,1.1407084077568803,0.29411764705882354,1.0,1.0,2/5,15.04%,SREBF1;LPCAT3
 prerank,PanglaoDB_Augmented_2021__Microfold Cells,0.5824233968122113,1.1406534790655682,0.29545454545454547,1.0,1.0,7/28,19.77%,NFKBIA;MGAT1;SUSD6;CEBPD;LGALS3;TULP4;JUNB
 prerank,GO_Biological_Process_2021__positive regulation of calcium ion transport into cytosol (GO:0010524),0.7101904282858382,1.140572140474949,0.2987012987012987,1.0,1.0,2/10,14.13%,GRIN1;AKAP6
 prerank,GO_Biological_Process_2021__vacuolar acidification (GO:0007035),0.7265331955707386,1.1404375948398582,0.2682926829268293,1.0,1.0,1/8,2.17%,ATP6V1H
@@ -1060,8 +1060,8 @@ prerank,GO_Biological_Process_2021__positive regulation of T cell mediated cytot
 prerank,GO_Biological_Process_2021__leptin-mediated signaling pathway (GO:0033210),0.739021620161578,1.1352032830743768,0.3055555555555556,1.0,1.0,3/6,23.08%,UGCG;STAT3;MT3
 prerank,GO_Biological_Process_2021__protein-DNA complex disassembly (GO:0032986),0.7254385655303277,1.135195663606775,0.32432432432432434,1.0,1.0,4/7,27.37%,ARID1A;SMARCA4;SUPT16H;ARID2
 prerank,GO_Biological_Process_2021__cellular response to interleukin-1 (GO:0071347),0.5471977329111486,1.1349910213952004,0.24444444444444444,1.0,1.0,15/55,19.88%,NFKBIA;PSMB1;PSMB2;PELI1;BTRC;PSMA7;RPS27A;HIF1A;TANK;PSMA4;PSMD14;RBX1;USP10;ST18;SKP1
-prerank,GO_Biological_Process_2021__positive regulation of protein localization to Cajal body (GO:1904871),0.7257319172229237,1.134971147395286,0.39473684210526316,1.0,1.0,3/6,26.60%,CCT4;CCT3;CCT8
 prerank,GO_Biological_Process_2021__regulation of protein localization to Cajal body (GO:1904869),0.7257319172229237,1.134971147395286,0.39473684210526316,1.0,1.0,3/6,26.60%,CCT4;CCT3;CCT8
+prerank,GO_Biological_Process_2021__positive regulation of protein localization to Cajal body (GO:1904871),0.7257319172229237,1.134971147395286,0.39473684210526316,1.0,1.0,3/6,26.60%,CCT4;CCT3;CCT8
 prerank,GO_Biological_Process_2021__dermatan sulfate proteoglycan biosynthetic process (GO:0050651),0.7148076562998751,1.1344889799112778,0.32098765432098764,1.0,1.0,1/8,8.65%,DSE
 prerank,GO_Biological_Process_2021__negative regulation of proteolysis (GO:0045861),0.6890688029614982,1.1344383608632038,0.32894736842105265,1.0,1.0,4/10,18.19%,CST3;CAMK2N1;LRRK2;PRNP
 prerank,GO_Biological_Process_2021__modification-dependent protein catabolic process (GO:0019941),0.5527676807877439,1.1342640729179783,0.20408163265306123,1.0,1.0,30/105,25.84%,OS9;NEDD4L;AMFR;RC3H2;NDFIP2;BTRC;RNF168;RNF34;RPS27A;NDFIP1;SMURF2;SIAH1;MDM2;RNF19A;PSMD14;RBX1;RNF111;ANAPC4;RBBP6;FBXO11;AREL1;UBE2B;UBE4B;UBE2K;RCHY1;UBE3B;TRIP12;NPLOC4;ARIH2;UBE2L3
@@ -1117,8 +1117,8 @@ prerank,GO_Biological_Process_2021__synaptic vesicle transport (GO:0048489),0.69
 prerank,GO_Biological_Process_2021__negative regulation of programmed cell death (GO:0043069),0.540580831344269,1.1264422051048406,0.2268041237113402,1.0,1.0,33/147,18.98%,CD44;TPT1;HDAC2;DDX3X;NFKBIA;FMN2;MYDGF;CD38;RHBDD1;RAF1;NIBAN2;SEMA4D;APIP;NAIP;PRKCI;BNIP3L;EGFR;WDR73;RPS27A;TMBIM6;PRLR;NAA38;RAB7A;HSPA5;TBX3;CFL1;NAA15;ARF4;IFIT3;DNAJA1;GLO1;AREL1;ANGPTL4
 prerank,GO_Biological_Process_2021__extracellular matrix assembly (GO:0085029),-0.5970197407189882,-1.126291063870855,0.3181818181818182,1.0,1.0,4/11,5.96%,NTN4;MYH11;TNXB;LAMB2
 prerank,GO_Biological_Process_2021__positive regulation of collagen metabolic process (GO:0010714),0.7152251109840474,1.126265950404111,0.34285714285714286,1.0,1.0,3/6,13.52%,HDAC2;TGFB1;RUNX1
-prerank,GO_Biological_Process_2021__regulation of collagen biosynthetic process (GO:0032965),0.7152251109840474,1.126265950404111,0.34285714285714286,1.0,1.0,3/6,13.52%,HDAC2;TGFB1;RUNX1
 prerank,GO_Biological_Process_2021__positive regulation of collagen biosynthetic process (GO:0032967),0.7152251109840474,1.126265950404111,0.34285714285714286,1.0,1.0,3/6,13.52%,HDAC2;TGFB1;RUNX1
+prerank,GO_Biological_Process_2021__regulation of collagen biosynthetic process (GO:0032965),0.7152251109840474,1.126265950404111,0.34285714285714286,1.0,1.0,3/6,13.52%,HDAC2;TGFB1;RUNX1
 prerank,GO_Biological_Process_2021__regulation of epithelial to mesenchymal transition involved in endocardial cushion formation (GO:1905005),0.7355925805948131,1.1258521909042383,0.3142857142857143,1.0,1.0,1/6,8.45%,TGFB1
 prerank,GO_Biological_Process_2021__regulation of nitric oxide biosynthetic process (GO:0045428),0.6759507285175789,1.1257421767943787,0.3037974683544304,1.0,1.0,4/17,14.87%,KLF2;NOS1AP;ROCK2;INSR
 prerank,GO_Biological_Process_2021__positive regulation of glucose transmembrane transport (GO:0010828),0.6543855002632367,1.1257108473400028,0.3614457831325301,1.0,1.0,4/16,14.87%,NR4A3;PRKCI;IRS1;INSR
@@ -1142,8 +1142,8 @@ prerank,GO_Biological_Process_2021__amino sugar metabolic process (GO:0006040),-
 prerank,GO_Biological_Process_2021__tight junction assembly (GO:0120192),0.6576292465911519,1.123578250229508,0.3037974683544304,1.0,1.0,2/15,7.65%,MICALL2;PRKCI
 prerank,PanglaoDB_Augmented_2021__Loop Of Henle Cells,-0.3592300851748909,-1.123161111675321,0.0,1.0,1.0,13/71,8.22%,DKK3;LMOD1;ARHGEF10L;CDH6;SORBS2;MYL9;IGFBP7;PAMR1;LAMB2;CXCL12;SHROOM4;COL1A2;EDNRA
 prerank,GO_Biological_Process_2021__cell-matrix adhesion (GO:0007160),0.5740620887872495,1.1231330122229237,0.27956989247311825,1.0,1.0,2/46,0.56%,ADAMTS9;CD44
-prerank,GO_Biological_Process_2021__regulation of protein localization to cell cortex (GO:1904776),0.7505748265531538,1.1227827319898345,0.3,1.0,1.0,2/5,20.53%,GNAI1;GPSM2
 prerank,GO_Biological_Process_2021__positive regulation of protein localization to cell cortex (GO:1904778),0.7505748265531538,1.1227827319898345,0.3,1.0,1.0,2/5,20.53%,GNAI1;GPSM2
+prerank,GO_Biological_Process_2021__regulation of protein localization to cell cortex (GO:1904776),0.7505748265531538,1.1227827319898345,0.3,1.0,1.0,2/5,20.53%,GNAI1;GPSM2
 prerank,GO_Biological_Process_2021__regulation of myosin-light-chain-phosphatase activity (GO:0035507),0.7639242600228375,1.1227431935145595,0.3382352941176471,1.0,1.0,1/5,12.44%,ROCK2
 prerank,PanglaoDB_Augmented_2021__Motor Neurons,0.6022162661374892,1.122472243333727,0.3218390804597701,1.0,1.0,2/18,4.30%,MID1;TENM3
 prerank,GO_Biological_Process_2021__negative regulation of NF-kappaB transcription factor activity (GO:0032088),0.5985731752606848,1.122327742654053,0.3218390804597701,1.0,1.0,3/27,15.85%,NFKBIA;TMSB4X;ERBIN
@@ -1230,7 +1230,7 @@ prerank,GO_Biological_Process_2021__protein localization to cell-cell junction (
 prerank,GO_Biological_Process_2021__GPI anchor metabolic process (GO:0006505),0.67586707180607,1.1069453188914473,0.3835616438356164,1.0,1.0,2/9,8.92%,DPM1;PIGL
 prerank,GO_Biological_Process_2021__positive regulation of nitric-oxide synthase activity (GO:0051000),0.7375474396582486,1.1068355844619147,0.38028169014084506,1.0,1.0,3/6,16.63%,NOS1AP;HIF1A;SCARB1
 prerank,GO_Biological_Process_2021__regulation of ATP metabolic process (GO:1903578),0.592411232942234,1.1067888692863608,0.3411764705882353,1.0,1.0,6/24,16.39%,NUP153;SEC13;NUP88;NUP133;HIF1A;ZBTB7A
-prerank,GO_Biological_Process_2021__protein K63-linked ubiquitination (GO:0070534),0.5866996083954302,1.1067221173204118,0.36363636363636365,1.0,1.0,9/25,30.80%,PELI1;RNF168;RNF152;TRIM5;HECTD1;UBE2B;ARIH2;RNF115;NEDD4
+prerank,GO_Biological_Process_2021__protein K63-linked ubiquitination (GO:0070534),0.5866996083954303,1.106722117320412,0.36363636363636365,1.0,1.0,9/25,30.80%,PELI1;RNF168;RNF152;TRIM5;HECTD1;UBE2B;ARIH2;RNF115;NEDD4
 prerank,GO_Biological_Process_2021__myoblast fusion (GO:0007520),0.7539265005329305,1.1062264624385125,0.3380281690140845,1.0,1.0,3/5,23.42%,ADGRB3;CD9;CD81
 prerank,GO_Biological_Process_2021__negative regulation of reactive oxygen species biosynthetic process (GO:1903427),0.7541609873752991,1.1061378986416495,0.40789473684210525,1.0,1.0,1/5,7.80%,PPARA
 prerank,GO_Biological_Process_2021__ribosomal small subunit biogenesis (GO:0042274),0.614719759961259,1.1059446001851079,0.38461538461538464,1.0,1.0,2/14,12.38%,DDX52;RIOK3
@@ -1270,16 +1270,16 @@ prerank,GO_Biological_Process_2021__cellular response to peptide hormone stimulu
 prerank,GO_Biological_Process_2021__positive regulation of cellular biosynthetic process (GO:0031328),0.5382834807579981,1.1005864872389133,0.35051546391752575,1.0,1.0,19/77,20.04%,KLF2;DDX3X;NOS1AP;EGFR;IRS1;PPARGC1A;ELAVL1;HIF1A;SREBF1;ATAD5;INSR;METTL14;SCARB1;PTPN2;PTH1R;ABCB10;ELOVL5;SLC25A37;SP1
 prerank,GO_Biological_Process_2021__protein transport (GO:0015031),0.5214789675680132,1.1003095643660576,0.27,1.0,1.0,49/159,23.98%,STX6;ARRDC2;ATP6V1G1;ARL5A;ATP6V1H;ANK3;OLFM2;GGA3;RAB28;AP2A1;COG7;PRKCB;SNX6;SEC13;SYNDIG1;ATP6V1E1;TRIM23;RAB18;ARFGAP3;RAB7A;NSF;NAPG;RAB12;AP3D1;TBC1D15;PREPL;CANX;ARF4;ABCA1;ARF1;SNX4;CMTM6;RAB8B;RUFY1;TBC1D8;NAPB;STX2;TBC1D5;CEP290;STX12;TF;SLC10A7;LAMP2;RABGAP1L;USP6NL;BLZF1;DNM2;TBC1D4;USO1
 prerank,GO_Biological_Process_2021__snRNA 3'-end processing (GO:0034472),0.6963936080581294,1.1002709598566787,0.373134328358209,1.0,1.0,5/6,29.26%,INTS2;INTS8;INTS6L;INTS6;INTS7
-prerank,GO_Biological_Process_2021__nucleosome disassembly (GO:0006337),0.7256420173245481,1.1002693453838512,0.3333333333333333,1.0,1.0,4/6,27.37%,ARID1A;SMARCA4;SUPT16H;ARID2
 prerank,GO_Biological_Process_2021__chromatin disassembly (GO:0031498),0.7256420173245481,1.1002693453838512,0.3333333333333333,1.0,1.0,4/6,27.37%,ARID1A;SMARCA4;SUPT16H;ARID2
+prerank,GO_Biological_Process_2021__nucleosome disassembly (GO:0006337),0.7256420173245481,1.1002693453838512,0.3333333333333333,1.0,1.0,4/6,27.37%,ARID1A;SMARCA4;SUPT16H;ARID2
 prerank,GO_Biological_Process_2021__positive regulation of vasculature development (GO:1904018),0.5640874451086718,1.100246414219321,0.36666666666666664,1.0,1.0,12/40,20.04%,RHOB;MYDGF;AGO2;FLT1;PRKCB;F3;HIF1A;RUNX1;TWIST1;ANGPTL4;KDR;SP1
 prerank,GO_Biological_Process_2021__negative regulation of cell motility (GO:2000146),0.5751191344913105,1.100162601048085,0.30851063829787234,1.0,1.0,15/53,25.48%,STC1;RHOB;FRMD5;ROBO1;TCAF1;NF2;NAV3;SCAI;SMAD7;NF1;TP53INP1;KANK1;TMEFF2;FOXO3;STK24
 prerank,GO_Biological_Process_2021__positive regulation of lamellipodium organization (GO:1902745),0.613590634684037,1.1000262544696744,0.36470588235294116,1.0,1.0,3/19,13.21%,ACTR3;AKIRIN1;ARHGEF7
 prerank,GO_Biological_Process_2021__negative regulation of peptidyl-threonine phosphorylation (GO:0010801),0.7036353984404916,1.099897345355237,0.4782608695652174,1.0,1.0,1/8,2.96%,DDIT4
 prerank,GO_Biological_Process_2021__regulation of cardiac muscle contraction by calcium ion signaling (GO:0010882),0.639782215877938,1.0996850146936017,0.375,1.0,1.0,1/12,1.54%,PRKACA
 prerank,GO_Biological_Process_2021__negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway (GO:1902236),0.6991640833001648,1.0995301413376863,0.3684210526315789,1.0,1.0,3/8,15.00%,SELENOS;TMBIM6;LRRK2
-prerank,GO_Biological_Process_2021__cellular sodium ion homeostasis (GO:0006883),0.6647396033201404,1.0994176509859643,0.3974358974358974,1.0,1.0,2/9,5.32%,NEDD4L;ATP1B3
 prerank,GO_Biological_Process_2021__sodium ion homeostasis (GO:0055078),0.6647396033201404,1.0994176509859643,0.3974358974358974,1.0,1.0,2/9,5.32%,NEDD4L;ATP1B3
+prerank,GO_Biological_Process_2021__cellular sodium ion homeostasis (GO:0006883),0.6647396033201404,1.0994176509859643,0.3974358974358974,1.0,1.0,2/9,5.32%,NEDD4L;ATP1B3
 prerank,GO_Biological_Process_2021__nuclear pore organization (GO:0006999),0.647380527879149,1.0993334821580978,0.38461538461538464,1.0,1.0,2/10,10.62%,NUP153;NUP133
 prerank,GO_Biological_Process_2021__GPI anchor biosynthetic process (GO:0006506),0.6583971570633301,1.0992826813007,0.3815789473684211,0.9996194848891589,1.0,2/10,8.92%,DPM1;PIGL
 prerank,GO_Biological_Process_2021__negative regulation of smooth muscle cell proliferation (GO:0048662),0.6439688252733919,1.0992618860352643,0.38666666666666666,0.9988100223740116,1.0,4/12,19.91%,OGN;SOD2;PDCD4;CDKN1B
@@ -1325,8 +1325,8 @@ prerank,GO_Biological_Process_2021__cyclic-nucleotide-mediated signaling (GO:001
 prerank,PanglaoDB_Augmented_2021__B Cells Memory,-0.5279688975318282,-1.0916875693184913,0.43478260869565216,0.9816893078139729,1.0,1/13,0.19%,WDFY4
 prerank,GO_Biological_Process_2021__histone ubiquitination (GO:0016574),0.6320048937181436,1.091479713653933,0.41025641025641024,1.0,1.0,4/11,27.25%,CTR9;WAC;UBE2B;USP22
 prerank,GO_Biological_Process_2021__ventricular cardiac muscle tissue morphogenesis (GO:0055010),0.6398300913126572,1.091124200787457,0.35365853658536583,1.0,1.0,7/17,20.05%,NRG1;TGFB1;ZFPM2;FGFR2;MYL3;RBPJ;SMAD7
-prerank,GO_Biological_Process_2021__positive regulation of glycogen metabolic process (GO:0070875),0.743638623830471,1.091122370698812,0.36764705882352944,1.0,1.0,3/6,21.68%,IRS1;INSR;IRS2
 prerank,GO_Biological_Process_2021__positive regulation of glycogen biosynthetic process (GO:0045725),0.743638623830471,1.091122370698812,0.36764705882352944,1.0,1.0,3/6,21.68%,IRS1;INSR;IRS2
+prerank,GO_Biological_Process_2021__positive regulation of glycogen metabolic process (GO:0070875),0.743638623830471,1.091122370698812,0.36764705882352944,1.0,1.0,3/6,21.68%,IRS1;INSR;IRS2
 prerank,GO_Biological_Process_2021__platelet degranulation (GO:0002576),0.5464448941592313,1.0910072276672258,0.3695652173913043,1.0,1.0,8/52,16.02%,SRGN;SOD1;HABP4;TGFB1;TMSB4X;SYTL4;CD9;TTN
 prerank,GO_Biological_Process_2021__response to sterol (GO:0036314),0.6874950749547873,1.0908734033403857,0.38028169014084506,1.0,1.0,2/5,18.97%,TGFB1;SMAD2
 prerank,GO_Biological_Process_2021__response to lipid (GO:0033993),0.5783759823318038,1.0908594729834553,0.40229885057471265,0.99963758307857,1.0,13/29,26.69%,PELI1;SCD;ADAM17;PPARA;TGFB1;MAPKAPK2;STAT3;ERBIN;GPX3;SMAD6;TAB2;FOXO3;STRN3
@@ -1359,8 +1359,8 @@ prerank,GO_Biological_Process_2021__establishment of spindle localization (GO:00
 prerank,GO_Biological_Process_2021__snRNA processing (GO:0016180),0.6669668409294428,1.0870098158352923,0.3787878787878788,0.995099682939462,1.0,6/10,29.26%,INTS2;INTS8;INTS6L;INTS4;INTS6;INTS7
 prerank,GO_Biological_Process_2021__regulation of execution phase of apoptosis (GO:1900117),0.6930599633707732,1.0869655238312619,0.3717948717948718,0.994358347915709,1.0,1/6,12.87%,FZD3
 prerank,GO_Biological_Process_2021__positive regulation of defense response (GO:0031349),0.5639733319726123,1.0868827531914989,0.3448275862068966,0.9937906935071832,1.0,5/26,17.60%,NFKBIA;IL18;NFKBIZ;RIOK3;PDCD4
-prerank,GO_Biological_Process_2021__tRNA-containing ribonucleoprotein complex export from nucleus (GO:0071431),0.6076660895636058,1.086800480630577,0.37037037037037035,0.9924230218476653,1.0,4/18,10.62%,NUP153;SEC13;NUP88;NUP133
 prerank,GO_Biological_Process_2021__tRNA export from nucleus (GO:0006409),0.6076660895636058,1.086800480630577,0.37037037037037035,0.9924230218476653,1.0,4/18,10.62%,NUP153;SEC13;NUP88;NUP133
+prerank,GO_Biological_Process_2021__tRNA-containing ribonucleoprotein complex export from nucleus (GO:0071431),0.6076660895636058,1.086800480630577,0.37037037037037035,0.9924230218476653,1.0,4/18,10.62%,NUP153;SEC13;NUP88;NUP133
 prerank,GO_Biological_Process_2021__ubiquitin-dependent protein catabolic process (GO:0006511),0.5200190115322526,1.0867303879703754,0.23232323232323232,0.9918495839754856,1.0,36/180,18.92%,OS9;PLAA;NEDD4L;PSMB1;AMFR;ZNRF1;PSMB2;RC3H2;PELI1;NDFIP2;BTRC;PSMA7;RNF168;MARCHF6;RNF34;CLOCK;TRIM9;OTUD7A;NDFIP1;SMURF2;PSMA4;SIAH1;MDM2;MVB12B;RNF19A;PSMD14;RBX1;RNF111;WWP1;ZSWIM8;HECW1;APPBP2;ANAPC4;RBBP6;FBXO11;AREL1
 prerank,GO_Biological_Process_2021__cellular response to epidermal growth factor stimulus (GO:0071364),0.6117577784100852,1.086642426194438,0.3780487804878049,0.9914037113304487,1.0,3/15,12.86%,ZFP36L2;EGFR;PDE8A
 prerank,GO_Biological_Process_2021__dicarboxylic acid metabolic process (GO:0043648),0.6365960084927685,1.0862328972641109,0.4457831325301205,0.9923493040753011,1.0,9/14,30.97%,MTHFD2L;ALDH1L1;ME2;MTHFD1L;GCLC;ASS1;SLC19A1;MTHFR;DLST
@@ -1426,8 +1426,8 @@ prerank,GO_Biological_Process_2021__negative regulation of cellular component mo
 prerank,GO_Biological_Process_2021__regulation of viral genome replication (GO:0045069),0.5996494812423305,1.0743057018587043,0.40229885057471265,0.9941266960766715,1.0,4/26,7.80%,VAPB;DDX3X;EIF2AK2;PPARA
 prerank,GO_Biological_Process_2021__positive regulation of reproductive process (GO:2000243),0.6770525294777106,1.0741288606425246,0.4266666666666667,0.9937610546583675,1.0,7/11,30.38%,AGO2;SMURF2;POMZP3;ACVR1B;LHFPL2;TACR1;VEGFA
 prerank,PanglaoDB_Augmented_2021__Red Pulp Macrophages,-0.6124727567898871,-1.0739394475938069,0.44,1.0,1.0,1/6,0.19%,WDFY4
-prerank,GO_Biological_Process_2021__response to host defenses (GO:0052200),0.7000342056153734,1.0736907542525986,0.42424242424242425,0.9937435494609805,1.0,1/5,10.05%,RPS27A
 prerank,GO_Biological_Process_2021__modulation by symbiont of host defense response (GO:0052031),0.7000342056153734,1.0736907542525986,0.42424242424242425,0.9937435494609805,1.0,1/5,10.05%,RPS27A
+prerank,GO_Biological_Process_2021__response to host defenses (GO:0052200),0.7000342056153734,1.0736907542525986,0.42424242424242425,0.9937435494609805,1.0,1/5,10.05%,RPS27A
 prerank,GO_Biological_Process_2021__positive regulation of nervous system development (GO:0051962),0.5872971418752415,1.0736243553800835,0.3974358974358974,0.9931906262610134,1.0,5/16,20.38%,PTPRD;SYNDIG1;NLGN1;NRXN1;NAP1L1
 prerank,GO_Biological_Process_2021__negative regulation of viral life cycle (GO:1903901),0.6969455715585104,1.0734895526584591,0.38666666666666666,0.992818458343746,1.0,2/6,20.19%,TRIM5;IFITM3
 prerank,GO_Biological_Process_2021__regulation of phospholipid metabolic process (GO:1903725),0.7198783418891475,1.0733967979848607,0.4507042253521127,0.9923870337487528,1.0,2/6,7.99%,MTMR9;MTMR1
@@ -1509,7 +1509,7 @@ prerank,GO_Biological_Process_2021__protein catabolic process (GO:0030163),0.548
 prerank,GO_Biological_Process_2021__organic cation transport (GO:0015695),-0.5769412264744425,-1.0568525286019461,0.4,0.9997263727245415,1.0,2/8,6.85%,RALBP1;SLC25A26
 prerank,GO_Biological_Process_2021__positive regulation of cation transmembrane transport (GO:1904064),0.6290024565770445,1.0567196542815909,0.47560975609756095,1.0,1.0,5/12,14.13%,KCNQ1;ANK3;NOS1AP;GNB1;AKAP6
 prerank,MSigDB_Hallmark_2020__Oxidative Phosphorylation,0.5215988215071379,1.0566727128077174,0.3711340206185567,1.0,1.0,15/78,17.76%,ATP6V1G1;ATP6V1H;PDHX;ACADVL;NDUFV1;COX6C;ATP6V1E1;GLUD1;SLC25A3;SLC25A4;NDUFS2;NDUFB2;PDK4;SUCLG1;COX4I1
-prerank,GO_Biological_Process_2021__regulation of cellular response to stress (GO:0080135),0.5022874937327133,1.0565942618640114,0.40625,1.0,1.0,16/59,21.63%,AMFR;NUP153;SEC13;NUP88;CORO2B;NUP133;CEBPB;ROCK2;DNAJC7;MAPKAPK2;MAPK1;RPA1;HSPH1;ABL1;CAMK2D;NUP205
+prerank,GO_Biological_Process_2021__regulation of cellular response to stress (GO:0080135),0.5022874937327133,1.0565942618640116,0.40625,1.0,1.0,16/59,21.63%,AMFR;NUP153;SEC13;NUP88;CORO2B;NUP133;CEBPB;ROCK2;DNAJC7;MAPKAPK2;MAPK1;RPA1;HSPH1;ABL1;CAMK2D;NUP205
 prerank,GO_Biological_Process_2021__inflammatory response (GO:0006954),0.5433033589943119,1.0561336951250009,0.45263157894736844,1.0,1.0,9/46,14.42%,CD44;CSF1R;IL18;NAIP;TBK1;TGFB1;CEBPB;MAPKAPK2;STAT3
 prerank,GO_Biological_Process_2021__cellular response to catecholamine stimulus (GO:0071870),0.6324464178394646,1.05611708181645,0.4125,1.0,1.0,7/16,16.47%,PRKACA;NR4A3;KCNQ1;PDE4B;GNB1;LRRK2;MAPK1
 prerank,GO_Biological_Process_2021__organelle organization (GO:0006996),0.5061849797407887,1.056095084907872,0.37373737373737376,1.0,1.0,32/193,15.62%,TBC1D20;RANBP10;VAPB;WASF3;TOR1AIP2;COG2;FAM174B;ATL1;DPYSL2;COG7;CSNK1D;NECTIN2;DIAPH1;CSNK1A1;PRKCI;ATL2;AGTPBP1;VAPA;WDR73;PPARGC1A;MTFR1;RAB18;RAB7A;ARHGEF7;CAPZB;RANBP9;PLAAT3;REEP5;MICAL3;CFL1;LRRK2;PACSIN2
@@ -1604,8 +1604,8 @@ prerank,GO_Biological_Process_2021__regulation of amyloid-beta formation (GO:190
 prerank,GO_Biological_Process_2021__negative regulation of protein serine/threonine kinase activity (GO:0071901),-0.3516641189158461,-1.0411894084597146,0.4166666666666667,1.0,1.0,2/40,1.16%,SPRY3;SPRY1
 prerank,GO_Biological_Process_2021__regulation of gene expression (GO:0010468),0.49009972670287727,1.0410586546963068,0.33,0.9963382140844089,1.0,75/399,20.27%,NELL1;WWC1;CSF1;HNRNPL;PRDM6;GJA1;PCBP3;DDX3X;ZC3H7B;ANK3;RAB27A;RIMS2;SUFU;AGO2;HCFC2;WWC2;NOS1AP;FUBP1;CTR9;NDFIP2;HNRNPF;IGF2BP2;PRDM10;ESR2;YAF2;DNMT1;CCAR1;TGFB1;APBB1;ROBO1;ZC3H7A;PTBP2;CLOCK;F3;PPARGC1A;NFKBIZ;GRSF1;HIF1A;ADNP2;MTF2;CEBPB;ZNF536;PTRH2;NDFIP1;ROCK2;FUBP3;CREM;BCL6;RUNX1;CAMK2N1;STAT3;TRIM5;SRSF10;INSR;ACVR1B;TTN;TWIST1;MAPK1;TIPARP;MZF1;KDM6A;MAP2K1;TDG;PLAG1;PER1;NOVA1;AFF4;SLC22A2;RBPJ;KDR;C1QTNF1;SP1;UBR5;NLK;ABL1
 prerank,GO_Biological_Process_2021__transepithelial transport (GO:0070633),0.6860231287719518,1.0409695027466541,0.47435897435897434,0.996014040873968,1.0,2/6,15.65%,SLC23A2;SLC1A2
-prerank,"GO_Biological_Process_2021__DNA-templated transcription, elongation (GO:0006354)",0.5527048144318367,1.040830677586826,0.4659090909090909,0.9949661009962807,1.0,12/31,28.21%,CTR9;CCNH;AFF4;RTF1;MLLT1;CCNK;SUPT16H;ELL;POLR2F;ELOB;SETD2;ELP2
 prerank,GO_Biological_Process_2021__transcription elongation from RNA polymerase II promoter (GO:0006368),0.5527048144318367,1.040830677586826,0.4659090909090909,0.9949661009962807,1.0,12/31,28.21%,CTR9;CCNH;AFF4;RTF1;MLLT1;CCNK;SUPT16H;ELL;POLR2F;ELOB;SETD2;ELP2
+prerank,"GO_Biological_Process_2021__DNA-templated transcription, elongation (GO:0006354)",0.5527048144318367,1.040830677586826,0.4659090909090909,0.9949661009962807,1.0,12/31,28.21%,CTR9;CCNH;AFF4;RTF1;MLLT1;CCNK;SUPT16H;ELL;POLR2F;ELOB;SETD2;ELP2
 prerank,GO_Biological_Process_2021__positive regulation of cellular process (GO:0048522),0.5005862166747612,1.0404521360614913,0.38,0.9954829960942563,1.0,32/198,14.87%,CSF1;S1PR3;HDAC2;GRIN1;DDX3X;NRG1;EAPP;RAB27A;CSF1R;RNF10;FLT1;TNFRSF1B;CCAR1;ADAM17;FRMD5;TGFB1;EGFR;IRS1;EFNB2;CNOT8;CDC123;SDCBP;ADNP2;CCN2;PRLR;ANKRD17;TBX3;MDM2;AKAP6;FGFR2;PPP3CA;INSR
 prerank,GO_Biological_Process_2021__regulation of neuronal synaptic plasticity (GO:0048168),0.6341124259837784,1.0399682092546094,0.4603174603174603,0.9963844572030586,1.0,2/9,12.64%,GRIK2;SLC4A10
 prerank,GO_Biological_Process_2021__zinc ion transport (GO:0006829),0.6720759555419576,1.0399523013061862,0.4852941176470588,0.9957066107990209,1.0,2/6,23.08%,SLC39A11;MT3
@@ -1635,8 +1635,8 @@ prerank,GO_Biological_Process_2021__mitochondrial translation (GO:0032543),-0.45
 prerank,GO_Biological_Process_2021__positive regulation of lipid biosynthetic process (GO:0046889),0.6314318770290767,1.0330686662805055,0.5176470588235295,1.0,1.0,4/12,19.84%,PPARA;SREBF1;SCARB1;ELOVL5
 prerank,GO_Biological_Process_2021__positive regulation of protein transport (GO:0051222),0.540760029972906,1.032893811989283,0.42857142857142855,1.0,1.0,9/35,21.20%,RIPOR1;TGFB1;APBB1;CNST;SYTL4;EXOC1;TTN;PRR5L;CEP290
 prerank,GO_Biological_Process_2021__mesenchymal cell differentiation (GO:0048762),0.5374008968910111,1.0324675399458474,0.42045454545454547,1.0,1.0,7/28,23.70%,TGFB1;HIF1A;ROCK2;FGFR2;LOXL3;RBPJ;LEF1
-prerank,GO_Biological_Process_2021__interleukin-7-mediated signaling pathway (GO:0038111),0.6894307181939342,1.0323696979798804,0.4666666666666667,1.0,1.0,4/8,21.68%,IRS1;STAT3;SMARCA4;IRS2
 prerank,GO_Biological_Process_2021__cellular response to interleukin-7 (GO:0098761),0.6894307181939342,1.0323696979798804,0.4666666666666667,1.0,1.0,4/8,21.68%,IRS1;STAT3;SMARCA4;IRS2
+prerank,GO_Biological_Process_2021__interleukin-7-mediated signaling pathway (GO:0038111),0.6894307181939342,1.0323696979798804,0.4666666666666667,1.0,1.0,4/8,21.68%,IRS1;STAT3;SMARCA4;IRS2
 prerank,GO_Biological_Process_2021__response to estradiol (GO:0032355),0.6114715612343913,1.0323110070821564,0.4189189189189189,1.0,1.0,4/13,16.00%,TGFB1;EGFR;STAT3;LCOR
 prerank,GO_Biological_Process_2021__response to organic cyclic compound (GO:0014070),0.5828848790251533,1.0322123333164954,0.5,1.0,1.0,5/17,16.78%,IL18;TGFB1;STAT3;LRRK2;TIPARP
 prerank,GO_Biological_Process_2021__long-term memory (GO:0007616),0.6595164883772542,1.0316302714528538,0.5,1.0,1.0,2/7,18.19%,EIF2AK4;PRNP
@@ -1669,8 +1669,8 @@ prerank,GO_Biological_Process_2021__positive regulation of insulin receptor sign
 prerank,GO_Biological_Process_2021__positive regulation of DNA-binding transcription factor activity (GO:0051091),0.49036129259734534,1.0265016178804967,0.47474747474747475,1.0,1.0,14/86,16.39%,NFKBIA;KDM1A;IL18;PRKCB;ESR2;EIF2AK2;PRKCI;CLOCK;RPS27A;PPARGC1A;STAT3;TRIM5;TP53BP1;ZBTB7A
 prerank,GO_Biological_Process_2021__receptor signaling pathway via STAT (GO:0097696),0.5826497321488314,1.0257269731904437,0.42168674698795183,1.0,1.0,2/14,14.42%,CTR9;STAT3
 prerank,GO_Biological_Process_2021__lipid catabolic process (GO:0016042),0.6563407899407856,1.0256550637767756,0.525,1.0,1.0,3/7,23.08%,ACADL;PLAAT3;MT3
-prerank,GO_Biological_Process_2021__protein homotrimerization (GO:0070207),0.6823597059581242,1.025648720949992,0.5138888888888888,1.0,1.0,2/5,19.18%,SLC1A2;STEAP4
 prerank,GO_Biological_Process_2021__protein trimerization (GO:0070206),0.6823597059581242,1.025648720949992,0.5138888888888888,1.0,1.0,2/5,19.18%,SLC1A2;STEAP4
+prerank,GO_Biological_Process_2021__protein homotrimerization (GO:0070207),0.6823597059581242,1.025648720949992,0.5138888888888888,1.0,1.0,2/5,19.18%,SLC1A2;STEAP4
 prerank,GO_Biological_Process_2021__energy reserve metabolic process (GO:0006112),0.6296944858155653,1.0252380630157913,0.4935064935064935,1.0,1.0,4/10,23.22%,GBE1;PHKB;MT3;UGP2
 prerank,GO_Biological_Process_2021__negative regulation of endothelial cell proliferation (GO:0001937),-0.44462323394203684,-1.0251153387176581,0.38095238095238093,1.0,1.0,1/16,0.33%,CAV2
 prerank,GO_Biological_Process_2021__regulation of potassium ion transmembrane transporter activity (GO:1901016),0.5882272092074768,1.0251142794551715,0.4935064935064935,1.0,1.0,3/15,5.85%,NEDD4L;ATP1B3;FHL1
@@ -1710,8 +1710,8 @@ prerank,GO_Biological_Process_2021__regulation of macrophage chemotaxis (GO:0010
 prerank,GO_Biological_Process_2021__histone deubiquitination (GO:0016578),0.5886095775256533,1.0185375510423416,0.5061728395061729,1.0,1.0,3/11,15.29%,USP15;BRCC3;USP3
 prerank,GO_Biological_Process_2021__positive regulation of mononuclear cell migration (GO:0071677),-0.5598674803854429,-1.018526119572565,0.3870967741935484,1.0,1.0,3/6,13.18%,ANO6;CXCL12;HMGB1
 prerank,GO_Biological_Process_2021__positive regulation of macrophage differentiation (GO:0045651),0.6388456881847762,1.0184126863137517,0.5454545454545454,1.0,1.0,2/5,8.45%,CSF1;TGFB1
-prerank,GO_Biological_Process_2021__positive regulation of purine nucleotide metabolic process (GO:1900544),0.5993506163693474,1.0183019352373304,0.42857142857142855,1.0,1.0,2/10,14.87%,HIF1A;INSR
 prerank,GO_Biological_Process_2021__positive regulation of glycolytic process (GO:0045821),0.5993506163693474,1.0183019352373304,0.42857142857142855,1.0,1.0,2/10,14.87%,HIF1A;INSR
+prerank,GO_Biological_Process_2021__positive regulation of purine nucleotide metabolic process (GO:1900544),0.5993506163693474,1.0183019352373304,0.42857142857142855,1.0,1.0,2/10,14.87%,HIF1A;INSR
 prerank,GO_Biological_Process_2021__organonitrogen compound biosynthetic process (GO:1901566),0.5040605420194333,1.018062074146111,0.5102040816326531,1.0,1.0,17/64,22.72%,CSNK1G2;LPIN1;VAPB;MGST1;SGPL1;VAPA;SAMD8;LPCAT3;TYW1B;CHKA;CSNK2A1;ACER3;ELOVL5;CERS6;SPTLC1;SPTLC3;SGPP1
 prerank,GO_Biological_Process_2021__regulation of actin filament bundle assembly (GO:0032231),-0.5017755509018174,-1.0180440000299935,0.38095238095238093,1.0,1.0,4/13,11.88%,SYNPO2;SLC9A1;CDC42;ACTG1
 prerank,GO_Biological_Process_2021__regulation of intracellular steroid hormone receptor signaling pathway (GO:0033143),0.5723648446960096,1.0179711230163453,0.5189873417721519,1.0,1.0,4/17,13.52%,UBA5;KDM1A;UFSP2;RUNX1
@@ -1904,9 +1904,9 @@ prerank,GO_Biological_Process_2021__positive regulation of hydrolase activity (G
 prerank,GO_Biological_Process_2021__alpha-linolenic acid metabolic process (GO:0036109),0.6668616334221171,0.9886416219978669,0.56,0.986154446419847,1.0,3/7,27.93%,FADS2;ELOVL5;HSD17B4
 prerank,GO_Biological_Process_2021__defense response to virus (GO:0051607),0.5120706672424808,0.9886139006120794,0.5393258426966292,0.985636703277262,1.0,11/39,20.52%,DDIT4;EIF2AK2;BNIP3L;SERINC3;ABCC9;TRIM5;MAP3K14;NCBP3;IFIT3;IFITM3;BNIP3
 prerank,GO_Biological_Process_2021__establishment of melanosome localization (GO:0032401),0.6440078894038543,0.9885292667936937,0.5555555555555556,0.9834458921580805,1.0,1/7,3.72%,RAB27A
-prerank,GO_Biological_Process_2021__pigment granule transport (GO:0051904),0.6440078894038543,0.9885292667936937,0.5555555555555556,0.9834458921580805,1.0,1/7,3.72%,RAB27A
-prerank,GO_Biological_Process_2021__melanosome localization (GO:0032400),0.6440078894038543,0.9885292667936937,0.5555555555555556,0.9834458921580805,1.0,1/7,3.72%,RAB27A
 prerank,GO_Biological_Process_2021__melanosome transport (GO:0032402),0.6440078894038543,0.9885292667936937,0.5555555555555556,0.9834458921580805,1.0,1/7,3.72%,RAB27A
+prerank,GO_Biological_Process_2021__melanosome localization (GO:0032400),0.6440078894038543,0.9885292667936937,0.5555555555555556,0.9834458921580805,1.0,1/7,3.72%,RAB27A
+prerank,GO_Biological_Process_2021__pigment granule transport (GO:0051904),0.6440078894038543,0.9885292667936937,0.5555555555555556,0.9834458921580805,1.0,1/7,3.72%,RAB27A
 prerank,GO_Biological_Process_2021__neutrophil activation involved in immune response (GO:0002283),0.46790722275007013,0.9884514154805719,0.54,0.9830072100199929,1.0,28/160,18.01%,SLC2A3;CD44;DDX3X;PSMB1;RAB27A;MGST1;LRRC7;DIAPH1;TMEM30A;CRISPLD2;TNFRSF1B;ATP11A;SNAP25;VAPA;RAP1B;SDCBP;RAB18;OSTF1;RAB7A;CST3;APAF1;ATP11B;PSMD14;PDXK;MAPK1;MAGT1;LGALS3;MANBA
 prerank,GO_Biological_Process_2021__positive regulation of MAPK cascade (GO:0043410),0.4839376256196489,0.9883282623366356,0.5319148936170213,0.9826952410711665,1.0,17/82,15.00%,WWC1;CD44;MID1;MYDGF;CSF1R;FLT1;EIF2AK2;TGFB1;EGFR;ROBO1;CCN2;ROCK2;PDE8A;FGFR2;TRIM5;INSR;LRRK2
 prerank,GO_Biological_Process_2021__negative regulation of response to external stimulus (GO:0032102),0.5247620330907928,0.9881288730023293,0.550561797752809,0.9826925719035976,1.0,8/33,17.35%,PPARA;SELENOS;CTNNA2;TRAF3IP1;CASK;LPCAT3;LRFN5;PTPN2
@@ -1928,8 +1928,8 @@ prerank,GO_Biological_Process_2021__regulation of lipid transport (GO:0032368),0
 prerank,GO_Biological_Process_2021__regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway (GO:1903376),0.6952104798544901,0.9854754172147332,0.5714285714285714,0.9814787341187956,1.0,2/5,28.29%,HIF1A;MCL1
 prerank,PanglaoDB_Augmented_2021__Osteoclast Precursor Cells,0.5475697920901401,0.9853566689332498,0.5595238095238095,0.9812084440410317,1.0,4/17,11.12%,SRGN;CSF1R;TNFRSF1B;PTPRE
 prerank,GO_Biological_Process_2021__positive regulation of muscle hypertrophy (GO:0014742),0.6056149924997883,0.9851616964531429,0.5131578947368421,0.9812316744269257,1.0,3/11,20.55%,NR4A3;ROCK2;CAMK2D
-prerank,GO_Biological_Process_2021__branched-chain amino acid catabolic process (GO:0009083),0.5976872925639917,0.9848864188562685,0.547945205479452,0.9807110920562363,1.0,3/11,13.73%,BCKDHB;MCCC2;BCAT2
 prerank,GO_Biological_Process_2021__branched-chain amino acid metabolic process (GO:0009081),0.5976872925639917,0.9848864188562685,0.547945205479452,0.9807110920562363,1.0,3/11,13.73%,BCKDHB;MCCC2;BCAT2
+prerank,GO_Biological_Process_2021__branched-chain amino acid catabolic process (GO:0009083),0.5976872925639917,0.9848864188562685,0.547945205479452,0.9807110920562363,1.0,3/11,13.73%,BCKDHB;MCCC2;BCAT2
 prerank,GO_Biological_Process_2021__regulation of smoothened signaling pathway (GO:0008589),0.5065615866134543,0.9846508805035351,0.4883720930232558,0.980709680624696,1.0,7/27,23.87%,SUFU;BTRC;TTC23;FGFR2;MGRN1;EVC;ARMC9
 prerank,GO_Biological_Process_2021__regulation of mitotic cell cycle spindle assembly checkpoint (GO:0090266),0.6341170044739247,0.984070658756729,0.5641025641025641,0.9818034503442771,1.0,1/6,9.26%,DUSP1
 prerank,GO_Biological_Process_2021__'de novo' posttranslational protein folding (GO:0051084),0.5440001198669309,0.9839005767820201,0.5,0.9817143043546775,1.0,5/14,22.30%,DNAJC7;ST13;HSPA5;DNAJC18;GAK
@@ -1946,8 +1946,8 @@ prerank,GO_Biological_Process_2021__neuron development (GO:0048666),0.4827348633
 prerank,GO_Biological_Process_2021__synapse assembly (GO:0007416),0.5163339530881876,0.9814554869809468,0.5172413793103449,0.9826397889931652,1.0,6/24,12.84%,NRCAM;DNER;CDH2;KIRREL3;NLGN1;FARP1
 prerank,GO_Biological_Process_2021__lymphocyte differentiation (GO:0030098),-0.37681562084462455,-0.9812950496171866,0.5384615384615384,1.0,1.0,3/20,4.50%,CD4;HDAC9;GPR89B
 prerank,GO_Biological_Process_2021__snRNA transcription by RNA polymerase II (GO:0042795),0.5249171762426476,0.9811382363296961,0.5168539325842697,0.9829028137258511,1.0,9/34,25.78%,ELL2;INTS2;INTS8;CCNK;SP1;ELL;POLR2F;INTS4;INTS6
-prerank,GO_Biological_Process_2021__transport across blood-brain barrier (GO:0150104),0.521239555260183,0.9804907340169884,0.5463917525773195,0.9835759618346651,1.0,10/38,15.65%,SLC2A3;SLC6A17;SLC7A2;SLC2A1;SLC16A7;SLC16A12;SLC13A3;ABCC9;INSR;SLC1A2
 prerank,GO_Biological_Process_2021__vascular transport (GO:0010232),0.521239555260183,0.9804907340169884,0.5463917525773195,0.9835759618346651,1.0,10/38,15.65%,SLC2A3;SLC6A17;SLC7A2;SLC2A1;SLC16A7;SLC16A12;SLC13A3;ABCC9;INSR;SLC1A2
+prerank,GO_Biological_Process_2021__transport across blood-brain barrier (GO:0150104),0.521239555260183,0.9804907340169884,0.5463917525773195,0.9835759618346651,1.0,10/38,15.65%,SLC2A3;SLC6A17;SLC7A2;SLC2A1;SLC16A7;SLC16A12;SLC13A3;ABCC9;INSR;SLC1A2
 prerank,PanglaoDB_Augmented_2021__T Cells,-0.45767919248080247,-0.9804829704561631,0.47058823529411764,1.0,1.0,5/19,8.27%,CD4;DKK3;CLEC2D;SEMA6D;NOTCH3
 prerank,GO_Biological_Process_2021__negative regulation of platelet-derived growth factor receptor signaling pathway (GO:0010642),0.6578716150947147,0.9799707571807034,0.573170731707317,0.9844113288172599,1.0,1/5,17.35%,PTPN2
 prerank,GO_Biological_Process_2021__regulation of cholesterol transport (GO:0032374),-0.5723338033148893,-0.979704090902895,0.4482758620689655,1.0,1.0,3/8,11.62%,OSBPL6;ABCA8;NUS1
@@ -2002,8 +2002,8 @@ prerank,GO_Biological_Process_2021__lipid translocation (GO:0034204),-0.44802386
 prerank,GO_Biological_Process_2021__positive regulation of alpha-beta T cell proliferation (GO:0046641),0.6185021931341986,0.9722525445836636,0.5492957746478874,0.9814560416782645,1.0,1/6,6.02%,IL18
 prerank,GO_Biological_Process_2021__positive regulation of protein targeting to membrane (GO:0090314),0.6152500617870208,0.9722198766780744,0.5316455696202531,0.9809673250981715,1.0,3/11,18.19%,ANK3;TCAF1;PRNP
 prerank,GO_Biological_Process_2021__purine nucleotide metabolic process (GO:0006163),-0.5737610968909661,-0.9721685271181884,0.5384615384615384,1.0,1.0,1/8,1.04%,PRPSAP1
-prerank,GO_Biological_Process_2021__adenine nucleotide transport (GO:0051503),0.6600678137577447,0.9721644835823687,0.5652173913043478,0.979979629198072,1.0,3/5,28.24%,SLC25A4;SLC25A17;SLC19A1
 prerank,GO_Biological_Process_2021__purine ribonucleotide transport (GO:0015868),0.6600678137577447,0.9721644835823687,0.5652173913043478,0.979979629198072,1.0,3/5,28.24%,SLC25A4;SLC25A17;SLC19A1
+prerank,GO_Biological_Process_2021__adenine nucleotide transport (GO:0051503),0.6600678137577447,0.9721644835823687,0.5652173913043478,0.979979629198072,1.0,3/5,28.24%,SLC25A4;SLC25A17;SLC19A1
 prerank,"GO_Biological_Process_2021__regulation of gene expression, epigenetic (GO:0040029)",0.5188253732066563,0.97197649781807,0.5842696629213483,0.979888696523919,1.0,13/41,24.30%,TAF1B;DNMT1;DDX21;MTF2;EED;POLR1C;TDG;SF3B1;CTCF;CREBZF;JARID2;POLR2F;RBBP7
 prerank,PanglaoDB_Augmented_2021__Follicular Cells,0.6495024404159762,0.9717810312409448,0.5949367088607594,0.9798458474856097,1.0,4/8,22.18%,PRLR;CYP3A5;ITIH2;SPTLC3
 prerank,GO_Biological_Process_2021__negative regulation of innate immune response (GO:0045824),-0.49485269346617766,-0.9711422453561516,0.6,1.0,1.0,1/11,0.42%,A2M
@@ -2021,8 +2021,8 @@ prerank,GO_Biological_Process_2021__DNA-dependent DNA replication maintenance of
 prerank,GO_Biological_Process_2021__protein localization to vacuole (GO:0072665),0.6686810241794874,0.9693006683884637,0.6166666666666667,0.9800451420955306,1.0,2/5,23.42%,SZT2;CD81
 prerank,GO_Biological_Process_2021__detection of calcium ion (GO:0005513),0.6533721100433142,0.9692569177491842,0.589041095890411,0.9795678288307457,1.0,1/5,0.84%,SYT1
 prerank,GO_Biological_Process_2021__regulation of non-canonical Wnt signaling pathway (GO:2000050),-0.4772817836530416,-0.9689520846642918,0.46153846153846156,1.0,1.0,3/9,8.20%,WNT5B;TIAM1;GPC3
-prerank,GO_Biological_Process_2021__very long-chain fatty acid biosynthetic process (GO:0042761),0.6194352356127644,0.9688597004965073,0.5,0.9793285832160964,1.0,2/6,34.17%,ELOVL5;ELOVL6
 prerank,GO_Biological_Process_2021__fatty acid elongation (GO:0030497),0.6194352356127644,0.9688597004965073,0.5,0.9793285832160964,1.0,2/6,34.17%,ELOVL5;ELOVL6
+prerank,GO_Biological_Process_2021__very long-chain fatty acid biosynthetic process (GO:0042761),0.6194352356127644,0.9688597004965073,0.5,0.9793285832160964,1.0,2/6,34.17%,ELOVL5;ELOVL6
 prerank,GO_Biological_Process_2021__regulation of monooxygenase activity (GO:0032768),0.5681920907624514,0.9687297452719504,0.5432098765432098,0.979072461463142,1.0,2/11,8.76%,NOS1AP;EGFR
 prerank,GO_Biological_Process_2021__positive regulation of cell cycle (GO:0045787),0.5034603790999629,0.968541461299294,0.5833333333333334,0.9789948543047311,1.0,10/26,27.25%,ADAM17;EGFR;ANKRD17;TBX3;MDM2;FGFR2;CDKN1B;CCND3;RGCC;USP22
 prerank,MSigDB_Hallmark_2020__Cholesterol Homeostasis,0.5234327116307457,0.9684450436041898,0.5842696629213483,0.9786442395277245,1.0,10/30,21.25%,SCD;ERRFI1;FADS2;PDK3;SEMA3B;GNAI1;CD9;LGALS3;CHKA;TP53INP1
@@ -2066,8 +2066,8 @@ prerank,GO_Biological_Process_2021__chromosome organization (GO:0051276),0.47859
 prerank,GO_Biological_Process_2021__multivesicular body organization (GO:0036257),0.5954540690160857,0.9619271514146394,0.5897435897435898,0.9757196214964725,1.0,4/12,29.19%,RAB27A;VTA1;RAB11A;STAM2
 prerank,GO_Biological_Process_2021__regulation of leukocyte adhesion to vascular endothelial cell (GO:1904994),-0.5863130912581176,-0.9619219927331921,0.5806451612903226,1.0,1.0,2/5,11.10%,ZDHHC21;TRAF6
 prerank,GO_Biological_Process_2021__positive regulation of epidermal growth factor receptor signaling pathway (GO:0045742),0.5711333674935193,0.9616835108102784,0.5921052631578947,0.975866524224516,1.0,1/11,7.75%,ADAM17
-prerank,GO_Biological_Process_2021__phosphorylated carbohydrate dephosphorylation (GO:0046838),-0.4782387418970451,-0.9614747391196198,0.5,1.0,1.0,1/6,14.02%,PTEN
 prerank,GO_Biological_Process_2021__inositol phosphate catabolic process (GO:0071545),-0.4782387418970451,-0.9614747391196198,0.5,1.0,1.0,1/6,14.02%,PTEN
+prerank,GO_Biological_Process_2021__phosphorylated carbohydrate dephosphorylation (GO:0046838),-0.4782387418970451,-0.9614747391196198,0.5,1.0,1.0,1/6,14.02%,PTEN
 prerank,GO_Biological_Process_2021__inositol phosphate dephosphorylation (GO:0046855),-0.4782387418970451,-0.9614747391196198,0.5,1.0,1.0,1/6,14.02%,PTEN
 prerank,GO_Biological_Process_2021__cellular response to exogenous dsRNA (GO:0071360),-0.513294291629806,-0.961462494999532,0.47368421052631576,1.0,1.0,1/5,12.13%,FLOT1
 prerank,GO_Biological_Process_2021__T cell activation (GO:0042110),0.5421499943426791,0.9614344236714298,0.6282051282051282,0.9758505665603072,1.0,5/15,17.35%,CD44;KIF13B;EIF2AK4;PPP3CA;PTPN2
@@ -2106,10 +2106,10 @@ prerank,GO_Biological_Process_2021__positive regulation of Wnt signaling pathway
 prerank,GO_Biological_Process_2021__positive regulation of natural killer cell activation (GO:0032816),0.6024944726160417,0.9553401518470287,0.5909090909090909,0.9763407966491614,1.0,5/7,33.79%,IL18;ZBTB1;AXL;LAMP1;AP1G1
 prerank,GO_Biological_Process_2021__regulation of establishment of protein localization (GO:0070201),0.6120579767754831,0.9549143295007673,0.6024096385542169,0.9768912342543826,1.0,7/10,35.16%,CORO2B;DNAJA1;CEP290;GAPVD1;SPIDR;KIAA0586;CEP120
 prerank,GO_Biological_Process_2021__negative regulation of canonical Wnt signaling pathway (GO:0090090),0.4867150877863714,0.9548044654013447,0.6263736263736264,0.9765318588058822,1.0,16/68,17.08%,MCC;PSMB1;AMFR;UBAC2;PSMB2;STK4;CSNK1A1;PSMA7;PSMA4;BICC1;TMEM64;IGFBP2;PSMD14;RBX1;LATS2;HECW1
-prerank,GO_Biological_Process_2021__sphingosine biosynthetic process (GO:0046512),0.5984051647197881,0.9546616532352591,0.5394736842105263,0.9757971938085916,1.0,3/5,22.18%,ACER3;SPTLC1;SPTLC3
 prerank,GO_Biological_Process_2021__sphingoid biosynthetic process (GO:0046520),0.5984051647197881,0.9546616532352591,0.5394736842105263,0.9757971938085916,1.0,3/5,22.18%,ACER3;SPTLC1;SPTLC3
-prerank,GO_Biological_Process_2021__negative regulation of G0 to G1 transition (GO:0070317),0.5586623471330061,0.9545150472870232,0.5595238095238095,0.9750242543209818,1.0,3/17,14.35%,YAF2;APAF1;EED
+prerank,GO_Biological_Process_2021__sphingosine biosynthetic process (GO:0046512),0.5984051647197881,0.9546616532352591,0.5394736842105263,0.9757971938085916,1.0,3/5,22.18%,ACER3;SPTLC1;SPTLC3
 prerank,GO_Biological_Process_2021__regulation of G0 to G1 transition (GO:0070316),0.5586623471330061,0.9545150472870232,0.5595238095238095,0.9750242543209818,1.0,3/17,14.35%,YAF2;APAF1;EED
+prerank,GO_Biological_Process_2021__negative regulation of G0 to G1 transition (GO:0070317),0.5586623471330061,0.9545150472870232,0.5595238095238095,0.9750242543209818,1.0,3/17,14.35%,YAF2;APAF1;EED
 prerank,GO_Biological_Process_2021__negative regulation of telomere maintenance via telomerase (GO:0032211),0.6219202873182037,0.9542005261039065,0.6197183098591549,0.9752257467534338,1.0,6/9,36.76%,HNRNPC;DCP2;XRN1;HNRNPU;POT1;TERF1
 prerank,GO_Biological_Process_2021__protein localization to cilium (GO:0061512),0.5546894225059575,0.9541888609408634,0.5977011494252874,0.9747032656854026,1.0,3/19,5.91%,FSIP2;IFT140;CSNK1D
 prerank,GO_Biological_Process_2021__cellular response to organic substance (GO:0071310),0.49303683880079946,0.954132396153836,0.6195652173913043,0.974283894885555,1.0,18/50,25.98%,CSF1R;IL18;ROBO2;TBK1;TGFB1;PTPN9;AKAP6;STAT3;LRRK2;ACVR1B;ACVR2A;TIPARP;PTPN2;LDLRAP1;NCOA2;LEF1;SLC1A1;IL1RAPL1
@@ -2160,8 +2160,8 @@ prerank,GO_Biological_Process_2021__mRNA transport (GO:0051028),0.45760888160327
 prerank,GO_Biological_Process_2021__cellular polysaccharide catabolic process (GO:0044247),0.610696600910496,0.945526324288367,0.5526315789473685,0.9730415789345942,1.0,2/5,26.72%,PHKB;PYGB
 prerank,GO_Biological_Process_2021__glucan catabolic process (GO:0009251),0.610696600910496,0.945526324288367,0.5526315789473685,0.9730415789345942,1.0,2/5,26.72%,PHKB;PYGB
 prerank,GO_Biological_Process_2021__limb development (GO:0060173),0.5552235436685508,0.9451954664554867,0.56,0.973278220273407,1.0,1/15,5.49%,SMOC1
-prerank,GO_Biological_Process_2021__cellular response to cadmium ion (GO:0071276),0.5620102272110881,0.9451927554364935,0.5974025974025974,0.9722057373860533,1.0,5/10,26.40%,EGFR;MAPK1;MT3;JUN;FOS
 prerank,GO_Biological_Process_2021__response to cadmium ion (GO:0046686),0.5620102272110881,0.9451927554364935,0.5974025974025974,0.9722057373860533,1.0,5/10,26.40%,EGFR;MAPK1;MT3;JUN;FOS
+prerank,GO_Biological_Process_2021__cellular response to cadmium ion (GO:0071276),0.5620102272110881,0.9451927554364935,0.5974025974025974,0.9722057373860533,1.0,5/10,26.40%,EGFR;MAPK1;MT3;JUN;FOS
 prerank,GO_Biological_Process_2021__negative regulation of interleukin-8 production (GO:0032717),0.6022727345197426,0.94503186990953,0.5921052631578947,0.9720147566818724,1.0,1/7,10.39%,TMSB4X
 prerank,GO_Biological_Process_2021__regulation of cytokine production involved in inflammatory response (GO:1900015),0.5816200646828189,0.9445211944459593,0.6219512195121951,0.9728954018753595,1.0,5/10,18.13%,PPARA;HIF1A;STAT3;PDCD4;PER1
 prerank,GO_Biological_Process_2021__bicarbonate transport (GO:0015701),-0.49318292371532485,-0.9443765761943894,0.42857142857142855,1.0,1.0,2/8,3.41%,CA5B;CYB5R4
@@ -2224,9 +2224,9 @@ prerank,GO_Biological_Process_2021__regulation of cardiac muscle cell contractio
 prerank,GO_Biological_Process_2021__peptidyl-lysine dimethylation (GO:0018027),0.5922154416018208,0.9338791483694706,0.6111111111111112,0.9718351454715609,1.0,3/6,31.23%,SETD3;SETD2;KMT2A
 prerank,GO_Biological_Process_2021__protein kinase C-activating G protein-coupled receptor signaling pathway (GO:0007205),0.6216718783206402,0.9337598217846629,0.6410256410256411,0.9715901504363054,1.0,2/5,35.42%,DGKH;PLPP1
 prerank,GO_Biological_Process_2021__transcription initiation from RNA polymerase II promoter (GO:0006367),0.47151857626590665,0.9336262554324757,0.6195652173913043,0.971367016961618,1.0,9/62,12.52%,TAF7;NR4A3;ESR2;PPARA;NRBP1;PPARGC1A;RARB;CCN2;CCNH
-prerank,GO_Biological_Process_2021__DNA methylation (GO:0006306),0.5672504533859916,0.9334341425954893,0.5866666666666667,0.9703270579401367,1.0,1/10,7.57%,DNMT1
 prerank,GO_Biological_Process_2021__DNA alkylation (GO:0006305),0.5672504533859916,0.9334341425954893,0.5866666666666667,0.9703270579401367,1.0,1/10,7.57%,DNMT1
 prerank,GO_Biological_Process_2021__DNA methylation or demethylation (GO:0044728),0.5672504533859916,0.9334341425954893,0.5866666666666667,0.9703270579401367,1.0,1/10,7.57%,DNMT1
+prerank,GO_Biological_Process_2021__DNA methylation (GO:0006306),0.5672504533859916,0.9334341425954893,0.5866666666666667,0.9703270579401367,1.0,1/10,7.57%,DNMT1
 prerank,GO_Biological_Process_2021__neuron apoptotic process (GO:0051402),0.5649711189849042,0.933104075609064,0.620253164556962,0.9705900207477582,1.0,5/10,37.92%,SIAH1;BNIP3;APP;NAE1;TNFRSF21
 prerank,GO_Biological_Process_2021__positive regulation of ubiquitin-dependent protein catabolic process (GO:2000060),0.48769208715573603,0.9330649850667534,0.6352941176470588,0.9701633717626018,1.0,13/41,25.74%,CSNK1D;CSNK1A1;MDM2;RNF19A;LRRK2;HECTD1;RBX1;SMAD7;RCHY1;ZER1;RNF180;ELOB;ARIH2
 prerank,GO_Biological_Process_2021__mRNA export from nucleus (GO:0006406),0.4574365551871087,0.9328403677167766,0.5730337078651685,0.9701570150383025,1.0,8/50,11.34%,NUP153;SEC13;NUP88;SYMPK;CPSF2;ALKBH5;NUP133;FYTTD1
@@ -2314,8 +2314,8 @@ prerank,GO_Biological_Process_2021__regulation of establishment or maintenance o
 prerank,GO_Biological_Process_2021__positive regulation of RNA metabolic process (GO:0051254),0.46782618754155053,0.913249485185724,0.6506024096385542,0.9772357469495062,1.0,5/25,10.86%,HABP4;TGFB1;EGFR;WDR43;GRSF1
 prerank,GO_Biological_Process_2021__positive regulation of blood vessel endothelial cell migration (GO:0043536),0.45772749393515444,0.9129171732721328,0.6067415730337079,0.9773245665470172,1.0,5/33,11.04%,RHOJ;ADAM17;TGFB1;TMSB4X;HIF1A
 prerank,GO_Biological_Process_2021__muscle organ development (GO:0007517),-0.41298776757106903,-0.9121554031887831,0.4117647058823529,1.0,1.0,1/23,0.12%,TAGLN
-prerank,GO_Biological_Process_2021__regulation of mRNA export from nucleus (GO:0010793),-0.49612338839556086,-0.9119276736340326,0.5517241379310345,1.0,1.0,2/6,11.24%,TPR;IWS1
 prerank,GO_Biological_Process_2021__regulation of ribonucleoprotein complex localization (GO:2000197),-0.49612338839556086,-0.9119276736340326,0.5517241379310345,1.0,1.0,2/6,11.24%,TPR;IWS1
+prerank,GO_Biological_Process_2021__regulation of mRNA export from nucleus (GO:0010793),-0.49612338839556086,-0.9119276736340326,0.5517241379310345,1.0,1.0,2/6,11.24%,TPR;IWS1
 prerank,GO_Biological_Process_2021__visual perception (GO:0007601),0.5162933202420013,0.9115692994039963,0.6626506024096386,0.9794980836100274,1.0,3/23,2.90%,ADGRV1;DHRS3;OPA3
 prerank,GO_Biological_Process_2021__mitochondrion-endoplasmic reticulum membrane tethering (GO:1990456),0.584563493167436,0.9115613182880108,0.6571428571428571,0.9790051111634319,1.0,3/6,33.68%,AHCYL1;VMP1;PDZD8
 prerank,GO_Biological_Process_2021__JNK cascade (GO:0007254),-0.418473940101979,-0.9114285517394961,0.55,1.0,1.0,1/21,0.67%,TNFRSF19
@@ -2343,8 +2343,8 @@ prerank,GO_Biological_Process_2021__negative regulation of sodium ion transmembr
 prerank,GO_Biological_Process_2021__Golgi to lysosome transport (GO:0090160),0.6053823988867391,0.9077318626241649,0.696969696969697,0.9782704183313143,1.0,4/6,33.79%,CCDC91;GAK;LAMP1;AP1G1
 prerank,GO_Biological_Process_2021__positive regulation of immune effector process (GO:0002699),0.5578804826181418,0.9076909937993769,0.6395348837209303,0.977859627116049,1.0,2/8,23.42%,ANKRD17;CD81
 prerank,GO_Biological_Process_2021__Fc-epsilon receptor signaling pathway (GO:0038095),0.442162204027746,0.9071570285965781,0.7111111111111111,0.9784759055374036,1.0,18/57,27.95%,PSMB1;NR4A3;PSMB2;BTRC;PSMA7;PSMA4;PPP3CA;PSMD14;MAPK1;VAV3;SKP1;GAB2;GRB2;TAB2;JUN;FOS;PAK1;PLCG1
-prerank,GO_Biological_Process_2021__regulation of DNA recombination at telomere (GO:0072695),0.5911275781375918,0.9063959679911004,0.6470588235294118,0.9791066020502488,1.0,3/7,36.76%,POLR2F;POT1;TERF1
 prerank,GO_Biological_Process_2021__negative regulation of DNA recombination at telomere (GO:0048239),0.5911275781375918,0.9063959679911004,0.6470588235294118,0.9791066020502488,1.0,3/7,36.76%,POLR2F;POT1;TERF1
+prerank,GO_Biological_Process_2021__regulation of DNA recombination at telomere (GO:0072695),0.5911275781375918,0.9063959679911004,0.6470588235294118,0.9791066020502488,1.0,3/7,36.76%,POLR2F;POT1;TERF1
 prerank,GO_Biological_Process_2021__regulation of cyclin-dependent protein kinase activity (GO:1904029),0.5384566545304749,0.9063502872316757,0.65,0.9787013463189312,1.0,5/14,23.64%,CCNH;CAMK2N1;CDKN1B;CCNK;CCND3
 prerank,GO_Biological_Process_2021__negative regulation of transcription regulatory region DNA binding (GO:2000678),0.6105652270388616,0.9061663805148061,0.7142857142857143,0.9784450642789414,1.0,2/6,11.77%,TMSB4X;SIN3A
 prerank,GO_Biological_Process_2021__mitochondrial genome maintenance (GO:0000002),0.5851044741221234,0.9060641016713975,0.6582278481012658,0.9782248840272529,1.0,1/6,13.66%,SLC25A4
@@ -2401,9 +2401,9 @@ prerank,GO_Biological_Process_2021__posttranslational protein targeting to endop
 prerank,GO_Biological_Process_2021__positive regulation of heart contraction (GO:0045823),-0.48103513712814716,-0.8936024799920579,0.53125,1.0,1.0,2/7,4.31%,EDN3;RYR2
 prerank,GO_Biological_Process_2021__cellular response to ionizing radiation (GO:0071479),0.46354947931924256,0.8928638841196483,0.6629213483146067,0.9859294314240518,1.0,5/27,13.96%,RHOB;KDM1A;CLOCK;TANK;MDM2
 prerank,GO_Biological_Process_2021__heart development (GO:0007507),0.44280382978430893,0.8919849652137898,0.7578947368421053,0.9871106121312193,1.0,16/67,24.67%,TSC2;PDLIM1;SGCZ;TGFB1;HEG1;ZFPM2;INSR;KDM6A;FBN1;ZFPM1;CDKN1B;NF1;FGF12;TAB2;SH3PXD2B;PKP2
+prerank,GO_Biological_Process_2021__positive regulation of mitotic sister chromatid separation (GO:1901970),-0.4719982305874411,-0.8919589450865743,0.5652173913043478,1.0,1.0,1/7,4.11%,CDC27
 prerank,GO_Biological_Process_2021__positive regulation of mitotic metaphase/anaphase transition (GO:0045842),-0.4719982305874411,-0.8919589450865743,0.5652173913043478,1.0,1.0,1/7,4.11%,CDC27
 prerank,GO_Biological_Process_2021__positive regulation of metaphase/anaphase transition of cell cycle (GO:1902101),-0.4719982305874411,-0.8919589450865743,0.5652173913043478,1.0,1.0,1/7,4.11%,CDC27
-prerank,GO_Biological_Process_2021__positive regulation of mitotic sister chromatid separation (GO:1901970),-0.4719982305874411,-0.8919589450865743,0.5652173913043478,1.0,1.0,1/7,4.11%,CDC27
 prerank,GO_Biological_Process_2021__positive regulation of Ras protein signal transduction (GO:0046579),-0.37425474595414787,-0.8916929181979862,0.6,1.0,1.0,2/28,1.58%,NET1;ARHGEF3
 prerank,GO_Biological_Process_2021__negative regulation of sodium ion transport (GO:0010766),0.5779618021782383,0.8911352814052015,0.7397260273972602,0.9881902508549207,1.0,1/6,2.61%,NEDD4L
 prerank,GO_Biological_Process_2021__mitochondrial calcium ion homeostasis (GO:0051560),-0.47070102172225337,-0.8910358393485455,0.6,1.0,1.0,3/9,12.03%,SLC8B1;AFG3L2;MCU
@@ -2482,8 +2482,8 @@ prerank,GO_Biological_Process_2021__regulation of intracellular pH (GO:0051453),
 prerank,GO_Biological_Process_2021__regulation of cell adhesion mediated by integrin (GO:0033628),0.5425675802457488,0.8745910255620479,0.7352941176470589,0.9916361022592501,1.0,3/10,28.55%,NEXMIF;JAM3;PTPN11
 prerank,GO_Biological_Process_2021__cellular response to unfolded protein (GO:0034620),0.5330590485721469,0.8745877660111512,0.7391304347826086,0.991166115612069,1.0,4/13,13.46%,PTPN1;RHBDD1;TMBIM6;HSPA5
 prerank,GO_Biological_Process_2021__protein O-linked glycosylation via threonine (GO:0018243),-0.5146806362334536,-0.8744149368096339,0.6153846153846154,1.0,1.0,1/6,1.15%,GALNT16
-prerank,GO_Biological_Process_2021__vascular process in circulatory system (GO:0003018),0.5582144560300955,0.8742631266268905,0.7,0.9908515347208675,1.0,3/6,29.48%,ROCK2;GCLC;SCPEP1
 prerank,GO_Biological_Process_2021__regulation of tube diameter (GO:0035296),0.5582144560300955,0.8742631266268905,0.7,0.9908515347208675,1.0,3/6,29.48%,ROCK2;GCLC;SCPEP1
+prerank,GO_Biological_Process_2021__vascular process in circulatory system (GO:0003018),0.5582144560300955,0.8742631266268905,0.7,0.9908515347208675,1.0,3/6,29.48%,ROCK2;GCLC;SCPEP1
 prerank,GO_Biological_Process_2021__nuclear-transcribed mRNA catabolic process (GO:0000956),0.4194350884294638,0.8739181570746951,0.7653061224489796,0.990962480357903,1.0,15/109,16.97%,RPS21;ETF1;RC3H2;RPL28;CNOT8;RPS27A;NBDY;RPL21;CSDE1;TUT7;RPL41;DCP2;PABPC1;DCP1A;RPLP2
 prerank,GO_Biological_Process_2021__negative regulation of DNA-dependent DNA replication (GO:2000104),-0.5065810349268474,-0.8734605547762871,0.4857142857142857,1.0,1.0,1/5,3.13%,SMARCAL1
 prerank,GO_Biological_Process_2021__negative regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043124),0.4890684578762595,0.8731234459227559,0.7333333333333333,0.9919013076097257,1.0,5/18,18.13%,TANK;OTUD7A;RIOK3;USP10;PER1
@@ -2583,8 +2583,8 @@ prerank,GO_Biological_Process_2021__regulation of vasculogenesis (GO:2001212),0.
 prerank,GO_Biological_Process_2021__regulation of extrinsic apoptotic signaling pathway in absence of ligand (GO:2001239),0.5237819255861127,0.8518295376042597,0.7297297297297297,0.9900863229395492,1.0,2/11,15.26%,PPP2R1B;UNC5B
 prerank,GO_Biological_Process_2021__astral microtubule organization (GO:0030953),0.5429261195290752,0.851658065212496,0.7631578947368421,0.9898279152672635,1.0,2/6,33.25%,RAB11A;DLG1
 prerank,GO_Biological_Process_2021__lipid transport (GO:0006869),-0.31399849855483,-0.8515025082595142,1.0,1.0,1.0,6/37,4.87%,ABCA10;ABCA9;SLCO3A1;PPARD;ABCA4;ATP8A1
-prerank,GO_Biological_Process_2021__calcineurin-NFAT signaling cascade (GO:0033173),0.5563926245549243,0.8513809086540474,0.7222222222222222,0.9894990463248914,1.0,4/6,33.89%,PPP3CA;PPP3CC;NFAT5;PPP3CB
 prerank,GO_Biological_Process_2021__calcineurin-mediated signaling (GO:0097720),0.5563926245549243,0.8513809086540474,0.7222222222222222,0.9894990463248914,1.0,4/6,33.89%,PPP3CA;PPP3CC;NFAT5;PPP3CB
+prerank,GO_Biological_Process_2021__calcineurin-NFAT signaling cascade (GO:0033173),0.5563926245549243,0.8513809086540474,0.7222222222222222,0.9894990463248914,1.0,4/6,33.89%,PPP3CA;PPP3CC;NFAT5;PPP3CB
 prerank,GO_Biological_Process_2021__neuron projection maintenance (GO:1990535),0.5977609171316034,0.8512362850879956,0.7391304347826086,0.9892599846195361,1.0,2/5,18.19%,INSR;PRNP
 prerank,GO_Biological_Process_2021__progesterone receptor signaling pathway (GO:0050847),0.5547595792871913,0.8511664392383498,0.7375,0.9889416469066987,1.0,3/5,30.80%,UBR5;UBE3A;NEDD4
 prerank,GO_Biological_Process_2021__positive regulation of syncytium formation by plasma membrane fusion (GO:0060143),-0.5166633647553578,-0.850887910615881,0.6666666666666666,1.0,1.0,3/5,12.13%,MAPK14;RIPOR2;FLOT1
@@ -2885,8 +2885,8 @@ prerank,GO_Biological_Process_2021__rRNA metabolic process (GO:0016072),0.389691
 prerank,GO_Biological_Process_2021__peptide catabolic process (GO:0043171),0.44042545706876834,0.7690485448925896,0.7727272727272727,1.0,1.0,1/12,7.35%,ENPEP
 prerank,GO_Biological_Process_2021__negative regulation of cholesterol storage (GO:0010887),0.4965755723038363,0.7689779247428925,0.7611940298507462,1.0,1.0,2/5,18.10%,PPARA;ABCA1
 prerank,GO_Biological_Process_2021__plasma membrane bounded cell projection assembly (GO:0120031),0.3755867924572007,0.7688781836573002,0.9595959595959596,1.0,1.0,35/142,28.94%,PARVB;IFT52;ACTR3;LZTFL1;EMP1;IFT140;NUDCD3;TRAF3IP1;RAP1B;SDCBP;EHD2;GALNT11;TTC8;ARHGEF7;EXOC1;MAK;ARHGEF4;ARF4;WDR19;RAB8B;ASAP1;SEPTIN7;CEP290;ARMC9;CYFIP1;RFX3;ATP6V1D;PIP5K1A;CCDC88A;RAB3IP;RILPL1;RAB11A;PTPDC1;DCDC2;ARL13B
-prerank,GO_Biological_Process_2021__mitochondrial respiratory chain complex I assembly (GO:0032981),0.44507498652592686,0.7686588162498945,0.7948717948717948,1.0,1.0,4/17,14.10%,NDUFB9;NDUFV1;NDUFS2;NDUFB2
 prerank,GO_Biological_Process_2021__NADH dehydrogenase complex assembly (GO:0010257),0.44507498652592686,0.7686588162498945,0.7948717948717948,1.0,1.0,4/17,14.10%,NDUFB9;NDUFV1;NDUFS2;NDUFB2
+prerank,GO_Biological_Process_2021__mitochondrial respiratory chain complex I assembly (GO:0032981),0.44507498652592686,0.7686588162498945,0.7948717948717948,1.0,1.0,4/17,14.10%,NDUFB9;NDUFV1;NDUFS2;NDUFB2
 prerank,GO_Biological_Process_2021__mesenchyme morphogenesis (GO:0072132),0.4932830719783424,0.768314919129239,0.8208955223880597,1.0,1.0,2/9,18.97%,MDM4;SMAD2
 prerank,GO_Biological_Process_2021__ribosome biogenesis (GO:0042254),0.38668083066702386,0.7682579327579644,0.9368421052631579,1.0,1.0,20/81,30.65%,DDX52;DHX29;RPL28;NOP58;GLUL;RPL21;WDR43;RPL41;RPLP2;TEX10;DIS3;RPL9;RPL18;RPS14;NOL8;RPL27A;RPL13A;RCL1;RPL31;RPL32
 prerank,GO_Biological_Process_2021__platelet aggregation (GO:0070527),-0.35890431638203735,-0.7681686542720791,0.6923076923076923,1.0,1.0,7/18,18.80%,MYL9;ACTB;ACTG1;FLNA;ILK;ACTN1;STXBP3
@@ -2936,14 +2936,14 @@ prerank,GO_Biological_Process_2021__negative regulation of pri-miRNA transcripti
 prerank,GO_Biological_Process_2021__purinergic nucleotide receptor signaling pathway (GO:0035590),0.47440834920185126,0.7586003771952992,0.8243243243243243,0.9989060804421549,1.0,1/9,6.02%,IL18
 prerank,GO_Biological_Process_2021__negative regulation of hydrolase activity (GO:0051346),0.4524709583470356,0.7584856247489903,0.8539325842696629,0.9986232223666621,1.0,2/13,15.00%,CST3;LRRK2
 prerank,GO_Biological_Process_2021__extracellular structure organization (GO:0043062),0.3812951714513729,0.7583390764070259,0.8865979381443299,0.9983946266655535,1.0,6/96,5.49%,ADAMTS9;CD44;COL4A6;ADAMTS4;ITGA5;SMOC1
-prerank,GO_Biological_Process_2021__neutrophil migration (GO:1990266),-0.37457174331167425,-0.7582951703799897,0.8571428571428571,1.0,1.0,1/12,0.62%,EDN3
 prerank,GO_Biological_Process_2021__neutrophil chemotaxis (GO:0030593),-0.37457174331167425,-0.7582951703799897,0.8571428571428571,1.0,1.0,1/12,0.62%,EDN3
+prerank,GO_Biological_Process_2021__neutrophil migration (GO:1990266),-0.37457174331167425,-0.7582951703799897,0.8571428571428571,1.0,1.0,1/12,0.62%,EDN3
 prerank,GO_Biological_Process_2021__positive regulation of telomere maintenance via telomere lengthening (GO:1904358),0.42905305565458274,0.7578533028891915,0.8275862068965517,0.9984902614382003,1.0,5/21,20.67%,CCT4;TNKS;MAPK1;CCT3;MAPKAPK5
 prerank,GO_Biological_Process_2021__positive regulation of telomerase RNA localization to Cajal body (GO:1904874),0.5046770448160648,0.7578421393064222,0.8266666666666667,0.9980916489607876,1.0,3/7,26.60%,CCT4;CCT3;CCT8
-prerank,GO_Biological_Process_2021__purine nucleoside bisphosphate biosynthetic process (GO:0034033),0.523604278741581,0.7577730796366696,0.8648648648648649,0.9965170591640095,1.0,1/6,2.23%,PANK2
-prerank,GO_Biological_Process_2021__coenzyme A biosynthetic process (GO:0015937),0.523604278741581,0.7577730796366696,0.8648648648648649,0.9965170591640095,1.0,1/6,2.23%,PANK2
 prerank,GO_Biological_Process_2021__coenzyme A metabolic process (GO:0015936),0.523604278741581,0.7577730796366696,0.8648648648648649,0.9965170591640095,1.0,1/6,2.23%,PANK2
 prerank,GO_Biological_Process_2021__ribonucleoside bisphosphate biosynthetic process (GO:0034030),0.523604278741581,0.7577730796366696,0.8648648648648649,0.9965170591640095,1.0,1/6,2.23%,PANK2
+prerank,GO_Biological_Process_2021__purine nucleoside bisphosphate biosynthetic process (GO:0034033),0.523604278741581,0.7577730796366696,0.8648648648648649,0.9965170591640095,1.0,1/6,2.23%,PANK2
+prerank,GO_Biological_Process_2021__coenzyme A biosynthetic process (GO:0015937),0.523604278741581,0.7577730796366696,0.8648648648648649,0.9965170591640095,1.0,1/6,2.23%,PANK2
 prerank,GO_Biological_Process_2021__glucan biosynthetic process (GO:0009250),0.5357570539445579,0.7577330238486555,0.8933333333333333,0.995739989100087,1.0,1/5,7.15%,GBE1
 prerank,GO_Biological_Process_2021__glycogen biosynthetic process (GO:0005978),0.5357570539445579,0.7577330238486555,0.8933333333333333,0.995739989100087,1.0,1/5,7.15%,GBE1
 prerank,GO_Biological_Process_2021__nuclear export (GO:0051168),0.3909802017925771,0.757688294761225,0.8571428571428571,0.9953974807385032,1.0,4/39,8.45%,NUP153;XPO4;CSE1L;TGFB1
@@ -2972,8 +2972,8 @@ prerank,GO_Biological_Process_2021__positive regulation of axonogenesis (GO:0050
 prerank,GO_Biological_Process_2021__regulation of cell-cell adhesion mediated by cadherin (GO:2000047),0.4755098021457913,0.7511797962578736,0.8133333333333334,0.9956634703597055,1.0,4/10,30.38%,NEXMIF;RGCC;TJP1;VEGFA
 prerank,GO_Biological_Process_2021__positive regulation of endothelial cell migration (GO:0010595),0.3896802226496429,0.7506435468298054,0.9090909090909091,0.9958783180464892,1.0,10/47,20.27%,RHOB;ADAM17;TGFB1;TMSB4X;HIF1A;ROCK2;SCARB1;KDR;SP1;ABL1
 prerank,GO_Biological_Process_2021__positive regulation of receptor internalization (GO:0002092),0.44538767317969996,0.7504457939653553,0.7901234567901234,0.9957028234833544,1.0,4/13,30.38%,INSR;TBC1D5;ATAD1;VEGFA
-prerank,GO_Biological_Process_2021__regulation of presynapse assembly (GO:1905606),0.4781155413256164,0.7503053262700328,0.8133333333333334,0.9950650049749223,1.0,4/8,25.98%,PTPRD;LRFN5;GPC4;IL1RAPL1
 prerank,GO_Biological_Process_2021__regulation of presynapse organization (GO:0099174),0.4781155413256164,0.7503053262700328,0.8133333333333334,0.9950650049749223,1.0,4/8,25.98%,PTPRD;LRFN5;GPC4;IL1RAPL1
+prerank,GO_Biological_Process_2021__regulation of presynapse assembly (GO:1905606),0.4781155413256164,0.7503053262700328,0.8133333333333334,0.9950650049749223,1.0,4/8,25.98%,PTPRD;LRFN5;GPC4;IL1RAPL1
 prerank,GO_Biological_Process_2021__regulation of cAMP-dependent protein kinase activity (GO:2000479),-0.3698349951961113,-0.7501199217866523,0.75,1.0,1.0,1/10,2.78%,ATP2B4
 prerank,GO_Biological_Process_2021__chloride transport (GO:0006821),0.4079095593470676,0.7491947585296899,0.8313253012048193,0.9959483747565668,1.0,2/20,5.01%,GLRB;GABRE
 prerank,GO_Biological_Process_2021__regulation of cellular pH (GO:0030641),0.4590015047588644,0.7487730564667805,0.8591549295774648,0.9959371509138583,1.0,3/9,25.25%,SLC4A10;CA2;SLC9A9
@@ -3073,8 +3073,8 @@ prerank,GO_Biological_Process_2021__mRNA 3'-end processing (GO:0031124),0.363762
 prerank,GO_Biological_Process_2021__cellular protein-containing complex assembly (GO:0034622),-0.2905364533854589,-0.7151235950082803,1.0,1.0,1.0,10/69,7.40%,DNAI4;VAMP4;SHQ1;TIAM1;ARL6;NCK1;HSPA1A;OTUD6B;TBCD;TPR
 prerank,GO_Biological_Process_2021__response to chemokine (GO:1990868),0.4258125403093589,0.7149252785652762,0.8933333333333333,1.0,1.0,3/12,18.04%,DUSP1;OXSR1;STK39
 prerank,GO_Biological_Process_2021__regulation of response to cytokine stimulus (GO:0060759),0.45233855370342385,0.7142302334542834,0.881578947368421,1.0,1.0,4/10,18.56%,ELF1;RUNX1;CBFB;LIFR
-prerank,GO_Biological_Process_2021__synaptic vesicle transport along microtubule (GO:0099517),-0.4591915089084528,-0.7141372220299428,0.7666666666666667,1.0,1.0,1/5,3.26%,AP3M1
 prerank,GO_Biological_Process_2021__anterograde synaptic vesicle transport (GO:0048490),-0.4591915089084528,-0.7141372220299428,0.7666666666666667,1.0,1.0,1/5,3.26%,AP3M1
+prerank,GO_Biological_Process_2021__synaptic vesicle transport along microtubule (GO:0099517),-0.4591915089084528,-0.7141372220299428,0.7666666666666667,1.0,1.0,1/5,3.26%,AP3M1
 prerank,GO_Biological_Process_2021__regulation of sequestering of calcium ion (GO:0051282),0.490757938713819,0.714129447400305,0.9142857142857143,1.0,1.0,2/6,19.14%,DIAPH1;UBASH3B
 prerank,GO_Biological_Process_2021__regulation of telomere maintenance (GO:0032204),-0.33923853923853925,-0.7140627439296727,0.9130434782608695,1.0,1.0,13/13,66.16%,MRE11;PPP1R10;SMG6;DHX36;YLPM1;SMG1;ATRX;TERF2IP;NBN;PML;USP7;HNRNPD;XRCC5
 prerank,GO_Biological_Process_2021__positive regulation of alpha-beta T cell activation (GO:0046635),0.4844701672520213,0.7139694501604978,0.8615384615384616,1.0,1.0,2/5,30.68%,HSPH1;CD55
@@ -3156,13 +3156,13 @@ prerank,GO_Biological_Process_2021__glucose 6-phosphate metabolic process (GO:00
 prerank,GO_Biological_Process_2021__regulation of T cell activation (GO:0050863),0.4298258723062737,0.6861670059955384,0.8356164383561644,1.0,1.0,4/8,20.27%,TNFRSF1B;PAG1;LGALS3;ABL1
 prerank,GO_Biological_Process_2021__dynamin family protein polymerization involved in membrane fission (GO:0003373),0.4702179160601472,0.6859953866641595,0.9285714285714286,1.0,1.0,2/5,40.18%,DNM2;DNM3
 prerank,GO_Biological_Process_2021__dynamin family protein polymerization involved in mitochondrial fission (GO:0003374),0.4702179160601472,0.6859953866641595,0.9285714285714286,1.0,1.0,2/5,40.18%,DNM2;DNM3
-prerank,GO_Biological_Process_2021__lysosomal microautophagy (GO:0016237),-0.35144365104004965,-0.6854488100170834,0.8518518518518519,1.0,1.0,6/6,64.90%,ULK2;ATG7;ATG13;ULK1;ATG2B;RB1CC1
 prerank,GO_Biological_Process_2021__piecemeal microautophagy of the nucleus (GO:0034727),-0.35144365104004965,-0.6854488100170834,0.8518518518518519,1.0,1.0,6/6,64.90%,ULK2;ATG7;ATG13;ULK1;ATG2B;RB1CC1
+prerank,GO_Biological_Process_2021__lysosomal microautophagy (GO:0016237),-0.35144365104004965,-0.6854488100170834,0.8518518518518519,1.0,1.0,6/6,64.90%,ULK2;ATG7;ATG13;ULK1;ATG2B;RB1CC1
 prerank,GO_Biological_Process_2021__positive regulation of cellular amide metabolic process (GO:0034250),0.3372728377679717,0.6851799606715934,0.9,1.0,1.0,4/40,15.01%,DDX3X;ELAVL1;ROCK2;METTL14
 prerank,"GO_Biological_Process_2021__antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent (GO:0002480)",0.4670272744636043,0.6849082685815399,0.9090909090909091,1.0,1.0,1/5,22.29%,LNPEP
 prerank,GO_Biological_Process_2021__response to steroid hormone (GO:0048545),0.39575433526078463,0.68475507165705,0.8607594936708861,1.0,1.0,5/15,33.10%,TGFB1;TFPI;UBE2L3;UBE3A;NR1H3
-prerank,GO_Biological_Process_2021__mitochondrial ATP synthesis coupled proton transport (GO:0042776),-0.3937888198757764,-0.6847301185390348,0.7391304347826086,1.0,1.0,8/8,60.69%,ATP5PF;ATP5MC2;ATP5F1A;ATP5ME;ATP5F1E;DMAC2L;ATP5F1B;ATP5F1C
 prerank,GO_Biological_Process_2021__ATP synthesis coupled proton transport (GO:0015986),-0.3937888198757764,-0.6847301185390348,0.7391304347826086,1.0,1.0,8/8,60.69%,ATP5PF;ATP5MC2;ATP5F1A;ATP5ME;ATP5F1E;DMAC2L;ATP5F1B;ATP5F1C
+prerank,GO_Biological_Process_2021__mitochondrial ATP synthesis coupled proton transport (GO:0042776),-0.3937888198757764,-0.6847301185390348,0.7391304347826086,1.0,1.0,8/8,60.69%,ATP5PF;ATP5MC2;ATP5F1A;ATP5ME;ATP5F1E;DMAC2L;ATP5F1B;ATP5F1C
 prerank,GO_Biological_Process_2021__cell-substrate junction assembly (GO:0007044),-0.2821713740821531,-0.6838868306656349,0.9565217391304348,1.0,1.0,1/16,2.36%,LAMC1
 prerank,GO_Biological_Process_2021__embryonic organ morphogenesis (GO:0048562),0.4180082374136973,0.683326226136632,0.8333333333333334,1.0,1.0,2/9,18.24%,FGFR2;FBN1
 prerank,GO_Biological_Process_2021__ncRNA catabolic process (GO:0034661),0.4099224369396954,0.6832130788312304,0.8860759493670886,1.0,1.0,2/11,31.45%,DIS3;XRN1
@@ -3251,8 +3251,8 @@ prerank,GO_Biological_Process_2021__regulation of viral transcription (GO:004678
 prerank,GO_Biological_Process_2021__RNA 3'-end processing (GO:0031123),0.338862368945004,0.6491834307683177,0.9746835443037974,1.0,1.0,4/33,13.55%,SYMPK;CPSF2;TUT7;CSTF3
 prerank,GO_Biological_Process_2021__regulation of cell-substrate junction assembly (GO:0090109),-0.27201790018546734,-0.6483619020889163,0.9411764705882353,1.0,1.0,6/17,16.86%,EPHA3;SLC9A1;CORO1C;ACTG1;PTK2;LIMCH1
 prerank,MSigDB_Hallmark_2020__Myogenesis,0.32569750700348016,0.6481305129303571,1.0,1.0,1.0,13/83,18.19%,LPIN1;TSC2;FHL1;SCD;SMTN;NCAM1;TGFB1;PDE4DIP;MYOM2;MYL3;CKB;CKMT2;PRNP
-prerank,GO_Biological_Process_2021__cellular response to type I interferon (GO:0071357),0.3514914222196126,0.6478868928174618,0.9036144578313253,1.0,1.0,5/18,39.24%,IFIT3;IFITM3;IRF1;IFNAR1;IP6K2
 prerank,GO_Biological_Process_2021__type I interferon signaling pathway (GO:0060337),0.3514914222196126,0.6478868928174618,0.9036144578313253,1.0,1.0,5/18,39.24%,IFIT3;IFITM3;IRF1;IFNAR1;IP6K2
+prerank,GO_Biological_Process_2021__cellular response to type I interferon (GO:0071357),0.3514914222196126,0.6478868928174618,0.9036144578313253,1.0,1.0,5/18,39.24%,IFIT3;IFITM3;IRF1;IFNAR1;IP6K2
 prerank,GO_Biological_Process_2021__positive regulation of epithelial cell migration (GO:0010634),0.3365152425602008,0.6477319520439706,0.9325842696629213,1.0,1.0,13/46,30.91%,RHOB;HIF1A;ROCK2;SCARB1;KDR;ABL1;NRP2;ETS1;RAB11A;PLCG1;PTK2B;VEGFA;IQSEC1
 prerank,GO_Biological_Process_2021__potassium ion import across plasma membrane (GO:1990573),0.385273657673902,0.6472616743205196,0.9078947368421053,1.0,1.0,2/11,12.22%,ATP1B3;ABCC9
 prerank,GO_Biological_Process_2021__DNA repair (GO:0006281),0.2974814772051875,0.6472349641244041,0.98989898989899,1.0,1.0,29/118,28.97%,RAD21;XRCC4;APBB1;ALKBH5;RNF168;RPS27A;FAN1;BRCC3;TP53BP1;USP3;WDR48;TDG;ZBTB1;RPA1;ABL1;UBE2B;NSD2;ERCC6L2;WRNIP1;RAD18;SETD2;FANCC;RAD23B;PMS1;PDS5B;POLK;USP47;APTX;PWWP3A
@@ -3389,8 +3389,8 @@ prerank,GO_Biological_Process_2021__positive regulation of interleukin-8 product
 prerank,GO_Biological_Process_2021__positive regulation of dendritic spine development (GO:0060999),0.3550815383200191,0.5892258269859724,0.948051948051948,1.0,1.0,1/9,11.91%,NLGN1
 prerank,GO_Biological_Process_2021__regulation of DNA biosynthetic process (GO:2000278),0.34496178963118757,0.5889001213508175,0.961038961038961,1.0,1.0,4/16,26.71%,NIBAN2;TNKS;TOM1L1;RGCC
 prerank,GO_Biological_Process_2021__granulocyte chemotaxis (GO:0071621),0.34463748758876545,0.5876613903090002,1.0,1.0,1.0,4/14,17.56%,PDE4B;PPIB;ADGRE2;LGALS3
-prerank,GO_Biological_Process_2021__cellular response to forskolin (GO:1904322),0.38602201709051154,0.5852303441430273,0.9620253164556962,1.0,1.0,2/6,29.02%,GNAI1;ADCY5
 prerank,GO_Biological_Process_2021__response to forskolin (GO:1904321),0.38602201709051154,0.5852303441430273,0.9620253164556962,1.0,1.0,2/6,29.02%,GNAI1;ADCY5
+prerank,GO_Biological_Process_2021__cellular response to forskolin (GO:1904322),0.38602201709051154,0.5852303441430273,0.9620253164556962,1.0,1.0,2/6,29.02%,GNAI1;ADCY5
 prerank,GO_Biological_Process_2021__regulation of blood coagulation (GO:0030193),-0.30247663857090656,-0.5851183291401452,0.9310344827586207,1.0,1.0,3/6,15.80%,ST3GAL4;APOE;THBS1
 prerank,GO_Biological_Process_2021__regulation of intrinsic apoptotic signaling pathway by p53 class mediator (GO:1902253),0.3878048533957694,0.5846416328553676,0.9253731343283582,1.0,1.0,1/6,13.96%,MDM2
 prerank,GO_Biological_Process_2021__positive regulation of binding (GO:0051099),0.3143877414981814,0.5838234928644136,0.9560439560439561,1.0,1.0,3/42,7.55%,AMFR;STK4;STMN1
@@ -3440,20 +3440,20 @@ prerank,GO_Biological_Process_2021__import into cell (GO:0098657),0.314600771723
 prerank,GO_Biological_Process_2021__long-chain fatty acid metabolic process (GO:0001676),0.3140281090019527,0.5567837557500399,1.0,1.0,1.0,3/23,12.56%,ACSL4;FADS2;ACADL
 prerank,GO_Biological_Process_2021__negative regulation of DNA repair (GO:0045738),0.3560612801180211,0.5566944298931019,0.9253731343283582,1.0,1.0,3/5,25.43%,TWIST1;UBR5;TRIP12
 prerank,GO_Biological_Process_2021__telomere capping (GO:0016233),0.35141293283269337,0.5563507116746483,0.9571428571428572,1.0,1.0,3/7,36.76%,PRKDC;POT1;TERF1
-prerank,GO_Biological_Process_2021__cellular response to nitrogen starvation (GO:0006995),-0.3188702737736083,-0.5562233178660348,0.9259259259259259,1.0,1.0,1/5,6.67%,ATG5
 prerank,GO_Biological_Process_2021__cellular response to nitrogen levels (GO:0043562),-0.3188702737736083,-0.5562233178660348,0.9259259259259259,1.0,1.0,1/5,6.67%,ATG5
+prerank,GO_Biological_Process_2021__cellular response to nitrogen starvation (GO:0006995),-0.3188702737736083,-0.5562233178660348,0.9259259259259259,1.0,1.0,1/5,6.67%,ATG5
 prerank,GO_Biological_Process_2021__protein K11-linked ubiquitination (GO:0070979),0.32507426285669494,0.5561737102051197,0.9333333333333333,1.0,1.0,4/13,25.84%,ANAPC4;UBE2B;UBE2D3;UBE2L3
 prerank,GO_Biological_Process_2021__negative regulation of centrosome duplication (GO:0010826),-0.32674950786654877,-0.5558222528800159,0.8846153846153846,1.0,1.0,2/6,18.10%,CENATAC;BRCA1
 prerank,GO_Biological_Process_2021__regulation of chromatin organization (GO:1902275),0.35835518259472576,0.5555369198868062,0.9722222222222222,1.0,1.0,1/6,33.82%,HNRNPU
 prerank,GO_Biological_Process_2021__response to purine-containing compound (GO:0014074),0.3572858042198094,0.5554809809120101,0.9871794871794872,1.0,1.0,1/6,12.22%,ABCC9
 prerank,GO_Biological_Process_2021__mitotic nuclear division (GO:0140014),-0.19134901138101365,-0.555145827666642,1.0,1.0,1.0,5/28,16.63%,CEP192;NSL1;CHMP4B;PPP2R2D;FLNA
 prerank,GO_Biological_Process_2021__positive regulation of G2/M transition of mitotic cell cycle (GO:0010971),-0.3445624296800162,-0.5550251574738077,0.8181818181818182,1.0,1.0,1/5,7.13%,RAD51B
-prerank,GO_Biological_Process_2021__leukocyte tethering or rolling (GO:0050901),-0.2987738631072482,-0.5547506015419609,1.0,1.0,1.0,5/5,70.16%,ITGB1;JAM2;ROCK1;VCAM1;GOLPH3
 prerank,GO_Biological_Process_2021__leukocyte adhesion to vascular endothelial cell (GO:0061756),-0.2987738631072482,-0.5547506015419609,1.0,1.0,1.0,5/5,70.16%,ITGB1;JAM2;ROCK1;VCAM1;GOLPH3
+prerank,GO_Biological_Process_2021__leukocyte tethering or rolling (GO:0050901),-0.2987738631072482,-0.5547506015419609,1.0,1.0,1.0,5/5,70.16%,ITGB1;JAM2;ROCK1;VCAM1;GOLPH3
 prerank,GO_Biological_Process_2021__regulation of endothelial cell apoptotic process (GO:2000351),0.3255969089702691,0.5543449000890976,0.96,1.0,1.0,5/14,27.95%,PRKCI;PDCD4;KDR;RGCC;PLCG1
 prerank,GO_Biological_Process_2021__cellular senescence (GO:0090398),0.33003831393240646,0.5513904278892202,0.9625,1.0,1.0,4/13,27.40%,TBX3;MAP2K1;MAPKAPK5;KAT6A
-prerank,GO_Biological_Process_2021__lysine metabolic process (GO:0006553),-0.3098897686694613,-0.5513129242901381,1.0,1.0,1.0,7/7,69.06%,SLC25A21;PHYKPL;OGDH;AASS;ALDH7A1;DLD;DLST
 prerank,GO_Biological_Process_2021__lysine catabolic process (GO:0006554),-0.3098897686694613,-0.5513129242901381,1.0,1.0,1.0,7/7,69.06%,SLC25A21;PHYKPL;OGDH;AASS;ALDH7A1;DLD;DLST
+prerank,GO_Biological_Process_2021__lysine metabolic process (GO:0006553),-0.3098897686694613,-0.5513129242901381,1.0,1.0,1.0,7/7,69.06%,SLC25A21;PHYKPL;OGDH;AASS;ALDH7A1;DLD;DLST
 prerank,GO_Biological_Process_2021__toxin transport (GO:1901998),0.3616437997739421,0.5511419545503045,0.958904109589041,1.0,1.0,1/5,19.31%,SLC22A2
 prerank,GO_Biological_Process_2021__positive regulation of response to stimulus (GO:0048584),0.3267914161725187,0.5509288448546213,0.972972972972973,1.0,1.0,4/11,44.96%,YPEL3;TGFB2;MAVS;SIRT1
 prerank,"GO_Biological_Process_2021__nucleotide-excision repair, DNA duplex unwinding (GO:0000717)",0.3156200900124515,0.5499830308301803,0.9577464788732394,1.0,1.0,2/14,15.79%,RPS27A;RBX1
@@ -3478,9 +3478,9 @@ prerank,GO_Biological_Process_2021__negative regulation of proteolysis involved 
 prerank,GO_Biological_Process_2021__regulation of neurotrophin TRK receptor signaling pathway (GO:0051386),-0.30835902756066524,-0.5390172702267665,1.0,1.0,1.0,1/5,8.59%,NTF3
 prerank,GO_Biological_Process_2021__regulation of plasma membrane bounded cell projection organization (GO:0120035),0.3164454744873275,0.5384850915195132,0.9875,1.0,1.0,2/14,12.17%,CTNNA2;ULK4
 prerank,GO_Biological_Process_2021__negative regulation of striated muscle cell differentiation (GO:0051154),0.3559917981305658,0.5339011796907832,1.0,1.0,1.0,2/6,40.68%,HDAC5;FRS2
-prerank,GO_Biological_Process_2021__protein localization to presynapse (GO:1905383),-0.2961813101521267,-0.5336329568297206,0.9565217391304348,1.0,1.0,6/6,70.42%,DLG2;MAP1A;MAPK8IP3;KIF5B;HSPB1;KIF5C
-prerank,GO_Biological_Process_2021__anterograde axonal protein transport (GO:0099641),-0.2961813101521267,-0.5336329568297206,0.9565217391304348,1.0,1.0,6/6,70.42%,DLG2;MAP1A;MAPK8IP3;KIF5B;HSPB1;KIF5C
 prerank,GO_Biological_Process_2021__axo-dendritic protein transport (GO:0099640),-0.2961813101521267,-0.5336329568297206,0.9565217391304348,1.0,1.0,6/6,70.42%,DLG2;MAP1A;MAPK8IP3;KIF5B;HSPB1;KIF5C
+prerank,GO_Biological_Process_2021__anterograde axonal protein transport (GO:0099641),-0.2961813101521267,-0.5336329568297206,0.9565217391304348,1.0,1.0,6/6,70.42%,DLG2;MAP1A;MAPK8IP3;KIF5B;HSPB1;KIF5C
+prerank,GO_Biological_Process_2021__protein localization to presynapse (GO:1905383),-0.2961813101521267,-0.5336329568297206,0.9565217391304348,1.0,1.0,6/6,70.42%,DLG2;MAP1A;MAPK8IP3;KIF5B;HSPB1;KIF5C
 prerank,GO_Biological_Process_2021__ceramide transport (GO:0035627),0.34193548539019103,0.5331433626626371,0.9852941176470589,1.0,1.0,1/6,22.72%,SGPP1
 prerank,GO_Biological_Process_2021__positive regulation of cytokine production involved in immune response (GO:0002720),-0.30104021114733737,-0.5301306567035469,0.8571428571428571,1.0,1.0,7/7,69.94%,TRAF6;HLA-E;B2M;MAP3K7;HLA-A;CD55;MALT1
 prerank,GO_Biological_Process_2021__mitotic spindle assembly (GO:0090307),0.2891063958663537,0.529768555099749,1.0,1.0,1.0,7/19,33.37%,GOLGA2;RAB11A;LSM14A;MAP9;ZNF207;SMC1A;SMC3
@@ -3498,8 +3498,8 @@ prerank,GO_Biological_Process_2021__DNA duplex unwinding (GO:0032508),0.27780074
 prerank,GO_Biological_Process_2021__semaphorin-plexin signaling pathway (GO:0071526),0.3060999921422939,0.5215755668363978,0.975,1.0,1.0,2/16,12.25%,SEMA4D;SEMA3B
 prerank,GO_Biological_Process_2021__embryo development ending in birth or egg hatching (GO:0009792),-0.27267080745341615,-0.5210321272110608,0.9565217391304348,1.0,1.0,8/8,72.78%,CELF1;BRCA1;UBR3;RICTOR;TGFB2;STOX2;FGFR1;USP22
 prerank,GO_Biological_Process_2021__vesicle transport along microtubule (GO:0047496),0.30223774002560955,0.5198308100914758,1.0,1.0,1.0,3/15,36.74%,PAFAH1B1;FYCO1;RAB1A
-prerank,GO_Biological_Process_2021__telomere maintenance via telomere lengthening (GO:0010833),-0.27404068764976247,-0.5184638831446526,1.0,1.0,1.0,1/14,3.94%,SHQ1
 prerank,GO_Biological_Process_2021__telomere maintenance via telomerase (GO:0007004),-0.27404068764976247,-0.5184638831446526,1.0,1.0,1.0,1/14,3.94%,SHQ1
+prerank,GO_Biological_Process_2021__telomere maintenance via telomere lengthening (GO:0010833),-0.27404068764976247,-0.5184638831446526,1.0,1.0,1.0,1/14,3.94%,SHQ1
 prerank,GO_Biological_Process_2021__negative regulation of stress-activated MAPK cascade (GO:0032873),0.29707202705334956,0.5180134741305583,0.975609756097561,1.0,1.0,9/16,40.04%,DUSP1;PER1;TAOK3;CYLD;AIDA;DLG1;FOXO1;NCOR1;GSTP1
 prerank,GO_Biological_Process_2021__amino acid import (GO:0043090),0.30669653241178296,0.5136600126898968,0.9876543209876543,1.0,1.0,2/9,25.82%,SLC22A2;SLC1A1
 prerank,GO_Biological_Process_2021__negative regulation of receptor-mediated endocytosis (GO:0048261),0.3059480260731881,0.5133084123293254,0.948051948051948,1.0,1.0,6/11,32.23%,SDCBP;ITGAV;MTMR2;ANKRD13D;APP;LRPAP1
@@ -3528,8 +3528,8 @@ prerank,GO_Biological_Process_2021__negative regulation of signal transduction i
 prerank,GO_Biological_Process_2021__negative regulation of extrinsic apoptotic signaling pathway in absence of ligand (GO:2001240),0.3033200265397809,0.4907262925518192,0.9863013698630136,1.0,1.0,2/9,28.29%,UNC5B;MCL1
 prerank,GO_Biological_Process_2021__negative regulation of cation channel activity (GO:2001258),-0.28713332298618655,-0.4905128428572797,1.0,1.0,1.0,5/5,71.32%,PKD2;CALM1;GNB5;FMR1;UBQLN1
 prerank,GO_Biological_Process_2021__regulation of cellular component size (GO:0032535),0.27394207284149236,0.4870744403582426,0.9743589743589743,1.0,1.0,4/16,33.30%,VAV3;AP2M1;RDX;MTOR
-prerank,GO_Biological_Process_2021__determination of heart left/right asymmetry (GO:0061371),0.2982217865569743,0.48546714841639876,0.9879518072289156,1.0,1.0,1/12,13.80%,TBX3
 prerank,GO_Biological_Process_2021__heart looping (GO:0001947),0.2982217865569743,0.48546714841639876,0.9879518072289156,1.0,1.0,1/12,13.80%,TBX3
+prerank,GO_Biological_Process_2021__determination of heart left/right asymmetry (GO:0061371),0.2982217865569743,0.48546714841639876,0.9879518072289156,1.0,1.0,1/12,13.80%,TBX3
 prerank,GO_Biological_Process_2021__protein localization to ciliary membrane (GO:1903441),0.3166881298767357,0.48468007143224234,0.9864864864864865,1.0,1.0,2/5,28.94%,WDR19;ARL13B
 prerank,GO_Biological_Process_2021__sphingoid metabolic process (GO:0046519),0.32747960760455047,0.4834822477066109,1.0,1.0,1.0,2/5,22.72%,SPTLC3;SGPP1
 prerank,GO_Biological_Process_2021__regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis (GO:1903587),0.3221584772132633,0.48164822853839445,0.9863013698630136,1.0,1.0,2/5,30.38%,JCAD;VEGFA
@@ -3565,8 +3565,8 @@ prerank,GO_Biological_Process_2021__positive regulation of interleukin-1 product
 prerank,GO_Biological_Process_2021__central nervous system myelination (GO:0022010),0.3017394497684003,0.4194646969860828,1.0,1.0,1.0,2/5,32.49%,PLP1;B4GALT5
 prerank,GO_Biological_Process_2021__positive regulation of mRNA processing (GO:0050685),-0.21041181041181042,-0.4154570330638315,1.0,1.0,1.0,13/13,79.02%,CIRBP;SNW1;NCL;DAZAP1;DHX36;CDC73;NUP98;THRAP3;PRDX6;RBMX;NCBP1;TRA2B;TRA2A
 prerank,GO_Biological_Process_2021__ribonucleoprotein complex assembly (GO:0022618),0.21214068309994916,0.41438675914244827,1.0,1.0,1.0,2/62,7.48%,STRAP;DHX29
-prerank,GO_Biological_Process_2021__CENP-A containing nucleosome assembly (GO:0034080),0.2585831473140236,0.41072114901391854,1.0,1.0,1.0,2/9,26.18%,RBBP7;CENPP
 prerank,GO_Biological_Process_2021__chromatin remodeling at centromere (GO:0031055),0.2585831473140236,0.41072114901391854,1.0,1.0,1.0,2/9,26.18%,RBBP7;CENPP
+prerank,GO_Biological_Process_2021__CENP-A containing nucleosome assembly (GO:0034080),0.2585831473140236,0.41072114901391854,1.0,1.0,1.0,2/9,26.18%,RBBP7;CENPP
 prerank,GO_Biological_Process_2021__CENP-A containing chromatin organization (GO:0061641),0.2585831473140236,0.41072114901391854,1.0,1.0,1.0,2/9,26.18%,RBBP7;CENPP
 prerank,MSigDB_Hallmark_2020__Apical Surface,0.2415097957838673,0.40458446291707234,1.0,1.0,1.0,7/14,42.26%,DCBLD2;ATP8B1;APP;HSPB1;LYN;ADAM10;NCOA6
 prerank,GO_Biological_Process_2021__cellular response to steroid hormone stimulus (GO:0071383),-0.20984777881329605,-0.4001522611682147,1.0,1.0,1.0,10/10,79.06%,AKR1C3;TRERF1;NR3C1;URI1;ATP1A2;ABHD2;ATP1A1;GPER1;UBE2L3;TFPI
