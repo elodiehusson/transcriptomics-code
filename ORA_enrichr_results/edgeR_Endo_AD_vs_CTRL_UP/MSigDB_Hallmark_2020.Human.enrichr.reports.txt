@@ -1,0 +1,1303 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+MSigDB_Hallmark_2020	regulation of cellular component movement (GO:0051270)	5/50	9.215092e-05	1.199805e-01	0	0	1.234207e+01	1.146836e+02	PRAG1;INPP5F;ERBB4;ABL2;NRG2
+MSigDB_Hallmark_2020	small GTPase mediated signal transduction (GO:0007264)	6/106	4.325919e-04	2.008121e-01	0	0	6.683729e+00	5.177026e+01	BCR;CCDC88A;RALA;RRAS2;KRAS;PRKD1
+MSigDB_Hallmark_2020	neural crest cell development (GO:0014032)	4/45	7.539646e-04	2.008121e-01	0	0	1.077858e+01	7.749977e+01	CDH2;ERBB4;SEMA3F;PHACTR4
+MSigDB_Hallmark_2020	positive regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032436)	5/79	7.916980e-04	2.008121e-01	0	0	7.494306e+00	5.351932e+01	COP1;RNF217;UBQLN1;PIAS1;TAF1
+MSigDB_Hallmark_2020	circulatory system development (GO:0072359)	6/126	1.074819e-03	2.008121e-01	0	0	5.564124e+00	3.803414e+01	PIK3CA;ERBB4;RBM20;HSPG2;FGF12;HDAC9
+MSigDB_Hallmark_2020	regulation of autophagy (GO:0010506)	8/231	1.329458e-03	2.008121e-01	0	0	4.016707e+00	2.660259e+01	TRIM5;UBQLN1;ABL2;SLC38A9;PRKD1;EIF4G3;DEPP1;MTDH
+MSigDB_Hallmark_2020	in utero embryonic development (GO:0001701)	3/25	1.494372e-03	2.008121e-01	0	0	1.499621e+01	9.756609e+01	FUT8;MBNL1;CHD7
+MSigDB_Hallmark_2020	negative regulation of transcription by RNA polymerase II (GO:0000122)	15/684	1.603976e-03	2.008121e-01	0	0	2.555520e+00	1.644546e+01	ATN1;ZBTB1;IRF2BP2;HDAC9;BMP6;MTDH;BCL6;CNOT2;TRPS1;CRY1;RARB;CALR;JAZF1;MCPH1;TAF1
+MSigDB_Hallmark_2020	glandular epithelial cell development (GO:0002068)	2/7	1.696569e-03	2.008121e-01	0	0	4.378343e+01	2.793009e+02	CDH2;BMP6
+MSigDB_Hallmark_2020	type B pancreatic cell development (GO:0003323)	2/7	1.696569e-03	2.008121e-01	0	0	4.378343e+01	2.793009e+02	CDH2;BMP6
+MSigDB_Hallmark_2020	mitochondrion-endoplasmic reticulum membrane tethering (GO:1990456)	2/7	1.696569e-03	2.008121e-01	0	0	4.378343e+01	2.793009e+02	PACS2;ATP2A2
+MSigDB_Hallmark_2020	protein phosphorylation (GO:0006468)	12/496	2.107455e-03	2.107157e-01	0	0	2.803103e+00	1.727349e+01	MAPK10;BCR;CSNK1G3;MORC3;PRAG1;ERBB4;PDK4;CRY1;ABL2;PRKD1;PRKG1;TAF1
+MSigDB_Hallmark_2020	protein N-linked glycosylation via asparagine (GO:0018279)	3/30	2.550930e-03	2.107157e-01	0	0	1.221605e+01	7.294566e+01	MCFD2;FUT8;MGAT5
+MSigDB_Hallmark_2020	modification-dependent protein catabolic process (GO:0019941)	7/201	2.560585e-03	2.107157e-01	0	0	4.022991e+00	2.400728e+01	UBE2B;PSMD14;RNF217;UBQLN1;FBXO7;RNF130;TAF1
+MSigDB_Hallmark_2020	peptidyl-asparagine modification (GO:0018196)	3/31	2.805396e-03	2.107157e-01	0	0	1.177917e+01	6.921686e+01	MCFD2;FUT8;MGAT5
+MSigDB_Hallmark_2020	type B pancreatic cell differentiation (GO:0003309)	2/9	2.873560e-03	2.107157e-01	0	0	3.127072e+01	1.830026e+02	CDH2;BMP6
+MSigDB_Hallmark_2020	regulation of RNA metabolic process (GO:0051252)	4/65	2.973251e-03	2.107157e-01	0	0	7.237293e+00	4.210729e+01	MBNL1;NOVA1;RBM20;PTBP3
+MSigDB_Hallmark_2020	negative regulation of intracellular steroid hormone receptor signaling pathway (GO:0033144)	3/32	3.074961e-03	2.107157e-01	0	0	1.137241e+01	6.578331e+01	CNOT2;CRY1;CALR
+MSigDB_Hallmark_2020	ERBB2 signaling pathway (GO:0038128)	3/32	3.074961e-03	2.107157e-01	0	0	1.137241e+01	6.578331e+01	PIK3CA;ERBB4;NRG2
+MSigDB_Hallmark_2020	cellular divalent inorganic cation homeostasis (GO:0072503)	5/111	3.561950e-03	2.318830e-01	0	0	5.223394e+00	2.944661e+01	MT2A;STIM1;VAPB;ATP2A2;CALR
+MSigDB_Hallmark_2020	regulation of neuron projection development (GO:0010975)	6/165	4.168494e-03	2.584466e-01	0	0	4.191024e+00	2.296765e+01	CCDC88A;PRAG1;CDH2;ABL2;PRKD1;FBXO7
+MSigDB_Hallmark_2020	neural crest cell migration (GO:0001755)	3/37	4.658701e-03	2.637230e-01	0	0	9.697549e+00	5.206632e+01	ERBB4;SEMA3F;PHACTR4
+MSigDB_Hallmark_2020	glutamate receptor signaling pathway (GO:0007215)	3/37	4.658701e-03	2.637230e-01	0	0	9.697549e+00	5.206632e+01	GRIA2;GRM5;GRIK2
+MSigDB_Hallmark_2020	nucleotide-sugar metabolic process (GO:0009225)	2/12	5.173965e-03	2.806876e-01	0	0	2.188619e+01	1.152114e+02	FUT8;UGP2
+MSigDB_Hallmark_2020	positive regulation of catalytic activity (GO:0043085)	3/40	5.806410e-03	2.993586e-01	0	0	8.909910e+00	4.587528e+01	YWHAB;ABL2;PHACTR4
+MSigDB_Hallmark_2020	positive regulation of ubiquitin-dependent protein catabolic process (GO:2000060)	4/79	5.977975e-03	2.993586e-01	0	0	5.882160e+00	3.011474e+01	COP1;RNF217;PIAS1;TAF1
+MSigDB_Hallmark_2020	negative regulation of transcription, DNA-templated (GO:0045892)	17/948	6.322053e-03	3.048634e-01	0	0	2.077453e+00	1.051962e+01	ATN1;ZBTB1;IRF2BP2;HDAC9;BMP6;MTDH;BCL6;CNOT2;TRPS1;UIMC1;CRY1;RARB;CALR;YAF2;JAZF1;MCPH1;TAF1
+MSigDB_Hallmark_2020	regulation of integrin-mediated signaling pathway (GO:2001044)	2/14	7.048633e-03	3.085386e-01	0	0	1.823665e+01	9.036116e+01	PRKD1;PHACTR4
+MSigDB_Hallmark_2020	nuclear migration (GO:0007097)	2/14	7.048633e-03	3.085386e-01	0	0	1.823665e+01	9.036116e+01	PCM1;SYNE2
+MSigDB_Hallmark_2020	positive regulation of T cell differentiation (GO:0045582)	3/43	7.109185e-03	3.085386e-01	0	0	8.240417e+00	4.076013e+01	PNP;BCL6;ZBTB1
+MSigDB_Hallmark_2020	positive regulation of osteoblast differentiation (GO:0045669)	3/44	7.578747e-03	3.095849e-01	0	0	8.039024e+00	3.924979e+01	PRKD1;IL6R;BMP6
+MSigDB_Hallmark_2020	regulation of cell motility (GO:2000145)	5/133	7.610803e-03	3.095849e-01	0	0	4.320795e+00	2.107765e+01	PRAG1;INPP5F;ERBB4;ABL2;NRG2
+MSigDB_Hallmark_2020	positive regulation of proteasomal protein catabolic process (GO:1901800)	4/86	8.043264e-03	3.095849e-01	0	0	5.378117e+00	2.593823e+01	COP1;RNF217;PIAS1;TAF1
+MSigDB_Hallmark_2020	response to muscle stretch (GO:0035994)	2/15	8.084397e-03	3.095849e-01	0	0	1.683298e+01	8.109825e+01	CDH2;PIK3CA
+MSigDB_Hallmark_2020	cellular calcium ion homeostasis (GO:0006874)	5/136	8.339648e-03	3.102349e-01	0	0	4.221203e+00	2.020577e+01	STIM1;PACS2;VAPB;ATP2A2;CALR
+MSigDB_Hallmark_2020	negative regulation of anoikis (GO:2000811)	2/16	9.184094e-03	3.302172e-01	0	0	1.562983e+01	7.330833e+01	PIK3CA;PDK4
+MSigDB_Hallmark_2020	positive regulation of autophagy (GO:0010508)	4/90	9.410249e-03	3.302172e-01	0	0	5.126933e+00	2.392204e+01	TRIM5;PRKD1;FBXO7;MTDH
+MSigDB_Hallmark_2020	cognition (GO:0050890)	3/48	9.637676e-03	3.302172e-01	0	0	7.322963e+00	3.399375e+01	GRM5;CHD7;SOBP
+MSigDB_Hallmark_2020	Ras protein signal transduction (GO:0007265)	5/142	9.939896e-03	3.318396e-01	0	0	4.035102e+00	1.860666e+01	RALA;RRAS2;KRAS;PRKD1;PHACTR4
+MSigDB_Hallmark_2020	regulation of cartilage development (GO:0061035)	2/18	1.157033e-02	3.592655e-01	0	0	1.367472e+01	6.097985e+01	TRPS1;SOX5
+MSigDB_Hallmark_2020	synaptic transmission, glutamatergic (GO:0035249)	2/18	1.157033e-02	3.592655e-01	0	0	1.367472e+01	6.097985e+01	GRIA2;GRIK2
+MSigDB_Hallmark_2020	phosphorylation (GO:0016310)	9/400	1.158921e-02	3.592655e-01	0	0	2.569803e+00	1.145536e+01	MAPK10;BCR;MORC3;PRAG1;PIK3CA;PDK4;PRKD1;PRKG1;TAF1
+MSigDB_Hallmark_2020	ameboidal-type cell migration (GO:0001667)	3/52	1.199191e-02	3.595193e-01	0	0	6.723810e+00	2.974293e+01	ERBB4;SEMA3F;PHACTR4
+MSigDB_Hallmark_2020	calcium ion homeostasis (GO:0055074)	4/97	1.214965e-02	3.595193e-01	0	0	4.739352e+00	2.090270e+01	STIM1;VAPB;ATP2A2;CALR
+MSigDB_Hallmark_2020	cardiac muscle cell contraction (GO:0086003)	2/19	1.285443e-02	3.612124e-01	0	0	1.286968e+01	5.603544e+01	PIK3CA;FGF12
+MSigDB_Hallmark_2020	N-glycan processing (GO:0006491)	2/19	1.285443e-02	3.612124e-01	0	0	1.286968e+01	5.603544e+01	FUT8;MAN1A2
+MSigDB_Hallmark_2020	regulation of cardiac conduction (GO:1903779)	3/55	1.395543e-02	3.612124e-01	0	0	6.334936e+00	2.706213e+01	STIM1;ATP2A2;ITPR3
+MSigDB_Hallmark_2020	endoplasmic reticulum calcium ion homeostasis (GO:0032469)	2/20	1.419760e-02	3.612124e-01	0	0	1.215408e+01	5.171176e+01	PACS2;ATP2A2
+MSigDB_Hallmark_2020	positive regulation of alpha-beta T cell activation (GO:0046635)	2/20	1.419760e-02	3.612124e-01	0	0	1.215408e+01	5.171176e+01	HSPH1;PNP
+MSigDB_Hallmark_2020	regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032434)	4/102	1.438941e-02	3.612124e-01	0	0	4.496409e+00	1.907045e+01	COP1;RNF217;PIAS1;TAF1
+MSigDB_Hallmark_2020	autophagosome organization (GO:1905037)	3/56	1.464805e-02	3.612124e-01	0	0	6.215094e+00	2.624913e+01	PACS2;UBQLN1;ATP2A2
+MSigDB_Hallmark_2020	skeletal system development (GO:0001501)	5/158	1.521024e-02	3.612124e-01	0	0	3.610193e+00	1.511150e+01	TEAD4;TRPS1;CHD7;BMP6;SOX5
+MSigDB_Hallmark_2020	cellular metal ion homeostasis (GO:0006875)	4/104	1.535365e-02	3.612124e-01	0	0	4.406034e+00	1.840137e+01	STIM1;VAPB;ATP2A2;CALR
+MSigDB_Hallmark_2020	regulation of anoikis (GO:2000209)	2/21	1.559864e-02	3.612124e-01	0	0	1.151381e+01	4.790404e+01	PIK3CA;PDK4
+MSigDB_Hallmark_2020	regulation of lipopolysaccharide-mediated signaling pathway (GO:0031664)	2/21	1.559864e-02	3.612124e-01	0	0	1.151381e+01	4.790404e+01	TRIM5;BMP6
+MSigDB_Hallmark_2020	autophagosome assembly (GO:0000045)	3/58	1.609088e-02	3.612124e-01	0	0	5.988485e+00	2.472947e+01	PACS2;UBQLN1;ATP2A2
+MSigDB_Hallmark_2020	chordate embryonic development (GO:0043009)	3/58	1.609088e-02	3.612124e-01	0	0	5.988485e+00	2.472947e+01	MBNL1;FUT8;CHD7
+MSigDB_Hallmark_2020	membrane lipid biosynthetic process (GO:0046467)	3/58	1.609088e-02	3.612124e-01	0	0	5.988485e+00	2.472947e+01	VAPB;PRKD1;KDSR
+MSigDB_Hallmark_2020	ubiquitin-dependent protein catabolic process (GO:0006511)	8/354	1.649421e-02	3.639908e-01	0	0	2.572552e+00	1.055967e+01	COP1;UBE2B;PSMD14;RNF217;UBQLN1;FBXO7;RNF130;TAF1
+MSigDB_Hallmark_2020	regulation of transcription by RNA polymerase II (GO:0006357)	30/2206	1.732611e-02	3.689348e-01	0	0	1.589623e+00	6.446781e+00	TSHZ2;ATN1;ZBTB1;HDAC9;BACH2;MTDH;TRPS1;JAZF1;SOX5;TEAD4;KDM4C;ZNF160;ZBTB10;TET2;SMAD9;IRF2BP2;MED4;BMP6;PIAS1;BCL6;AEBP2;CNOT2;CRY1;RARB;PRKD1;CALR;BRWD1;CREB5;MCPH1;TAF1
+MSigDB_Hallmark_2020	heart development (GO:0007507)	5/164	1.759139e-02	3.689348e-01	0	0	3.472899e+00	1.403171e+01	ERBB4;CHD7;RBM20;FGF12;HDAC9
+MSigDB_Hallmark_2020	modulation of chemical synaptic transmission (GO:0050804)	4/109	1.793951e-02	3.689348e-01	0	0	4.195158e+00	1.686768e+01	BCR;GRM5;CDH2;GRIK2
+MSigDB_Hallmark_2020	response to light stimulus (GO:0009416)	3/61	1.839975e-02	3.689348e-01	0	0	5.677874e+00	2.268548e+01	MAPK10;UBE2B;CRY1
+MSigDB_Hallmark_2020	negative regulation of G protein-coupled receptor signaling pathway (GO:0045744)	2/23	1.856978e-02	3.689348e-01	0	0	1.041621e+01	4.152129e+01	YWHAB;CRY1
+MSigDB_Hallmark_2020	cytoskeleton-dependent intracellular transport (GO:0030705)	2/23	1.856978e-02	3.689348e-01	0	0	1.041621e+01	4.152129e+01	CCDC88A;CCDC186
+MSigDB_Hallmark_2020	peptidyl-glutamic acid modification (GO:0018200)	2/24	2.013759e-02	3.689348e-01	0	0	9.942240e+00	3.882611e+01	TTLL7;AGTPBP1
+MSigDB_Hallmark_2020	receptor signaling pathway via STAT (GO:0097696)	2/25	2.175874e-02	3.689348e-01	0	0	9.509488e+00	3.639985e+01	PIAS1;IFNAR1
+MSigDB_Hallmark_2020	ERBB signaling pathway (GO:0038127)	3/66	2.263566e-02	3.689348e-01	0	0	5.225926e+00	1.979700e+01	PIK3CA;ERBB4;NRG2
+MSigDB_Hallmark_2020	regulation of chondrocyte differentiation (GO:0032330)	2/26	2.343214e-02	3.689348e-01	0	0	9.112799e+00	3.420623e+01	TRPS1;SOX5
+MSigDB_Hallmark_2020	hippo signaling (GO:0035329)	2/26	2.343214e-02	3.689348e-01	0	0	9.112799e+00	3.420623e+01	TEAD4;YWHAB
+MSigDB_Hallmark_2020	lamellipodium assembly (GO:0030032)	2/26	2.343214e-02	3.689348e-01	0	0	9.112799e+00	3.420623e+01	CCDC88A;ARHGEF4
+MSigDB_Hallmark_2020	protein N-linked glycosylation (GO:0006487)	3/67	2.354114e-02	3.689348e-01	0	0	5.144010e+00	1.928492e+01	MCFD2;FUT8;MGAT5
+MSigDB_Hallmark_2020	regulation of tyrosine phosphorylation of STAT protein (GO:0042509)	3/68	2.446606e-02	3.689348e-01	0	0	5.064615e+00	1.879210e+01	INPP5F;ERBB4;IL6R
+MSigDB_Hallmark_2020	RNA processing (GO:0006396)	5/179	2.458890e-02	3.689348e-01	0	0	3.171090e+00	1.175035e+01	MBNL1;NOVA1;HNRNPR;TENT4A;PRPF8
+MSigDB_Hallmark_2020	anterograde trans-synaptic signaling (GO:0098916)	6/244	2.503824e-02	3.689348e-01	0	0	2.788634e+00	1.028267e+01	GRIA2;SNAP25;GRM5;NOVA1;GRIK2;SLC12A6
+MSigDB_Hallmark_2020	mitotic chromosome condensation (GO:0007076)	2/27	2.515670e-02	3.689348e-01	0	0	8.747845e+00	3.221509e+01	TENT4A;MCPH1
+MSigDB_Hallmark_2020	monovalent inorganic cation homeostasis (GO:0055067)	2/27	2.515670e-02	3.689348e-01	0	0	8.747845e+00	3.221509e+01	PDK4;SLC12A6
+MSigDB_Hallmark_2020	carbohydrate homeostasis (GO:0033500)	3/70	2.637413e-02	3.689348e-01	0	0	4.912935e+00	1.786035e+01	HECTD4;PDK4;CRY1
+MSigDB_Hallmark_2020	cytosolic calcium ion transport (GO:0060401)	2/28	2.693137e-02	3.689348e-01	0	0	8.410965e+00	3.040113e+01	ATP2A2;ITPR3
+MSigDB_Hallmark_2020	regulation of plasma membrane bounded cell projection organization (GO:0120035)	2/28	2.693137e-02	3.689348e-01	0	0	8.410965e+00	3.040113e+01	CCDC88A;FBXO7
+MSigDB_Hallmark_2020	cytokine-mediated signaling pathway (GO:0019221)	11/621	2.800906e-02	3.689348e-01	0	0	2.013696e+00	7.199421e+00	RALA;MT2A;BCL6;PIK3CA;PSMD14;IL1R1;TRIM5;ABL2;BRWD1;IL6R;IFNAR1
+MSigDB_Hallmark_2020	transcription by RNA polymerase II (GO:0006366)	7/320	2.821045e-02	3.689348e-01	0	0	2.478362e+00	8.842951e+00	TEAD4;ZBTB1;RARB;MED4;HDAC9;SOX5;TAF1
+MSigDB_Hallmark_2020	lamellipodium organization (GO:0097581)	2/29	2.875508e-02	3.689348e-01	0	0	8.099038e+00	2.874301e+01	CCDC88A;ARHGEF4
+MSigDB_Hallmark_2020	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent (GO:0002479)	3/73	2.938156e-02	3.689348e-01	0	0	4.701667e+00	1.658460e+01	PDIA3;PSMD14;CALR
+MSigDB_Hallmark_2020	regulation of Rho protein signal transduction (GO:0035023)	3/73	2.938156e-02	3.689348e-01	0	0	4.701667e+00	1.658460e+01	BCR;PRAG1;ABL2
+MSigDB_Hallmark_2020	regulation of peptide hormone secretion (GO:0090276)	3/74	3.042266e-02	3.689348e-01	0	0	4.635211e+00	1.618879e+01	SNAP25;CHD7;ITPR3
+MSigDB_Hallmark_2020	sphingolipid biosynthetic process (GO:0030148)	3/74	3.042266e-02	3.689348e-01	0	0	4.635211e+00	1.618879e+01	VAPB;PRKD1;KDSR
+MSigDB_Hallmark_2020	receptor signaling pathway via JAK-STAT (GO:0007259)	2/31	3.254554e-02	3.689348e-01	0	0	7.539722e+00	2.582441e+01	PIAS1;IFNAR1
+MSigDB_Hallmark_2020	regulation of RNA splicing (GO:0043484)	3/76	3.256259e-02	3.689348e-01	0	0	4.507763e+00	1.543724e+01	MBNL1;RBM20;PTBP3
+MSigDB_Hallmark_2020	positive regulation of protein modification by small protein conjugation or removal (GO:1903322)	3/77	3.366133e-02	3.689348e-01	0	0	4.446622e+00	1.508030e+01	CRY1;UBQLN1;PIAS1
+MSigDB_Hallmark_2020	positive regulation of receptor signaling pathway via STAT (GO:1904894)	2/32	3.451024e-02	3.689348e-01	0	0	7.288029e+00	2.453514e+01	ERBB4;MGAT5
+MSigDB_Hallmark_2020	protein K63-linked deubiquitination (GO:0070536)	2/32	3.451024e-02	3.689348e-01	0	0	7.288029e+00	2.453514e+01	PSMD14;UIMC1
+MSigDB_Hallmark_2020	antigen processing and presentation of exogenous peptide antigen via MHC class I (GO:0042590)	3/78	3.477917e-02	3.689348e-01	0	0	4.387111e+00	1.473515e+01	PDIA3;PSMD14;CALR
+MSigDB_Hallmark_2020	positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731)	4/134	3.480992e-02	3.689348e-01	0	0	3.384100e+00	1.136331e+01	GRM5;ERBB4;IL6R;BMP6
+MSigDB_Hallmark_2020	antigen processing and presentation of peptide antigen via MHC class I (GO:0002474)	2/33	3.651995e-02	3.689348e-01	0	0	7.052575e+00	2.334330e+01	PDIA3;CALR
+MSigDB_Hallmark_2020	central nervous system development (GO:0007417)	6/268	3.707937e-02	3.689348e-01	0	0	2.530082e+00	8.335846e+00	SNTG2;UGP2;CDH2;CHD7;ATN1;HSPG2
+MSigDB_Hallmark_2020	autophagosome maturation (GO:0097352)	2/34	3.857367e-02	3.689348e-01	0	0	6.831837e+00	2.223890e+01	UBQLN1;ATP2A2
+MSigDB_Hallmark_2020	cellular response to vascular endothelial growth factor stimulus (GO:0035924)	2/34	3.857367e-02	3.689348e-01	0	0	6.831837e+00	2.223890e+01	PIK3CA;PRKD1
+MSigDB_Hallmark_2020	regulation of angiogenesis (GO:0045765)	5/203	3.910676e-02	3.689348e-01	0	0	2.783311e+00	9.021990e+00	STIM1;COL4A2;PRKD1;HSPG2;MTDH
+MSigDB_Hallmark_2020	regulation of gene expression (GO:0010468)	16/1079	3.920012e-02	3.689348e-01	0	0	1.690301e+00	5.475014e+00	MBNL1;CHD7;FOXN2;AFF3;BMP6;ACTG1;PTBP3;BCL6;TRIM5;NOVA1;RBM20;GPBP1L1;KRAS;CALR;YAF2;TAF1
+MSigDB_Hallmark_2020	transcription initiation from RNA polymerase II promoter (GO:0006367)	4/140	3.987040e-02	3.689348e-01	0	0	3.233815e+00	1.041974e+01	TEAD4;RARB;HDAC9;TAF1
+MSigDB_Hallmark_2020	regulation of osteoblast differentiation (GO:0045667)	3/83	4.065286e-02	3.689348e-01	0	0	4.111875e+00	1.316905e+01	PRKD1;IL6R;BMP6
+MSigDB_Hallmark_2020	positive regulation of plasma membrane bounded cell projection assembly (GO:0120034)	3/83	4.065286e-02	3.689348e-01	0	0	4.111875e+00	1.316905e+01	CCDC88A;RALA;PIK3CA
+MSigDB_Hallmark_2020	regulation of muscle cell differentiation (GO:0051147)	2/35	4.067044e-02	3.689348e-01	0	0	6.624477e+00	2.121326e+01	CDH2;HDAC9
+MSigDB_Hallmark_2020	regulation of trans-synaptic signaling (GO:0099177)	2/35	4.067044e-02	3.689348e-01	0	0	6.624477e+00	2.121326e+01	BCR;GRIK2
+MSigDB_Hallmark_2020	regulation of small GTPase mediated signal transduction (GO:0051056)	4/141	4.075247e-02	3.689348e-01	0	0	3.210048e+00	1.027292e+01	BCR;FAM13B;ARHGEF4;SRGAP1
+MSigDB_Hallmark_2020	receptor-mediated endocytosis (GO:0006898)	4/143	4.254976e-02	3.689348e-01	0	0	3.163538e+00	9.987548e+00	HSPH1;INPP5F;CALR;HSPG2
+MSigDB_Hallmark_2020	embryonic limb morphogenesis (GO:0030326)	2/36	4.280931e-02	3.689348e-01	0	0	6.429314e+00	2.025877e+01	MBNL1;AFF3
+MSigDB_Hallmark_2020	regulation of neuron death (GO:1901214)	3/86	4.440214e-02	3.689348e-01	0	0	3.962651e+00	1.234155e+01	INPP5A;RRAS2;BTBD10
+MSigDB_Hallmark_2020	glucose homeostasis (GO:0042593)	3/86	4.440214e-02	3.689348e-01	0	0	3.962651e+00	1.234155e+01	HECTD4;PDK4;CRY1
+MSigDB_Hallmark_2020	protein side chain deglutamylation (GO:0035610)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	AGTPBP1
+MSigDB_Hallmark_2020	regulation of adherens junction organization (GO:1903391)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	BMP6
+MSigDB_Hallmark_2020	C-terminal protein deglutamylation (GO:0035609)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	AGTPBP1
+MSigDB_Hallmark_2020	regulation of chloride transport (GO:2001225)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	GRM5
+MSigDB_Hallmark_2020	cellular response to erythropoietin (GO:0036018)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	MT2A
+MSigDB_Hallmark_2020	negative regulation of RNA polymerase II regulatory region sequence-specific DNA binding (GO:1903026)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	TAF1
+MSigDB_Hallmark_2020	regulation of germinal center formation (GO:0002634)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	BCL6
+MSigDB_Hallmark_2020	regulation of glomerular mesangial cell proliferation (GO:0072124)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	IL6R
+MSigDB_Hallmark_2020	cellular response to salt stress (GO:0071472)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	SLC12A6
+MSigDB_Hallmark_2020	cerebellar Purkinje cell differentiation (GO:0021702)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	AGTPBP1
+MSigDB_Hallmark_2020	ciliary neurotrophic factor-mediated signaling pathway (GO:0070120)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	IL6R
+MSigDB_Hallmark_2020	regulation of natural killer cell differentiation (GO:0032823)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	ZBTB1
+MSigDB_Hallmark_2020	enamel mineralization (GO:0070166)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	STIM1
+MSigDB_Hallmark_2020	positive regulation of 3'-UTR-mediated mRNA stabilization (GO:1905870)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	TENT4A
+MSigDB_Hallmark_2020	regulation of T-helper 1 cell cytokine production (GO:2000554)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	IL1R1
+MSigDB_Hallmark_2020	positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway (GO:0038033)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	PRKD1
+MSigDB_Hallmark_2020	regulation of voltage-gated sodium channel activity (GO:1905150)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	FGF12
+MSigDB_Hallmark_2020	immature B cell differentiation (GO:0002327)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	IRF2BP2
+MSigDB_Hallmark_2020	inosine metabolic process (GO:0046102)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	PNP
+MSigDB_Hallmark_2020	positive regulation of MHC class I biosynthetic process (GO:0045345)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	HSPH1
+MSigDB_Hallmark_2020	positive regulation of protein localization to cilium (GO:1903566)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	CCDC88A
+MSigDB_Hallmark_2020	tight junction organization (GO:0120193)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	ACTG1
+MSigDB_Hallmark_2020	positive regulation of store-operated calcium channel activity (GO:1901341)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	STIM1
+MSigDB_Hallmark_2020	positive regulation of T-helper 1 cell cytokine production (GO:2000556)	1/5	4.492459e-02	3.689348e-01	0	0	2.721566e+01	8.444393e+01	IL1R1
+MSigDB_Hallmark_2020	regulation of intracellular steroid hormone receptor signaling pathway (GO:0033143)	2/37	4.498935e-02	3.689348e-01	0	0	6.245304e+00	1.936874e+01	KDM4C;CALR
+MSigDB_Hallmark_2020	phagocytosis, engulfment (GO:0006911)	2/37	4.498935e-02	3.689348e-01	0	0	6.245304e+00	1.936874e+01	XKR6;GULP1
+MSigDB_Hallmark_2020	positive regulation of signaling (GO:0023056)	2/38	4.720963e-02	3.689348e-01	0	0	6.071516e+00	1.853729e+01	INPP5F;GRIK2
+MSigDB_Hallmark_2020	cellular protein modification process (GO:0006464)	15/1025	4.951332e-02	3.689348e-01	0	0	1.662571e+00	4.996879e+00	CSNK1G3;MORC3;PRAG1;PSMD14;MAPK10;BCR;COP1;CDH2;PDK4;ABL2;PRKD1;DCAF10;FBXO7;PRKG1;TAF1
+MSigDB_Hallmark_2020	regulation of actin cytoskeleton organization (GO:0032956)	3/91	5.101890e-02	3.689348e-01	0	0	3.736553e+00	1.111833e+01	CCDC88A;PIK3CA;ABL2
+MSigDB_Hallmark_2020	purine deoxyribonucleotide catabolic process (GO:0009155)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	PNP
+MSigDB_Hallmark_2020	purine ribonucleoside catabolic process (GO:0046130)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	PNP
+MSigDB_Hallmark_2020	regulation of 3'-UTR-mediated mRNA stabilization (GO:1905868)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	TENT4A
+MSigDB_Hallmark_2020	regulation of anion channel activity (GO:0010359)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	GRM5
+MSigDB_Hallmark_2020	negative regulation of glucocorticoid receptor signaling pathway (GO:2000323)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	CRY1
+MSigDB_Hallmark_2020	regulation of cell cycle checkpoint (GO:1901976)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	CRY1
+MSigDB_Hallmark_2020	negative regulation of lipoprotein lipase activity (GO:0051005)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	HDAC9
+MSigDB_Hallmark_2020	regulation of DNA-dependent DNA replication initiation (GO:0030174)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	WRNIP1
+MSigDB_Hallmark_2020	cellular response to iron ion (GO:0071281)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	BMP6
+MSigDB_Hallmark_2020	negative regulation of trophoblast cell migration (GO:1901164)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	CALR
+MSigDB_Hallmark_2020	centromeric sister chromatid cohesion (GO:0070601)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	NAA50
+MSigDB_Hallmark_2020	dermatan sulfate proteoglycan metabolic process (GO:0050655)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	DSE
+MSigDB_Hallmark_2020	peptide antigen assembly with MHC protein complex (GO:0002501)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	CALR
+MSigDB_Hallmark_2020	regulation of NK T cell activation (GO:0051133)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	HSPH1
+MSigDB_Hallmark_2020	embryonic hindlimb morphogenesis (GO:0035116)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	AFF3
+MSigDB_Hallmark_2020	regulation of protein autoubiquitination (GO:1902498)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	TAF1
+MSigDB_Hallmark_2020	endoplasmic reticulum localization (GO:0051643)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	VAPB
+MSigDB_Hallmark_2020	regulation of protein localization to cilium (GO:1903564)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	CCDC88A
+MSigDB_Hallmark_2020	positive regulation of deacetylase activity (GO:0090045)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	PRKD1
+MSigDB_Hallmark_2020	regulation of translational elongation (GO:0006448)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	GRM5
+MSigDB_Hallmark_2020	regulation of transmission of nerve impulse (GO:0051969)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	FGF12
+MSigDB_Hallmark_2020	positive regulation of hemoglobin biosynthetic process (GO:0046985)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	SLC25A37
+MSigDB_Hallmark_2020	intracellular pH elevation (GO:0051454)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	SLC26A3
+MSigDB_Hallmark_2020	type B pancreatic cell proliferation (GO:0044342)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	BTBD10
+MSigDB_Hallmark_2020	vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane (GO:1990668)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	CALR
+MSigDB_Hallmark_2020	negative regulation of actin filament depolymerization (GO:0030835)	1/6	5.366569e-02	3.689348e-01	0	0	2.177143e+01	6.368102e+01	PIK3CA
+MSigDB_Hallmark_2020	regulation of epithelial cell proliferation (GO:0050678)	3/93	5.379219e-02	3.689348e-01	0	0	3.653148e+00	1.067679e+01	PRKD1;MCC;BMP6
+MSigDB_Hallmark_2020	regulation of heart contraction (GO:0008016)	3/93	5.379219e-02	3.689348e-01	0	0	3.653148e+00	1.067679e+01	STIM1;ATP2A2;ITPR3
+MSigDB_Hallmark_2020	regulation of response to DNA damage stimulus (GO:2001020)	2/41	5.410289e-02	3.689348e-01	0	0	5.603627e+00	1.634504e+01	CRY1;WRNIP1
+MSigDB_Hallmark_2020	import into cell (GO:0098657)	2/41	5.410289e-02	3.689348e-01	0	0	5.603627e+00	1.634504e+01	SNAP25;SLC12A6
+MSigDB_Hallmark_2020	positive regulation of TOR signaling (GO:0032008)	2/41	5.410289e-02	3.689348e-01	0	0	5.603627e+00	1.634504e+01	PIK3CA;SLC38A9
+MSigDB_Hallmark_2020	regulation of transcription, DNA-templated (GO:0006355)	28/2244	5.510669e-02	3.689348e-01	0	0	1.434808e+00	4.158769e+00	TSHZ2;CHD7;ZBTB1;HDAC9;BACH2;MTDH;ERBB4;TRPS1;UIMC1;GPBP1L1;YAF2;SOX5;TEAD4;KDM4C;ZNF160;ZBTB10;SMAD9;IRF2BP2;MED4;FOXN2;PIAS1;BCL6;AEBP2;CNOT2;CRY1;CALR;BRWD1;CREB5
+MSigDB_Hallmark_2020	negative regulation of cell death (GO:0060548)	3/94	5.520556e-02	3.689348e-01	0	0	3.612821e+00	1.046523e+01	INPP5A;PRKD1;BTBD10
+MSigDB_Hallmark_2020	peptidyl-serine phosphorylation (GO:0018105)	4/156	5.530695e-02	3.689348e-01	0	0	2.891061e+00	8.369208e+00	CSNK1G3;MORC3;PRKD1;TAF1
+MSigDB_Hallmark_2020	cellular response to growth factor stimulus (GO:0071363)	4/158	5.743399e-02	3.689348e-01	0	0	2.853225e+00	8.152003e+00	SMAD9;PRKD1;BMP6;SOX5
+MSigDB_Hallmark_2020	regulation of vesicle-mediated transport (GO:0060627)	3/96	5.808517e-02	3.689348e-01	0	0	3.534767e+00	1.005940e+01	RALA;INPP5F;ABL2
+MSigDB_Hallmark_2020	DNA synthesis involved in DNA repair (GO:0000731)	2/43	5.888327e-02	3.689348e-01	0	0	5.329740e+00	1.509488e+01	ZBTB1;WRNIP1
+MSigDB_Hallmark_2020	MAPK cascade (GO:0000165)	6/303	6.041387e-02	3.689348e-01	0	0	2.227929e+00	6.252764e+00	PIK3CA;PSMD14;YWHAB;ERBB4;KRAS;NRG2
+MSigDB_Hallmark_2020	positive regulation of protein kinase B signaling (GO:0051897)	4/161	6.070592e-02	3.689348e-01	0	0	2.798278e+00	7.839974e+00	PIK3CA;ERBB4;NRG2;MTDH
+MSigDB_Hallmark_2020	negative regulation of neuron death (GO:1901215)	3/98	6.103456e-02	3.689348e-01	0	0	3.460000e+00	9.675250e+00	INPP5A;FBXO7;BTBD10
+MSigDB_Hallmark_2020	RNA splicing (GO:0008380)	3/98	6.103456e-02	3.689348e-01	0	0	3.460000e+00	9.675250e+00	MBNL1;NOVA1;PRPF8
+MSigDB_Hallmark_2020	protein K63-linked ubiquitination (GO:0070534)	2/44	6.132634e-02	3.689348e-01	0	0	5.202578e+00	1.452324e+01	UBE2B;TRIM5
+MSigDB_Hallmark_2020	negative regulation of axon regeneration (GO:0048681)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	INPP5F
+MSigDB_Hallmark_2020	regulation of aldosterone biosynthetic process (GO:0032347)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	BMP6
+MSigDB_Hallmark_2020	autophagosome membrane docking (GO:0016240)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	ATP2A2
+MSigDB_Hallmark_2020	regulation of cardiac muscle cell membrane potential (GO:0086036)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	ATP2A2
+MSigDB_Hallmark_2020	regulation of cytoplasmic mRNA processing body assembly (GO:0010603)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	CNOT2
+MSigDB_Hallmark_2020	cellular hypotonic response (GO:0071476)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	SLC12A6
+MSigDB_Hallmark_2020	negative regulation of retinoic acid receptor signaling pathway (GO:0048387)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	CALR
+MSigDB_Hallmark_2020	regulation of glucocorticoid receptor signaling pathway (GO:2000322)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	CRY1
+MSigDB_Hallmark_2020	regulation of growth hormone secretion (GO:0060123)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	CHD7
+MSigDB_Hallmark_2020	regulation of hemoglobin biosynthetic process (GO:0046984)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	SLC25A37
+MSigDB_Hallmark_2020	regulation of histone deacetylase activity (GO:1901725)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	PRKD1
+MSigDB_Hallmark_2020	collagen-activated tyrosine kinase receptor signaling pathway (GO:0038063)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	COL4A2
+MSigDB_Hallmark_2020	nose development (GO:0043584)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	CHD7
+MSigDB_Hallmark_2020	regulation of mesenchymal stem cell differentiation (GO:2000739)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	SOX5
+MSigDB_Hallmark_2020	regulation of MHC class I biosynthetic process (GO:0045343)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	HSPH1
+MSigDB_Hallmark_2020	detection of muscle stretch (GO:0035995)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	CDH2
+MSigDB_Hallmark_2020	photoreceptor cell differentiation (GO:0046530)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	AGTPBP1
+MSigDB_Hallmark_2020	positive regulation of activation of Janus kinase activity (GO:0010536)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	IL6R
+MSigDB_Hallmark_2020	positive regulation of adenylate cyclase activity (GO:0045762)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	STIM1
+MSigDB_Hallmark_2020	regulation of striated muscle cell differentiation (GO:0051153)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	HDAC9
+MSigDB_Hallmark_2020	positive regulation of ER-associated ubiquitin-dependent protein catabolic process (GO:1903071)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	UBQLN1
+MSigDB_Hallmark_2020	heme transport (GO:0015886)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	FLVCR2
+MSigDB_Hallmark_2020	hindlimb morphogenesis (GO:0035137)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	AFF3
+MSigDB_Hallmark_2020	positive regulation of lipopolysaccharide-mediated signaling pathway (GO:0031666)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	BMP6
+MSigDB_Hallmark_2020	positive regulation of NK T cell activation (GO:0051135)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	HSPH1
+MSigDB_Hallmark_2020	synaptic vesicle docking (GO:0016081)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	SNAP25
+MSigDB_Hallmark_2020	mRNA transcription by RNA polymerase II (GO:0042789)	1/7	6.232723e-02	3.689348e-01	0	0	1.814194e+01	5.035036e+01	ZBTB1
+MSigDB_Hallmark_2020	response to UV (GO:0009411)	3/99	6.253512e-02	3.689348e-01	0	0	3.423785e+00	9.490824e+00	UBE2B;ZBTB1;TAF1
+MSigDB_Hallmark_2020	chemical synaptic transmission (GO:0007268)	6/306	6.274431e-02	3.689348e-01	0	0	2.205311e+00	6.105816e+00	GRIA2;SNAP25;GRM5;NOVA1;GRIK2;SLC12A6
+MSigDB_Hallmark_2020	regulation of DNA repair (GO:0006282)	2/45	6.380356e-02	3.689348e-01	0	0	5.081331e+00	1.398355e+01	UIMC1;WRNIP1
+MSigDB_Hallmark_2020	chromosome condensation (GO:0030261)	2/45	6.380356e-02	3.689348e-01	0	0	5.081331e+00	1.398355e+01	TENT4A;MCPH1
+MSigDB_Hallmark_2020	positive regulation of chemotaxis (GO:0050921)	2/45	6.380356e-02	3.689348e-01	0	0	5.081331e+00	1.398355e+01	PRKD1;IL6R
+MSigDB_Hallmark_2020	regulation of synaptic transmission, glutamatergic (GO:0051966)	2/46	6.631410e-02	3.689348e-01	0	0	4.965595e+00	1.347341e+01	GRM5;CDH2
+MSigDB_Hallmark_2020	positive regulation of organelle assembly (GO:1902117)	2/46	6.631410e-02	3.689348e-01	0	0	4.965595e+00	1.347341e+01	CCDC88A;CNOT2
+MSigDB_Hallmark_2020	postreplication repair (GO:0006301)	2/46	6.631410e-02	3.689348e-01	0	0	4.965595e+00	1.347341e+01	UBE2B;ZBTB1
+MSigDB_Hallmark_2020	positive regulation of vasculature development (GO:1904018)	3/102	6.713884e-02	3.689348e-01	0	0	3.319529e+00	8.966022e+00	STIM1;PRKD1;MTDH
+MSigDB_Hallmark_2020	mitotic sister chromatid segregation (GO:0000070)	3/102	6.713884e-02	3.689348e-01	0	0	3.319529e+00	8.966022e+00	NAA50;TENT4A;MCPH1
+MSigDB_Hallmark_2020	cellular response to organonitrogen compound (GO:0071417)	3/103	6.870701e-02	3.689348e-01	0	0	3.286167e+00	8.800039e+00	SLC38A9;SLC26A3;TAF1
+MSigDB_Hallmark_2020	DNA-templated transcription, initiation (GO:0006352)	4/168	6.871665e-02	3.689348e-01	0	0	2.677885e+00	7.170744e+00	TEAD4;RARB;HDAC9;TAF1
+MSigDB_Hallmark_2020	protein polyubiquitination (GO:0000209)	6/314	6.921622e-02	3.689348e-01	0	0	2.147149e+00	5.734006e+00	UBE2B;PSMD14;TRIM5;RNF217;FBXO7;TAF1
+MSigDB_Hallmark_2020	peptidyl-serine modification (GO:0018209)	4/169	6.990361e-02	3.689348e-01	0	0	2.661520e+00	7.081342e+00	CSNK1G3;MORC3;PRKD1;TAF1
+MSigDB_Hallmark_2020	negative regulation of B cell apoptotic process (GO:0002903)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	BCL6
+MSigDB_Hallmark_2020	purine ribonucleoside monophosphate catabolic process (GO:0009169)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	PNP
+MSigDB_Hallmark_2020	ammonium transmembrane transport (GO:0072488)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	SLC12A6
+MSigDB_Hallmark_2020	regulation of acetyl-CoA biosynthetic process from pyruvate (GO:0010510)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	PDK4
+MSigDB_Hallmark_2020	regulation of activation of Janus kinase activity (GO:0010533)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	IL6R
+MSigDB_Hallmark_2020	regulation of acyl-CoA biosynthetic process (GO:0050812)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	PDK4
+MSigDB_Hallmark_2020	regulation of alpha-beta T cell differentiation (GO:0046637)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	PNP
+MSigDB_Hallmark_2020	aromatic compound catabolic process (GO:0019439)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	TET2
+MSigDB_Hallmark_2020	axon extension involved in axon guidance (GO:0048846)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	SEMA3F
+MSigDB_Hallmark_2020	regulation of cardiac muscle cell action potential involved in regulation of contraction (GO:0098909)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	ATP2A2
+MSigDB_Hallmark_2020	cardiac muscle hypertrophy (GO:0003300)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	INPP5F
+MSigDB_Hallmark_2020	negative regulation of neuron projection regeneration (GO:0070571)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	INPP5F
+MSigDB_Hallmark_2020	cell-cell adhesion mediated by cadherin (GO:0044331)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	CDH2
+MSigDB_Hallmark_2020	regulation of dendritic cell chemotaxis (GO:2000508)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	CALR
+MSigDB_Hallmark_2020	cellular response to interferon-alpha (GO:0035457)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	IFNAR1
+MSigDB_Hallmark_2020	neuron projection extension involved in neuron projection guidance (GO:1902284)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	SEMA3F
+MSigDB_Hallmark_2020	DNA damage induced protein phosphorylation (GO:0006975)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	CRY1
+MSigDB_Hallmark_2020	peptidyl-lysine deacetylation (GO:0034983)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	HDAC9
+MSigDB_Hallmark_2020	regulation of oxidative stress-induced neuron death (GO:1903203)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	FBXO7
+MSigDB_Hallmark_2020	phosphatidylinositol-3-phosphate biosynthetic process (GO:0036092)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	PIK3CA
+MSigDB_Hallmark_2020	regulation of skeletal muscle fiber development (GO:0048742)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	HDAC9
+MSigDB_Hallmark_2020	positive regulation of cell migration by vascular endothelial growth factor signaling pathway (GO:0038089)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	PRKD1
+MSigDB_Hallmark_2020	forebrain neuron differentiation (GO:0021879)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	ERBB4
+MSigDB_Hallmark_2020	positive regulation of dendritic cell chemotaxis (GO:2000510)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	CALR
+MSigDB_Hallmark_2020	response to hydroperoxide (GO:0033194)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	PRKD1
+MSigDB_Hallmark_2020	store-operated calcium entry (GO:0002115)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	STIM1
+MSigDB_Hallmark_2020	mammary gland epithelial cell differentiation (GO:0060644)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	ERBB4
+MSigDB_Hallmark_2020	protein deglutamylation (GO:0035608)	1/8	7.090992e-02	3.689348e-01	0	0	1.554945e+01	4.114921e+01	AGTPBP1
+MSigDB_Hallmark_2020	establishment of protein localization to mitochondrion (GO:0072655)	2/48	7.143191e-02	3.689348e-01	0	0	4.749219e+00	1.253324e+01	RALA;FBXO7
+MSigDB_Hallmark_2020	positive regulation of blood vessel endothelial cell migration (GO:0043536)	2/48	7.143191e-02	3.689348e-01	0	0	4.749219e+00	1.253324e+01	PRKD1;HDAC9
+MSigDB_Hallmark_2020	adherens junction organization (GO:0034332)	2/49	7.403760e-02	3.689348e-01	0	0	4.647937e+00	1.209943e+01	CDH2;CADM2
+MSigDB_Hallmark_2020	chloride transmembrane transport (GO:1902476)	2/50	7.667345e-02	3.689348e-01	0	0	4.550875e+00	1.168756e+01	SLC12A6;ANO5
+MSigDB_Hallmark_2020	cellular response to oxygen-containing compound (GO:1901701)	6/323	7.694390e-02	3.689348e-01	0	0	2.085227e+00	5.347937e+00	PDK4;ABL2;SLC38A9;PRKD1;SLC26A3;TAF1
+MSigDB_Hallmark_2020	negative regulation of protein ubiquitination (GO:0031397)	2/51	7.933868e-02	3.689348e-01	0	0	4.457774e+00	1.129613e+01	CRY1;TAF1
+MSigDB_Hallmark_2020	regulation of protein modification process (GO:0031399)	2/51	7.933868e-02	3.689348e-01	0	0	4.457774e+00	1.129613e+01	CCDC88A;GRM5
+MSigDB_Hallmark_2020	inositol lipid-mediated signaling (GO:0048017)	2/51	7.933868e-02	3.689348e-01	0	0	4.457774e+00	1.129613e+01	PIK3CA;INPP5F
+MSigDB_Hallmark_2020	actin-mediated cell contraction (GO:0070252)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	PIK3CA
+MSigDB_Hallmark_2020	anoikis (GO:0043276)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	PIK3CA
+MSigDB_Hallmark_2020	regulation of actin filament organization (GO:0110053)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	PIK3CA
+MSigDB_Hallmark_2020	ATF6-mediated unfolded protein response (GO:0036500)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	CALR
+MSigDB_Hallmark_2020	axon regeneration (GO:0031103)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	NREP
+MSigDB_Hallmark_2020	negative regulation of lipase activity (GO:0060192)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	HDAC9
+MSigDB_Hallmark_2020	negative regulation of platelet aggregation (GO:0090331)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	PRKG1
+MSigDB_Hallmark_2020	regulation of ER-associated ubiquitin-dependent protein catabolic process (GO:1903069)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	UBQLN1
+MSigDB_Hallmark_2020	collagen-activated signaling pathway (GO:0038065)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	COL4A2
+MSigDB_Hallmark_2020	positive regulation of autophagy of mitochondrion (GO:1903599)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	FBXO7
+MSigDB_Hallmark_2020	regulation of RNA polymerase II regulatory region sequence-specific DNA binding (GO:1903025)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	TAF1
+MSigDB_Hallmark_2020	fucose catabolic process (GO:0019317)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	FUT8
+MSigDB_Hallmark_2020	IMP metabolic process (GO:0046040)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	PNP
+MSigDB_Hallmark_2020	L-fucose catabolic process (GO:0042355)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	FUT8
+MSigDB_Hallmark_2020	L-fucose metabolic process (GO:0042354)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	FUT8
+MSigDB_Hallmark_2020	sympathetic ganglion development (GO:0061549)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	SEMA3F
+MSigDB_Hallmark_2020	mitochondrial fragmentation involved in apoptotic process (GO:0043653)	1/9	7.941448e-02	3.689348e-01	0	0	1.360508e+01	3.446269e+01	ERBB4
+MSigDB_Hallmark_2020	response to endoplasmic reticulum stress (GO:0034976)	3/110	8.014118e-02	3.689348e-01	0	0	3.070093e+00	7.748810e+00	PDIA3;UBQLN1;ATP2A2
+MSigDB_Hallmark_2020	Fc-epsilon receptor signaling pathway (GO:0038095)	3/111	8.183829e-02	3.689348e-01	0	0	3.041512e+00	7.612936e+00	MAPK10;PSMD14;PIK3CA
+MSigDB_Hallmark_2020	protein stabilization (GO:0050821)	4/179	8.234691e-02	3.689348e-01	0	0	2.508156e+00	6.262401e+00	MORC3;UBE2B;CALR;TAF1
+MSigDB_Hallmark_2020	regulation of canonical Wnt signaling pathway (GO:0060828)	5/253	8.331922e-02	3.689348e-01	0	0	2.216496e+00	5.508161e+00	INVS;CSNK1G3;UBE2B;PSMD14;MCC
+MSigDB_Hallmark_2020	regulation of macroautophagy (GO:0016241)	3/112	8.355091e-02	3.689348e-01	0	0	3.013456e+00	7.480299e+00	PIK3CA;UBQLN1;SLC38A9
+MSigDB_Hallmark_2020	Fc receptor signaling pathway (GO:0038093)	3/112	8.355091e-02	3.689348e-01	0	0	3.013456e+00	7.480299e+00	MAPK10;PSMD14;PIK3CA
+MSigDB_Hallmark_2020	histone modification (GO:0016570)	3/114	8.702206e-02	3.689348e-01	0	0	2.958859e+00	7.224331e+00	NAA50;UBE2B;HDAC9
+MSigDB_Hallmark_2020	regulation of alternative mRNA splicing, via spliceosome (GO:0000381)	2/54	8.750327e-02	3.689348e-01	0	0	4.199958e+00	1.023143e+01	MBNL1;NOVA1
+MSigDB_Hallmark_2020	cytoplasmic microtubule organization (GO:0031122)	2/54	8.750327e-02	3.689348e-01	0	0	4.199958e+00	1.023143e+01	CCDC88A;PCM1
+MSigDB_Hallmark_2020	positive regulation of leukocyte chemotaxis (GO:0002690)	2/54	8.750327e-02	3.689348e-01	0	0	4.199958e+00	1.023143e+01	CALR;IL6R
+MSigDB_Hallmark_2020	negative regulation of cAMP-mediated signaling (GO:0043951)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	UBE2B
+MSigDB_Hallmark_2020	negative regulation of cell-cell adhesion mediated by cadherin (GO:2000048)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	BMP6
+MSigDB_Hallmark_2020	negative regulation of circadian rhythm (GO:0042754)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	CRY1
+MSigDB_Hallmark_2020	negative regulation of lymphocyte apoptotic process (GO:0070229)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	BCL6
+MSigDB_Hallmark_2020	regulation of DNA damage checkpoint (GO:2000001)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	CRY1
+MSigDB_Hallmark_2020	negative regulation of receptor binding (GO:1900121)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	ATP2A2
+MSigDB_Hallmark_2020	negative regulation of tyrosine phosphorylation of STAT protein (GO:0042532)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	INPP5F
+MSigDB_Hallmark_2020	chloride ion homeostasis (GO:0055064)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	SLC12A6
+MSigDB_Hallmark_2020	neuron projection regeneration (GO:0031102)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	NREP
+MSigDB_Hallmark_2020	chondroitin sulfate proteoglycan metabolic process (GO:0050654)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	DSE
+MSigDB_Hallmark_2020	regulation of receptor binding (GO:1900120)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	ATP2A2
+MSigDB_Hallmark_2020	regulation of store-operated calcium entry (GO:2001256)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	STIM1
+MSigDB_Hallmark_2020	histone H3-K36 demethylation (GO:0070544)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	KDM4C
+MSigDB_Hallmark_2020	histone H4 deacetylation (GO:0070933)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	HDAC9
+MSigDB_Hallmark_2020	retinoic acid receptor signaling pathway (GO:0048384)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	RARB
+MSigDB_Hallmark_2020	RNA polymerase II preinitiation complex assembly (GO:0051123)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	TAF1
+MSigDB_Hallmark_2020	sarcoplasmic reticulum calcium ion transport (GO:0070296)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	ATP2A2
+MSigDB_Hallmark_2020	ionotropic glutamate receptor signaling pathway (GO:0035235)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	GRIA2
+MSigDB_Hallmark_2020	iron ion transmembrane transport (GO:0034755)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	SLC25A37
+MSigDB_Hallmark_2020	lactation (GO:0007595)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	ERBB4
+MSigDB_Hallmark_2020	positive regulation of protein sumoylation (GO:0033235)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	PIAS1
+MSigDB_Hallmark_2020	positive regulation of receptor recycling (GO:0001921)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	INPP5F
+MSigDB_Hallmark_2020	microtubule anchoring at centrosome (GO:0034454)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	PCM1
+MSigDB_Hallmark_2020	monovalent inorganic anion homeostasis (GO:0055083)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	SLC12A6
+MSigDB_Hallmark_2020	morphogenesis of an epithelial sheet (GO:0002011)	1/10	8.784161e-02	3.689348e-01	0	0	1.209280e+01	2.941234e+01	PHACTR4
+MSigDB_Hallmark_2020	positive regulation of cell differentiation (GO:0045597)	5/258	8.877815e-02	3.713681e-01	0	0	2.172137e+00	5.260078e+00	CDH2;PRKD1;IL6R;BMP6;SOX5
+MSigDB_Hallmark_2020	glycoprotein metabolic process (GO:0009100)	2/55	9.027866e-02	3.713681e-01	0	0	4.120505e+00	9.909212e+00	FUT8;MAN1A2
+MSigDB_Hallmark_2020	positive regulation of angiogenesis (GO:0045766)	3/116	9.055348e-02	3.713681e-01	0	0	2.906195e+00	6.980141e+00	STIM1;PRKD1;MTDH
+MSigDB_Hallmark_2020	sphingolipid metabolic process (GO:0006665)	3/116	9.055348e-02	3.713681e-01	0	0	2.906195e+00	6.980141e+00	VAPB;PRKD1;KDSR
+MSigDB_Hallmark_2020	peptidyl-tyrosine modification (GO:0018212)	2/56	9.307980e-02	3.713681e-01	0	0	4.043994e+00	9.601648e+00	ERBB4;ABL2
+MSigDB_Hallmark_2020	negative regulation of cell cycle G2/M phase transition (GO:1902750)	2/57	9.590598e-02	3.713681e-01	0	0	3.970266e+00	9.307840e+00	AVEN;PSMD14
+MSigDB_Hallmark_2020	protein localization to phagophore assembly site (GO:0034497)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	PACS2
+MSigDB_Hallmark_2020	protein polyglutamylation (GO:0018095)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	TTLL7
+MSigDB_Hallmark_2020	negative regulation of homotypic cell-cell adhesion (GO:0034111)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	PRKG1
+MSigDB_Hallmark_2020	negative regulation of intracellular estrogen receptor signaling pathway (GO:0033147)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	CNOT2
+MSigDB_Hallmark_2020	cell proliferation in forebrain (GO:0021846)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	PCM1
+MSigDB_Hallmark_2020	negative regulation of oxidative stress-induced neuron death (GO:1903204)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	FBXO7
+MSigDB_Hallmark_2020	cellular glucan metabolic process (GO:0006073)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	UGP2
+MSigDB_Hallmark_2020	regulation of endocytic recycling (GO:2001135)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	INPP5F
+MSigDB_Hallmark_2020	nucleus localization (GO:0051647)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	SYNE2
+MSigDB_Hallmark_2020	regulation of pH (GO:0006885)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	PDK4
+MSigDB_Hallmark_2020	phosphorylated carbohydrate dephosphorylation (GO:0046838)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	INPP5A
+MSigDB_Hallmark_2020	enteric nervous system development (GO:0048484)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	PHACTR4
+MSigDB_Hallmark_2020	positive regulation of alcohol biosynthetic process (GO:1902932)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	BMP6
+MSigDB_Hallmark_2020	positive regulation of cellular respiration (GO:1901857)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	IFNAR1
+MSigDB_Hallmark_2020	regulation of T cell mediated immunity (GO:0002709)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	ZBTB1
+MSigDB_Hallmark_2020	positive regulation of chondrocyte differentiation (GO:0032332)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	SOX5
+MSigDB_Hallmark_2020	inositol phosphate dephosphorylation (GO:0046855)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	INPP5A
+MSigDB_Hallmark_2020	urate metabolic process (GO:0046415)	1/11	9.619202e-02	3.713681e-01	0	0	1.088297e+01	2.548148e+01	PNP
+MSigDB_Hallmark_2020	positive regulation of mitochondrion organization (GO:0010822)	2/58	9.875652e-02	3.713681e-01	0	0	3.899171e+00	9.026963e+00	RALA;FBXO7
+MSigDB_Hallmark_2020	negative regulation of autophagy (GO:0010507)	2/59	1.016307e-01	3.713681e-01	0	0	3.830571e+00	8.758252e+00	PIK3CA;EIF4G3
+MSigDB_Hallmark_2020	positive regulation of tyrosine phosphorylation of STAT protein (GO:0042531)	2/59	1.016307e-01	3.713681e-01	0	0	3.830571e+00	8.758252e+00	ERBB4;IL6R
+MSigDB_Hallmark_2020	regulation of actin filament depolymerization (GO:0030834)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	PIK3CA
+MSigDB_Hallmark_2020	regulation of axon regeneration (GO:0048679)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	INPP5F
+MSigDB_Hallmark_2020	regulation of B cell apoptotic process (GO:0002902)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	BCL6
+MSigDB_Hallmark_2020	C-terminal protein amino acid modification (GO:0018410)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	AGTPBP1
+MSigDB_Hallmark_2020	cell differentiation in hindbrain (GO:0021533)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	AGTPBP1
+MSigDB_Hallmark_2020	regulation of DNA-dependent DNA replication (GO:0090329)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	WRNIP1
+MSigDB_Hallmark_2020	neurotransmitter uptake (GO:0001504)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	SNAP25
+MSigDB_Hallmark_2020	dermatan sulfate biosynthetic process (GO:0030208)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	DSE
+MSigDB_Hallmark_2020	regulation of nucleobase-containing compound metabolic process (GO:0019219)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	NOVA1
+MSigDB_Hallmark_2020	regulation of oxidative stress-induced cell death (GO:1903201)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	UBQLN1
+MSigDB_Hallmark_2020	endoplasmic reticulum membrane organization (GO:0090158)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	VAPB
+MSigDB_Hallmark_2020	eye photoreceptor cell differentiation (GO:0001754)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	AGTPBP1
+MSigDB_Hallmark_2020	ganglion development (GO:0061548)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	SEMA3F
+MSigDB_Hallmark_2020	regulation of vascular associated smooth muscle cell migration (GO:1904752)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	PRKG1
+MSigDB_Hallmark_2020	histone H3-K9 demethylation (GO:0033169)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	KDM4C
+MSigDB_Hallmark_2020	inositol phosphate catabolic process (GO:0071545)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	INPP5A
+MSigDB_Hallmark_2020	sphingoid metabolic process (GO:0046519)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	KDSR
+MSigDB_Hallmark_2020	synaptic vesicle fusion to presynaptic active zone membrane (GO:0031629)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	SNAP25
+MSigDB_Hallmark_2020	positive regulation of T-helper 1 type immune response (GO:0002827)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	IL1R1
+MSigDB_Hallmark_2020	microtubule anchoring (GO:0034453)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	PCM1
+MSigDB_Hallmark_2020	microtubule anchoring at microtubule organizing center (GO:0072393)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	PCM1
+MSigDB_Hallmark_2020	positive regulation of vascular permeability (GO:0043117)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	BMP6
+MSigDB_Hallmark_2020	morphogenesis of a polarized epithelium (GO:0001738)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	ACTG1
+MSigDB_Hallmark_2020	mRNA transcription (GO:0009299)	1/12	1.044664e-01	3.713681e-01	0	0	9.893107e+00	2.234744e+01	ZBTB1
+MSigDB_Hallmark_2020	peptidyl-threonine phosphorylation (GO:0018107)	2/60	1.045280e-01	3.713681e-01	0	0	3.764336e+00	8.501002e+00	PRKD1;TAF1
+MSigDB_Hallmark_2020	regulation of phosphorylation (GO:0042325)	3/125	1.071590e-01	3.713681e-01	0	0	2.690574e+00	6.009241e+00	CCDC88A;GRM5;BTBD10
+MSigDB_Hallmark_2020	regulation of protein secretion (GO:0050708)	3/125	1.071590e-01	3.713681e-01	0	0	2.690574e+00	6.009241e+00	SNAP25;ITPR3;BMP6
+MSigDB_Hallmark_2020	B cell differentiation (GO:0030183)	2/61	1.074476e-01	3.713681e-01	0	0	3.700346e+00	8.254555e+00	IRF2BP2;HDAC9
+MSigDB_Hallmark_2020	regulation of endocytosis (GO:0030100)	2/61	1.074476e-01	3.713681e-01	0	0	3.700346e+00	8.254555e+00	ABL2;PRKD1
+MSigDB_Hallmark_2020	double-strand break repair via nonhomologous end joining (GO:0006303)	2/62	1.103889e-01	3.713681e-01	0	0	3.638490e+00	8.018306e+00	PSMD14;UIMC1
+MSigDB_Hallmark_2020	glucose metabolic process (GO:0006006)	2/62	1.103889e-01	3.713681e-01	0	0	3.638490e+00	8.018306e+00	HECTD4;CRY1
+MSigDB_Hallmark_2020	purine nucleotide catabolic process (GO:0006195)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	PNP
+MSigDB_Hallmark_2020	alpha-linolenic acid metabolic process (GO:0036109)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	HSD17B4
+MSigDB_Hallmark_2020	purine-containing compound catabolic process (GO:0072523)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	PNP
+MSigDB_Hallmark_2020	purine-containing compound salvage (GO:0043101)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	PNP
+MSigDB_Hallmark_2020	regulation of actomyosin structure organization (GO:0110020)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	ACTG1
+MSigDB_Hallmark_2020	negative regulation of gluconeogenesis (GO:0045721)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	CRY1
+MSigDB_Hallmark_2020	carboxylic acid biosynthetic process (GO:0046394)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	UGP2
+MSigDB_Hallmark_2020	negative regulation of viral release from host cell (GO:1902187)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	TRIM5
+MSigDB_Hallmark_2020	cranial nerve development (GO:0021545)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	CHD7
+MSigDB_Hallmark_2020	cytoplasmic sequestering of protein (GO:0051220)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	YWHAB
+MSigDB_Hallmark_2020	dermatan sulfate metabolic process (GO:0030205)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	DSE
+MSigDB_Hallmark_2020	detection of calcium ion (GO:0005513)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	STIM1
+MSigDB_Hallmark_2020	regulation of oxidoreductase activity (GO:0051341)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	ABL2
+MSigDB_Hallmark_2020	embryonic appendage morphogenesis (GO:0035113)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	MBNL1
+MSigDB_Hallmark_2020	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (GO:0002824)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	ZBTB1
+MSigDB_Hallmark_2020	regulation of receptor signaling pathway via STAT (GO:1904892)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	MGAT5
+MSigDB_Hallmark_2020	regulation of short-term neuronal synaptic plasticity (GO:0048172)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	GRIK2
+MSigDB_Hallmark_2020	glucan biosynthetic process (GO:0009250)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	UGP2
+MSigDB_Hallmark_2020	positive regulation of ERAD pathway (GO:1904294)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	UBQLN1
+MSigDB_Hallmark_2020	glycogen biosynthetic process (GO:0005978)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	UGP2
+MSigDB_Hallmark_2020	relaxation of cardiac muscle (GO:0055119)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	PIK3CA
+MSigDB_Hallmark_2020	positive regulation of histone deacetylation (GO:0031065)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	PRKD1
+MSigDB_Hallmark_2020	response to iron ion (GO:0010039)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	BMP6
+MSigDB_Hallmark_2020	semaphorin-plexin signaling pathway involved in neuron projection guidance (GO:1902285)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	SEMA3F
+MSigDB_Hallmark_2020	spliceosomal tri-snRNP complex assembly (GO:0000244)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	PRPF8
+MSigDB_Hallmark_2020	transcription preinitiation complex assembly (GO:0070897)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	TAF1
+MSigDB_Hallmark_2020	protein localization to mitochondrion (GO:0070585)	1/13	1.126654e-01	3.713681e-01	0	0	9.068223e+00	1.979895e+01	RALA
+MSigDB_Hallmark_2020	regulation of cellular ketone metabolic process (GO:0010565)	2/64	1.163342e-01	3.735590e-01	0	0	3.520763e+00	7.574177e+00	PSMD14;PDK4
+MSigDB_Hallmark_2020	regulation of response to external stimulus (GO:0032101)	3/130	1.168607e-01	3.735590e-01	0	0	2.583990e+00	5.547237e+00	BCL6;IL1R1;TRIM5
+MSigDB_Hallmark_2020	positive regulation of canonical Wnt signaling pathway (GO:0090263)	3/130	1.168607e-01	3.735590e-01	0	0	2.583990e+00	5.547237e+00	CSNK1G3;PSMD14;UBE2B
+MSigDB_Hallmark_2020	protein glycosylation (GO:0006486)	3/130	1.168607e-01	3.735590e-01	0	0	2.583990e+00	5.547237e+00	FUT8;MGAT5;TET2
+MSigDB_Hallmark_2020	nervous system development (GO:0007399)	7/447	1.169424e-01	3.735590e-01	0	0	1.751537e+00	3.758927e+00	SNTG2;MBNL1;CDH2;ERBB4;CHD7;ATN1;FGF12
+MSigDB_Hallmark_2020	BMP signaling pathway (GO:0030509)	2/65	1.193368e-01	3.735590e-01	0	0	3.464702e+00	7.365282e+00	SMAD9;BMP6
+MSigDB_Hallmark_2020	regulation of cellular catabolic process (GO:0031329)	2/65	1.193368e-01	3.735590e-01	0	0	3.464702e+00	7.365282e+00	ABL2;DEPP1
+MSigDB_Hallmark_2020	inorganic anion transmembrane transport (GO:0098661)	2/65	1.193368e-01	3.735590e-01	0	0	3.464702e+00	7.365282e+00	SLC12A6;ANO5
+MSigDB_Hallmark_2020	cellular copper ion homeostasis (GO:0006878)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	MT2A
+MSigDB_Hallmark_2020	negative regulation of smooth muscle cell migration (GO:0014912)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	PRKG1
+MSigDB_Hallmark_2020	nucleoside phosphate biosynthetic process (GO:1901293)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	PNP
+MSigDB_Hallmark_2020	positive regulation of alpha-beta T cell differentiation (GO:0046638)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	PNP
+MSigDB_Hallmark_2020	regulation of response to interferon-gamma (GO:0060330)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	PIAS1
+MSigDB_Hallmark_2020	regulation of retinoic acid receptor signaling pathway (GO:0048385)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	CALR
+MSigDB_Hallmark_2020	positive regulation of cardiac muscle cell proliferation (GO:0060045)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	ERBB4
+MSigDB_Hallmark_2020	positive regulation of cyclase activity (GO:0031281)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	STIM1
+MSigDB_Hallmark_2020	genitalia development (GO:0048806)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	CHD7
+MSigDB_Hallmark_2020	regulation of trophoblast cell migration (GO:1901163)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	CALR
+MSigDB_Hallmark_2020	relaxation of muscle (GO:0090075)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	PIK3CA
+MSigDB_Hallmark_2020	histone H3-K4 trimethylation (GO:0080182)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	TET2
+MSigDB_Hallmark_2020	secondary palate development (GO:0062009)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	CHD7
+MSigDB_Hallmark_2020	positive regulation of regulatory T cell differentiation (GO:0045591)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	BCL6
+MSigDB_Hallmark_2020	positive regulation of SMAD protein signal transduction (GO:0060391)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	BMP6
+MSigDB_Hallmark_2020	thymus development (GO:0048538)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	ZBTB1
+MSigDB_Hallmark_2020	vascular endothelial growth factor signaling pathway (GO:0038084)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	PIK3CA
+MSigDB_Hallmark_2020	N-terminal protein amino acid modification (GO:0031365)	1/14	1.207898e-01	3.735590e-01	0	0	8.370245e+00	1.769221e+01	NAA50
+MSigDB_Hallmark_2020	negative regulation of G2/M transition of mitotic cell cycle (GO:0010972)	2/66	1.223588e-01	3.750419e-01	0	0	3.410394e+00	7.164548e+00	AVEN;PSMD14
+MSigDB_Hallmark_2020	cell-cell junction assembly (GO:0007043)	2/66	1.223588e-01	3.750419e-01	0	0	3.410394e+00	7.164548e+00	CDH2;ACTG1
+MSigDB_Hallmark_2020	embryonic organ development (GO:0048568)	2/66	1.223588e-01	3.750419e-01	0	0	3.410394e+00	7.164548e+00	TEAD4;RARB
+MSigDB_Hallmark_2020	regulation of protein kinase B signaling (GO:0051896)	4/207	1.224215e-01	3.750419e-01	0	0	2.159122e+00	4.534771e+00	PIK3CA;ERBB4;NRG2;MTDH
+MSigDB_Hallmark_2020	RNA metabolic process (GO:0016070)	3/133	1.228347e-01	3.752796e-01	0	0	2.523974e+00	5.292562e+00	FASTKD1;NOVA1;HNRNPR
+MSigDB_Hallmark_2020	regulation of epidermal growth factor receptor signaling pathway (GO:0042058)	2/67	1.253993e-01	3.752796e-01	0	0	3.357756e+00	6.971548e+00	CCDC88A;ITGA1
+MSigDB_Hallmark_2020	peptidyl-threonine modification (GO:0018210)	2/67	1.253993e-01	3.752796e-01	0	0	3.357756e+00	6.971548e+00	PRKD1;TAF1
+MSigDB_Hallmark_2020	vascular endothelial growth factor receptor signaling pathway (GO:0048010)	2/67	1.253993e-01	3.752796e-01	0	0	3.357756e+00	6.971548e+00	PIK3CA;PRKD1
+MSigDB_Hallmark_2020	interferon-gamma-mediated signaling pathway (GO:0060333)	2/68	1.284579e-01	3.752796e-01	0	0	3.306714e+00	6.785886e+00	MT2A;TRIM5
+MSigDB_Hallmark_2020	acute-phase response (GO:0006953)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	IL6R
+MSigDB_Hallmark_2020	regulation of endothelial cell chemotaxis (GO:2001026)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	PRKD1
+MSigDB_Hallmark_2020	cellular response to ATP (GO:0071318)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	TAF1
+MSigDB_Hallmark_2020	dermatan sulfate proteoglycan biosynthetic process (GO:0050651)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	DSE
+MSigDB_Hallmark_2020	regulation of nuclear-transcribed mRNA poly(A) tail shortening (GO:0060211)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	TENT4A
+MSigDB_Hallmark_2020	regulation of phospholipase C activity (GO:1900274)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	ABL2
+MSigDB_Hallmark_2020	engulfment of apoptotic cell (GO:0043652)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	XKR6
+MSigDB_Hallmark_2020	fatty acid beta-oxidation using acyl-CoA oxidase (GO:0033540)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	HSD17B4
+MSigDB_Hallmark_2020	G protein-coupled glutamate receptor signaling pathway (GO:0007216)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	GRM5
+MSigDB_Hallmark_2020	positive regulation of endothelial cell chemotaxis (GO:2001028)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	PRKD1
+MSigDB_Hallmark_2020	histone H3 deacetylation (GO:0070932)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	HDAC9
+MSigDB_Hallmark_2020	positive regulation of lyase activity (GO:0051349)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	STIM1
+MSigDB_Hallmark_2020	positive regulation of natural killer cell activation (GO:0032816)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	ZBTB1
+MSigDB_Hallmark_2020	mammary gland epithelium development (GO:0061180)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	ERBB4
+MSigDB_Hallmark_2020	mitochondrial RNA metabolic process (GO:0000959)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	FASTKD1
+MSigDB_Hallmark_2020	myoblast differentiation (GO:0045445)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	MBNL1
+MSigDB_Hallmark_2020	protein localization to cell-cell junction (GO:0150105)	1/15	1.288402e-01	3.752796e-01	0	0	7.771978e+00	1.592620e+01	ACTG1
+MSigDB_Hallmark_2020	peptidyl-tyrosine phosphorylation (GO:0018108)	2/69	1.315339e-01	3.774512e-01	0	0	3.257195e+00	6.607188e+00	ERBB4;ABL2
+MSigDB_Hallmark_2020	positive regulation of protein transport (GO:0051222)	2/69	1.315339e-01	3.774512e-01	0	0	3.257195e+00	6.607188e+00	PCM1;BMP6
+MSigDB_Hallmark_2020	negative regulation of multicellular organismal process (GO:0051241)	4/214	1.335447e-01	3.774512e-01	0	0	2.086406e+00	4.200601e+00	NOVA1;CALR;MCC;HDAC9
+MSigDB_Hallmark_2020	cellular response to light stimulus (GO:0071482)	2/70	1.346269e-01	3.774512e-01	0	0	3.209132e+00	6.435107e+00	ZBTB1;TAF1
+MSigDB_Hallmark_2020	COPII-coated vesicle budding (GO:0090114)	2/70	1.346269e-01	3.774512e-01	0	0	3.209132e+00	6.435107e+00	MCFD2;VAPB
+MSigDB_Hallmark_2020	body fluid secretion (GO:0007589)	1/16	1.368173e-01	3.774512e-01	0	0	7.253480e+00	1.442796e+01	ERBB4
+MSigDB_Hallmark_2020	regulation of cellular carbohydrate metabolic process (GO:0010675)	1/16	1.368173e-01	3.774512e-01	0	0	7.253480e+00	1.442796e+01	PDK4
+MSigDB_Hallmark_2020	negative regulation of platelet activation (GO:0010544)	1/16	1.368173e-01	3.774512e-01	0	0	7.253480e+00	1.442796e+01	PRKG1
+MSigDB_Hallmark_2020	negative regulation of receptor signaling pathway via JAK-STAT (GO:0046426)	1/16	1.368173e-01	3.774512e-01	0	0	7.253480e+00	1.442796e+01	INPP5F
+MSigDB_Hallmark_2020	regulation of fatty acid oxidation (GO:0046320)	1/16	1.368173e-01	3.774512e-01	0	0	7.253480e+00	1.442796e+01	PDK4
+MSigDB_Hallmark_2020	negative regulation of transcription regulatory region DNA binding (GO:2000678)	1/16	1.368173e-01	3.774512e-01	0	0	7.253480e+00	1.442796e+01	TAF1
+MSigDB_Hallmark_2020	nucleotide catabolic process (GO:0009166)	1/16	1.368173e-01	3.774512e-01	0	0	7.253480e+00	1.442796e+01	PNP
+MSigDB_Hallmark_2020	filopodium assembly (GO:0046847)	1/16	1.368173e-01	3.774512e-01	0	0	7.253480e+00	1.442796e+01	ARHGEF4
+MSigDB_Hallmark_2020	sympathetic nervous system development (GO:0048485)	1/16	1.368173e-01	3.774512e-01	0	0	7.253480e+00	1.442796e+01	SEMA3F
+MSigDB_Hallmark_2020	mitotic sister chromatid cohesion (GO:0007064)	1/16	1.368173e-01	3.774512e-01	0	0	7.253480e+00	1.442796e+01	NAA50
+MSigDB_Hallmark_2020	N-terminal protein amino acid acetylation (GO:0006474)	1/16	1.368173e-01	3.774512e-01	0	0	7.253480e+00	1.442796e+01	NAA50
+MSigDB_Hallmark_2020	protein localization to microtubule organizing center (GO:1905508)	1/16	1.368173e-01	3.774512e-01	0	0	7.253480e+00	1.442796e+01	PCM1
+MSigDB_Hallmark_2020	cellular response to BMP stimulus (GO:0071773)	2/71	1.377361e-01	3.774512e-01	0	0	3.162463e+00	6.269315e+00	SMAD9;BMP6
+MSigDB_Hallmark_2020	phosphatidylinositol-mediated signaling (GO:0048015)	2/71	1.377361e-01	3.774512e-01	0	0	3.162463e+00	6.269315e+00	PIK3CA;INPP5F
+MSigDB_Hallmark_2020	Fc-gamma receptor signaling pathway involved in phagocytosis (GO:0038096)	2/71	1.377361e-01	3.774512e-01	0	0	3.162463e+00	6.269315e+00	PIK3CA;ACTG1
+MSigDB_Hallmark_2020	regulation of TOR signaling (GO:0032006)	2/71	1.377361e-01	3.774512e-01	0	0	3.162463e+00	6.269315e+00	PIK3CA;SLC38A9
+MSigDB_Hallmark_2020	response to metal ion (GO:0010038)	2/71	1.377361e-01	3.774512e-01	0	0	3.162463e+00	6.269315e+00	MT2A;ITPR3
+MSigDB_Hallmark_2020	regulation of cellular macromolecule biosynthetic process (GO:2000112)	7/468	1.387293e-01	3.774512e-01	0	0	1.669937e+00	3.298510e+00	CCDC88A;GRM5;CHD7;GPBP1L1;CALR;FOXN2;YAF2
+MSigDB_Hallmark_2020	DNA repair (GO:0006281)	5/298	1.387482e-01	3.774512e-01	0	0	1.871764e+00	3.696911e+00	UBE2B;UIMC1;ZBTB1;WRNIP1;TENT4A
+MSigDB_Hallmark_2020	positive regulation of cellular catabolic process (GO:0031331)	3/141	1.392885e-01	3.774512e-01	0	0	2.376691e+00	4.684952e+00	TRIM5;PRKD1;MTDH
+MSigDB_Hallmark_2020	cell junction organization (GO:0034330)	2/72	1.408612e-01	3.774512e-01	0	0	3.117127e+00	6.109508e+00	GRM5;ACTG1
+MSigDB_Hallmark_2020	Fc-gamma receptor signaling pathway (GO:0038094)	2/72	1.408612e-01	3.774512e-01	0	0	3.117127e+00	6.109508e+00	PIK3CA;ACTG1
+MSigDB_Hallmark_2020	response to ionizing radiation (GO:0010212)	2/72	1.408612e-01	3.774512e-01	0	0	3.117127e+00	6.109508e+00	COP1;UIMC1
+MSigDB_Hallmark_2020	chromatin organization (GO:0006325)	3/142	1.413959e-01	3.774512e-01	0	0	2.359472e+00	4.615580e+00	KDM4C;ZBTB1;BRWD1
+MSigDB_Hallmark_2020	endoplasmic reticulum organization (GO:0007029)	2/73	1.440015e-01	3.774512e-01	0	0	3.073068e+00	5.955397e+00	VAPB;TRAM2
+MSigDB_Hallmark_2020	insulin receptor signaling pathway (GO:0008286)	2/73	1.440015e-01	3.774512e-01	0	0	3.073068e+00	5.955397e+00	PIK3CA;PDK4
+MSigDB_Hallmark_2020	pyrimidine-containing compound catabolic process (GO:0072529)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	TET2
+MSigDB_Hallmark_2020	regulation of cellular respiration (GO:0043457)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	IFNAR1
+MSigDB_Hallmark_2020	cellular response to fatty acid (GO:0071398)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	PDK4
+MSigDB_Hallmark_2020	negative regulation of vascular associated smooth muscle cell proliferation (GO:1904706)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	PRKG1
+MSigDB_Hallmark_2020	negative regulation of viral entry into host cell (GO:0046597)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	TRIM5
+MSigDB_Hallmark_2020	copper ion homeostasis (GO:0055070)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	MT2A
+MSigDB_Hallmark_2020	regulation of metal ion transport (GO:0010959)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	STIM1
+MSigDB_Hallmark_2020	regulation of neuroblast proliferation (GO:1902692)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	TAFA1
+MSigDB_Hallmark_2020	DNA biosynthetic process (GO:0071897)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	WRNIP1
+MSigDB_Hallmark_2020	regulation of receptor recycling (GO:0001919)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	INPP5F
+MSigDB_Hallmark_2020	positive regulation of cardiac muscle tissue growth (GO:0055023)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	ERBB4
+MSigDB_Hallmark_2020	gliogenesis (GO:0042063)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	CDH2
+MSigDB_Hallmark_2020	positive regulation of heart rate (GO:0010460)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	ATP2A2
+MSigDB_Hallmark_2020	histone H2A ubiquitination (GO:0033522)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	UBE2B
+MSigDB_Hallmark_2020	stem cell development (GO:0048864)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	CDH2
+MSigDB_Hallmark_2020	synaptic vesicle membrane organization (GO:0048499)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	SNAP25
+MSigDB_Hallmark_2020	positive regulation of stem cell differentiation (GO:2000738)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	SOX5
+MSigDB_Hallmark_2020	vasculature development (GO:0001944)	1/17	1.447217e-01	3.774512e-01	0	0	6.799794e+00	1.314361e+01	PIK3CA
+MSigDB_Hallmark_2020	positive regulation of cell motility (GO:2000147)	4/221	1.450666e-01	3.774512e-01	0	0	2.018382e+00	3.896611e+00	MGAT5;SEMA3F;SYNE2;ACTG1
+MSigDB_Hallmark_2020	negative regulation of cell migration (GO:0030336)	3/144	1.456427e-01	3.774512e-01	0	0	2.325768e+00	4.480822e+00	CALR;MCC;SRGAP1
+MSigDB_Hallmark_2020	cellular response to amino acid starvation (GO:0034198)	2/74	1.471564e-01	3.774512e-01	0	0	3.030233e+00	5.806712e+00	SLC38A9;PRKD1
+MSigDB_Hallmark_2020	regulation of stress fiber assembly (GO:0051492)	2/74	1.471564e-01	3.774512e-01	0	0	3.030233e+00	5.806712e+00	CCDC88A;ACTG1
+MSigDB_Hallmark_2020	Fc receptor mediated stimulatory signaling pathway (GO:0002431)	2/74	1.471564e-01	3.774512e-01	0	0	3.030233e+00	5.806712e+00	PIK3CA;ACTG1
+MSigDB_Hallmark_2020	regulation of mRNA stability (GO:0043488)	3/146	1.499312e-01	3.774512e-01	0	0	2.293007e+00	4.351161e+00	PSMD14;FASTKD1;YWHAB
+MSigDB_Hallmark_2020	response to amino acid starvation (GO:1990928)	2/75	1.503256e-01	3.774512e-01	0	0	2.988572e+00	5.663200e+00	SLC38A9;PRKD1
+MSigDB_Hallmark_2020	positive regulation of T cell activation (GO:0050870)	2/75	1.503256e-01	3.774512e-01	0	0	2.988572e+00	5.663200e+00	PNP;ZBTB1
+MSigDB_Hallmark_2020	protein O-linked mannosylation (GO:0035269)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	TMTC1
+MSigDB_Hallmark_2020	negative regulation of fibroblast proliferation (GO:0048147)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	MORC3
+MSigDB_Hallmark_2020	negative regulation of Rho protein signal transduction (GO:0035024)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	ABL2
+MSigDB_Hallmark_2020	regulation of fatty acid metabolic process (GO:0019217)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	PDK4
+MSigDB_Hallmark_2020	cellular response to zinc ion (GO:0071294)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	MT2A
+MSigDB_Hallmark_2020	nucleotide biosynthetic process (GO:0009165)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	PNP
+MSigDB_Hallmark_2020	regulation of oxidative stress-induced intrinsic apoptotic signaling pathway (GO:1902175)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	UBQLN1
+MSigDB_Hallmark_2020	regulation of platelet aggregation (GO:0090330)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	PRKG1
+MSigDB_Hallmark_2020	regulation of protein sumoylation (GO:0033233)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	PIAS1
+MSigDB_Hallmark_2020	establishment of vesicle localization (GO:0051650)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	CCDC186
+MSigDB_Hallmark_2020	positive regulation of cartilage development (GO:0061036)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	SOX5
+MSigDB_Hallmark_2020	positive regulation of cell migration involved in sprouting angiogenesis (GO:0090050)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	HDAC9
+MSigDB_Hallmark_2020	positive regulation of CREB transcription factor activity (GO:0032793)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	PRKD1
+MSigDB_Hallmark_2020	response to axon injury (GO:0048678)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	NREP
+MSigDB_Hallmark_2020	response to interferon-alpha (GO:0035455)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	IFNAR1
+MSigDB_Hallmark_2020	interleukin-6-mediated signaling pathway (GO:0070102)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	IL6R
+MSigDB_Hallmark_2020	positive regulation of phosphoprotein phosphatase activity (GO:0032516)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	ITGA1
+MSigDB_Hallmark_2020	protein localization to centrosome (GO:0071539)	1/18	1.525542e-01	3.774512e-01	0	0	6.399483e+00	1.203253e+01	PCM1
+MSigDB_Hallmark_2020	chloride transport (GO:0006821)	2/76	1.535083e-01	3.774512e-01	0	0	2.948036e+00	5.524621e+00	SLC12A6;ANO5
+MSigDB_Hallmark_2020	cellular response to cytokine stimulus (GO:0071345)	7/482	1.542824e-01	3.774512e-01	0	0	1.619545e+00	3.026883e+00	MT2A;BCL6;PIK3CA;IL1R1;ABL2;IL6R;IFNAR1
+MSigDB_Hallmark_2020	regulation of G2/M transition of mitotic cell cycle (GO:0010389)	3/149	1.564393e-01	3.774512e-01	0	0	2.245548e+00	4.165688e+00	AVEN;PCM1;PSMD14
+MSigDB_Hallmark_2020	cellular response to UV (GO:0034644)	2/77	1.567043e-01	3.774512e-01	0	0	2.908582e+00	5.390751e+00	ZBTB1;TAF1
+MSigDB_Hallmark_2020	brain development (GO:0007420)	3/150	1.586281e-01	3.774512e-01	0	0	2.230159e+00	4.106153e+00	UGP2;CDH2;HSPG2
+MSigDB_Hallmark_2020	response to cytokine (GO:0034097)	3/150	1.586281e-01	3.774512e-01	0	0	2.230159e+00	4.106153e+00	IL1R1;AFF3;IL6R
+MSigDB_Hallmark_2020	protein modification process (GO:0036211)	2/78	1.599128e-01	3.774512e-01	0	0	2.870166e+00	5.261377e+00	CSNK1G3;ABL2
+MSigDB_Hallmark_2020	negative regulation of blood vessel morphogenesis (GO:2000181)	2/78	1.599128e-01	3.774512e-01	0	0	2.870166e+00	5.261377e+00	COL4A2;HSPG2
+MSigDB_Hallmark_2020	regulation of autophagy of mitochondrion (GO:1903146)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	FBXO7
+MSigDB_Hallmark_2020	regulation of cell-cell adhesion mediated by cadherin (GO:2000047)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	BMP6
+MSigDB_Hallmark_2020	negative regulation of nervous system development (GO:0051961)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	PCM1
+MSigDB_Hallmark_2020	cellular response to copper ion (GO:0071280)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	MT2A
+MSigDB_Hallmark_2020	negative regulation of RNA metabolic process (GO:0051253)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	PTBP3
+MSigDB_Hallmark_2020	negative regulation of RNA splicing (GO:0033119)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	PTBP3
+MSigDB_Hallmark_2020	cellular response to interleukin-7 (GO:0098761)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	BRWD1
+MSigDB_Hallmark_2020	neural crest cell differentiation (GO:0014033)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	CDH2
+MSigDB_Hallmark_2020	neuromuscular process (GO:0050905)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	AGTPBP1
+MSigDB_Hallmark_2020	regulation of leukocyte chemotaxis (GO:0002688)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	IL6R
+MSigDB_Hallmark_2020	NLS-bearing protein import into nucleus (GO:0006607)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	KPNA3
+MSigDB_Hallmark_2020	nucleotide-sugar biosynthetic process (GO:0009226)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	UGP2
+MSigDB_Hallmark_2020	detection of mechanical stimulus (GO:0050982)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	CDH2
+MSigDB_Hallmark_2020	regulation of stem cell population maintenance (GO:2000036)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	CNOT2
+MSigDB_Hallmark_2020	positive regulation of cilium assembly (GO:0045724)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	CCDC88A
+MSigDB_Hallmark_2020	response to ATP (GO:0033198)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	TAF1
+MSigDB_Hallmark_2020	response to fatty acid (GO:0070542)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	PDK4
+MSigDB_Hallmark_2020	histone deubiquitination (GO:0016578)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	UIMC1
+MSigDB_Hallmark_2020	positive regulation of mitochondrial fission (GO:0090141)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	RALA
+MSigDB_Hallmark_2020	interleukin-7-mediated signaling pathway (GO:0038111)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	BRWD1
+MSigDB_Hallmark_2020	positive regulation of oxidoreductase activity (GO:0051353)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	ABL2
+MSigDB_Hallmark_2020	maintenance of protein localization in organelle (GO:0072595)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	MORC3
+MSigDB_Hallmark_2020	mesenchymal cell development (GO:0014031)	1/19	1.603153e-01	3.774512e-01	0	0	6.043651e+00	1.106359e+01	CDH2
+MSigDB_Hallmark_2020	regulation of neuron differentiation (GO:0045664)	2/79	1.631335e-01	3.791396e-01	0	0	2.832747e+00	5.136299e+00	NREP;CALR
+MSigDB_Hallmark_2020	regulation of cell population proliferation (GO:0042127)	10/764	1.636019e-01	3.791396e-01	0	0	1.461416e+00	2.645629e+00	CCDC88A;KDM4C;BCL6;ERBB4;ITGA1;KRAS;CALR;IL6R;BMP6;PIAS1
+MSigDB_Hallmark_2020	positive regulation of Wnt signaling pathway (GO:0030177)	3/153	1.652506e-01	3.791396e-01	0	0	2.185222e+00	3.934038e+00	CSNK1G3;PSMD14;UBE2B
+MSigDB_Hallmark_2020	negative regulation of cellular component organization (GO:0051129)	2/80	1.663659e-01	3.791396e-01	0	0	2.796288e+00	5.015327e+00	PRKD1;BMP6
+MSigDB_Hallmark_2020	transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	6/404	1.666425e-01	3.791396e-01	0	0	1.653948e+00	2.963717e+00	PIK3CA;COL4A2;ERBB4;PDK4;PRKD1;ACTG1
+MSigDB_Hallmark_2020	positive regulation of protein kinase activity (GO:0045860)	3/154	1.674763e-01	3.791396e-01	0	0	2.170640e+00	3.878746e+00	CCDC88A;GRM5;IL6R
+MSigDB_Hallmark_2020	negative regulation of axon extension involved in axon guidance (GO:0048843)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	SEMA3F
+MSigDB_Hallmark_2020	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (GO:0002460)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	BACH2
+MSigDB_Hallmark_2020	negative regulation of dephosphorylation (GO:0035305)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	YWHAB
+MSigDB_Hallmark_2020	negative regulation of viral life cycle (GO:1903901)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	TRIM5
+MSigDB_Hallmark_2020	nucleobase-containing compound biosynthetic process (GO:0034654)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	PNP
+MSigDB_Hallmark_2020	early endosome to late endosome transport (GO:0045022)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	STX8
+MSigDB_Hallmark_2020	embryonic digestive tract development (GO:0048566)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	RARB
+MSigDB_Hallmark_2020	regulation of protein localization to cell periphery (GO:1904375)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	STX8
+MSigDB_Hallmark_2020	energy reserve metabolic process (GO:0006112)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	UGP2
+MSigDB_Hallmark_2020	regulation of protein modification by small protein conjugation or removal (GO:1903320)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	UBQLN1
+MSigDB_Hallmark_2020	eye morphogenesis (GO:0048592)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	AGTPBP1
+MSigDB_Hallmark_2020	positive regulation of heart contraction (GO:0045823)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	ATP2A2
+MSigDB_Hallmark_2020	positive regulation of lymphocyte differentiation (GO:0045621)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	ZBTB1
+MSigDB_Hallmark_2020	inositol phosphate-mediated signaling (GO:0048016)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	INPP5A
+MSigDB_Hallmark_2020	lipopolysaccharide-mediated signaling pathway (GO:0031663)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	MTDH
+MSigDB_Hallmark_2020	maintenance of protein location in nucleus (GO:0051457)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	MORC3
+MSigDB_Hallmark_2020	modulation by symbiont of entry into host (GO:0052372)	1/20	1.680057e-01	3.791396e-01	0	0	5.725275e+00	1.021250e+01	TRIM5
+MSigDB_Hallmark_2020	positive regulation of NF-kappaB transcription factor activity (GO:0051092)	3/155	1.697109e-01	3.791396e-01	0	0	2.156250e+00	3.824452e+00	TRIM5;PRKD1;MTDH
+MSigDB_Hallmark_2020	regulation of cell migration (GO:0030334)	6/408	1.719220e-01	3.791396e-01	0	0	1.637153e+00	2.882559e+00	ERBB4;MGAT5;SEMA3F;SRGAP1;SYNE2;ACTG1
+MSigDB_Hallmark_2020	regulation of cell differentiation (GO:0045595)	3/156	1.719541e-01	3.791396e-01	0	0	2.142048e+00	3.771135e+00	BCL6;TRPS1;NREP
+MSigDB_Hallmark_2020	proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161)	5/321	1.720458e-01	3.791396e-01	0	0	1.733484e+00	3.050922e+00	COP1;UBE2B;PSMD14;UBQLN1;TAF1
+MSigDB_Hallmark_2020	cell-cell junction organization (GO:0045216)	2/82	1.728636e-01	3.791396e-01	0	0	2.726105e+00	4.785002e+00	CDH2;CADM2
+MSigDB_Hallmark_2020	regulation of G protein-coupled receptor signaling pathway (GO:0008277)	2/82	1.728636e-01	3.791396e-01	0	0	2.726105e+00	4.785002e+00	YWHAB;CRY1
+MSigDB_Hallmark_2020	positive regulation of protein ubiquitination (GO:0031398)	2/82	1.728636e-01	3.791396e-01	0	0	2.726105e+00	4.785002e+00	CRY1;UBQLN1
+MSigDB_Hallmark_2020	negative regulation of gene expression (GO:0010629)	5/322	1.735597e-01	3.791396e-01	0	0	1.727927e+00	3.026003e+00	AEBP2;CALR;HDAC9;PTBP3;TAF1
+MSigDB_Hallmark_2020	actin filament-based transport (GO:0099515)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	SYNE2
+MSigDB_Hallmark_2020	androgen metabolic process (GO:0008209)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	HSD17B4
+MSigDB_Hallmark_2020	autonomic nervous system development (GO:0048483)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	PHACTR4
+MSigDB_Hallmark_2020	regulation of cardiac muscle cell proliferation (GO:0060043)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	ERBB4
+MSigDB_Hallmark_2020	regulation of cardiac muscle contraction by calcium ion signaling (GO:0010882)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	ATP2A2
+MSigDB_Hallmark_2020	calcium ion transport into cytosol (GO:0060402)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	ITPR3
+MSigDB_Hallmark_2020	calcium-mediated signaling using intracellular calcium source (GO:0035584)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	GRM5
+MSigDB_Hallmark_2020	regulation of cell-substrate junction assembly (GO:0090109)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	ACTG1
+MSigDB_Hallmark_2020	negative regulation of reproductive process (GO:2000242)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	CALR
+MSigDB_Hallmark_2020	negative regulation of response to wounding (GO:1903035)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	INPP5F
+MSigDB_Hallmark_2020	neuron apoptotic process (GO:0051402)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	ATN1
+MSigDB_Hallmark_2020	regulation of lipoprotein lipase activity (GO:0051004)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	HDAC9
+MSigDB_Hallmark_2020	nuclear-transcribed mRNA poly(A) tail shortening (GO:0000289)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	CNOT2
+MSigDB_Hallmark_2020	focal adhesion assembly (GO:0048041)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	BCR
+MSigDB_Hallmark_2020	response to glucagon (GO:0033762)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	CRY1
+MSigDB_Hallmark_2020	histone ubiquitination (GO:0016574)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	UBE2B
+MSigDB_Hallmark_2020	positive regulation of phosphatase activity (GO:0010922)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	ITGA1
+MSigDB_Hallmark_2020	positive regulation of T cell cytokine production (GO:0002726)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	IL1R1
+MSigDB_Hallmark_2020	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus (GO:1901522)	1/21	1.756260e-01	3.791396e-01	0	0	5.438736e+00	9.460128e+00	SMAD9
+MSigDB_Hallmark_2020	regulation of defense response (GO:0031347)	2/83	1.761281e-01	3.791396e-01	0	0	2.692313e+00	4.675319e+00	BCL6;IL1R1
+MSigDB_Hallmark_2020	cellular response to starvation (GO:0009267)	3/158	1.764659e-01	3.791396e-01	0	0	2.114194e+00	3.667338e+00	PDK4;SLC38A9;PRKD1
+MSigDB_Hallmark_2020	organonitrogen compound biosynthetic process (GO:1901566)	3/158	1.764659e-01	3.791396e-01	0	0	2.114194e+00	3.667338e+00	VAPB;PRKD1;KDSR
+MSigDB_Hallmark_2020	protein autophosphorylation (GO:0046777)	3/159	1.787342e-01	3.833805e-01	0	0	2.100534e+00	3.616816e+00	ERBB4;PRKD1;TAF1
+MSigDB_Hallmark_2020	lymphocyte differentiation (GO:0030098)	2/84	1.794023e-01	3.841807e-01	0	0	2.659345e+00	4.569086e+00	CHD7;HDAC9
+MSigDB_Hallmark_2020	protein mannosylation (GO:0035268)	1/22	1.831770e-01	3.865420e-01	0	0	5.179487e+00	8.791156e+00	TMTC1
+MSigDB_Hallmark_2020	regulation of adenylate cyclase activity (GO:0045761)	1/22	1.831770e-01	3.865420e-01	0	0	5.179487e+00	8.791156e+00	STIM1
+MSigDB_Hallmark_2020	negative regulation of protein dephosphorylation (GO:0035308)	1/22	1.831770e-01	3.865420e-01	0	0	5.179487e+00	8.791156e+00	YWHAB
+MSigDB_Hallmark_2020	negative regulation of small molecule metabolic process (GO:0062014)	1/22	1.831770e-01	3.865420e-01	0	0	5.179487e+00	8.791156e+00	CRY1
+MSigDB_Hallmark_2020	osteoclast differentiation (GO:0030316)	1/22	1.831770e-01	3.865420e-01	0	0	5.179487e+00	8.791156e+00	GLO1
+MSigDB_Hallmark_2020	fatty-acyl-CoA metabolic process (GO:0035337)	1/22	1.831770e-01	3.865420e-01	0	0	5.179487e+00	8.791156e+00	HSD17B4
+MSigDB_Hallmark_2020	positive regulation of DNA-templated transcription, initiation (GO:2000144)	1/22	1.831770e-01	3.865420e-01	0	0	5.179487e+00	8.791156e+00	MED4
+MSigDB_Hallmark_2020	regulation of viral release from host cell (GO:1902186)	1/22	1.831770e-01	3.865420e-01	0	0	5.179487e+00	8.791156e+00	TRIM5
+MSigDB_Hallmark_2020	limb morphogenesis (GO:0035108)	1/22	1.831770e-01	3.865420e-01	0	0	5.179487e+00	8.791156e+00	MBNL1
+MSigDB_Hallmark_2020	positive regulation of endothelial cell migration (GO:0010595)	2/86	1.859784e-01	3.918185e-01	0	0	2.595764e+00	4.366400e+00	PRKD1;CALR
+MSigDB_Hallmark_2020	positive regulation of DNA-binding transcription factor activity (GO:0051091)	4/246	1.891072e-01	3.934044e-01	0	0	1.807563e+00	3.010390e+00	TRIM5;PRKD1;MTDH;TAF1
+MSigDB_Hallmark_2020	negative regulation of angiogenesis (GO:0016525)	2/87	1.892793e-01	3.934044e-01	0	0	2.565096e+00	4.269683e+00	COL4A2;HSPG2
+MSigDB_Hallmark_2020	double-strand break repair (GO:0006302)	3/164	1.901935e-01	3.934044e-01	0	0	2.034783e+00	3.377156e+00	PSMD14;UIMC1;TENT4A
+MSigDB_Hallmark_2020	negative regulation of phosphoprotein phosphatase activity (GO:0032515)	1/23	1.906591e-01	3.934044e-01	0	0	4.943806e+00	8.193212e+00	MGAT5
+MSigDB_Hallmark_2020	regulation of interferon-gamma-mediated signaling pathway (GO:0060334)	1/23	1.906591e-01	3.934044e-01	0	0	4.943806e+00	8.193212e+00	PIAS1
+MSigDB_Hallmark_2020	nucleotide metabolic process (GO:0009117)	1/23	1.906591e-01	3.934044e-01	0	0	4.943806e+00	8.193212e+00	PNP
+MSigDB_Hallmark_2020	oligosaccharide biosynthetic process (GO:0009312)	1/23	1.906591e-01	3.934044e-01	0	0	4.943806e+00	8.193212e+00	FUT8
+MSigDB_Hallmark_2020	regulation of neural precursor cell proliferation (GO:2000177)	1/23	1.906591e-01	3.934044e-01	0	0	4.943806e+00	8.193212e+00	TAFA1
+MSigDB_Hallmark_2020	ear morphogenesis (GO:0042471)	1/23	1.906591e-01	3.934044e-01	0	0	4.943806e+00	8.193212e+00	CHD7
+MSigDB_Hallmark_2020	regulation of SMAD protein signal transduction (GO:0060390)	1/23	1.906591e-01	3.934044e-01	0	0	4.943806e+00	8.193212e+00	BMP6
+MSigDB_Hallmark_2020	regulation of supramolecular fiber organization (GO:1902903)	1/23	1.906591e-01	3.934044e-01	0	0	4.943806e+00	8.193212e+00	PIK3CA
+MSigDB_Hallmark_2020	response to copper ion (GO:0046688)	1/23	1.906591e-01	3.934044e-01	0	0	4.943806e+00	8.193212e+00	MT2A
+MSigDB_Hallmark_2020	positive regulation of transcription initiation from RNA polymerase II promoter (GO:0060261)	1/23	1.906591e-01	3.934044e-01	0	0	4.943806e+00	8.193212e+00	MED4
+MSigDB_Hallmark_2020	negative regulation of canonical Wnt signaling pathway (GO:0090090)	3/165	1.925079e-01	3.961294e-01	0	0	2.022119e+00	3.331681e+00	INVS;PSMD14;MCC
+MSigDB_Hallmark_2020	positive regulation of neuron projection development (GO:0010976)	2/88	1.925883e-01	3.961294e-01	0	0	2.535141e+00	4.175885e+00	ABL2;PRKD1
+MSigDB_Hallmark_2020	regulation of cation channel activity (GO:2001257)	2/89	1.959048e-01	3.967557e-01	0	0	2.505874e+00	4.084891e+00	GRIA2;FGF12
+MSigDB_Hallmark_2020	regulation of endothelial cell migration (GO:0010594)	2/89	1.959048e-01	3.967557e-01	0	0	2.505874e+00	4.084891e+00	PRKD1;CALR
+MSigDB_Hallmark_2020	purine nucleotide metabolic process (GO:0006163)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	PNP
+MSigDB_Hallmark_2020	purine ribonucleotide catabolic process (GO:0009154)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	PNP
+MSigDB_Hallmark_2020	regulation of axon extension involved in axon guidance (GO:0048841)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	SEMA3F
+MSigDB_Hallmark_2020	axon extension (GO:0048675)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	SEMA3F
+MSigDB_Hallmark_2020	carbohydrate biosynthetic process (GO:0016051)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	FUT8
+MSigDB_Hallmark_2020	regulation of cellular response to transforming growth factor beta stimulus (GO:1903844)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	NREP
+MSigDB_Hallmark_2020	negative regulation of neuron differentiation (GO:0045665)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	CALR
+MSigDB_Hallmark_2020	negative regulation of protein depolymerization (GO:1901880)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	PIK3CA
+MSigDB_Hallmark_2020	regulation of keratinocyte proliferation (GO:0010837)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	PRKD1
+MSigDB_Hallmark_2020	positive regulation of lamellipodium assembly (GO:0010592)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	PIK3CA
+MSigDB_Hallmark_2020	inner ear morphogenesis (GO:0042472)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	CHD7
+MSigDB_Hallmark_2020	positive regulation of phospholipase activity (GO:0010518)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	ABL2
+MSigDB_Hallmark_2020	mammary gland development (GO:0030879)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	ERBB4
+MSigDB_Hallmark_2020	potassium ion homeostasis (GO:0055075)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	SLC12A6
+MSigDB_Hallmark_2020	protein alpha-1,2-demannosylation (GO:0036508)	1/24	1.980731e-01	3.967557e-01	0	0	4.728619e+00	7.656197e+00	MAN1A2
+MSigDB_Hallmark_2020	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)	4/251	1.983899e-01	3.967798e-01	0	0	1.770520e+00	2.863853e+00	NOVA1;HNRNPR;PRPF8;U2SURP
+MSigDB_Hallmark_2020	regulation of mRNA splicing, via spliceosome (GO:0048024)	2/90	1.992286e-01	3.978461e-01	0	0	2.477273e+00	3.996590e+00	MBNL1;NOVA1
+MSigDB_Hallmark_2020	negative regulation of cellular carbohydrate metabolic process (GO:0010677)	1/25	2.054196e-01	4.031229e-01	0	0	4.531364e+00	7.171794e+00	CRY1
+MSigDB_Hallmark_2020	negative regulation of endocytosis (GO:0045806)	1/25	2.054196e-01	4.031229e-01	0	0	4.531364e+00	7.171794e+00	PRKD1
+MSigDB_Hallmark_2020	regulation of cAMP-mediated signaling (GO:0043949)	1/25	2.054196e-01	4.031229e-01	0	0	4.531364e+00	7.171794e+00	UBE2B
+MSigDB_Hallmark_2020	regulation of cardiac muscle cell action potential (GO:0098901)	1/25	2.054196e-01	4.031229e-01	0	0	4.531364e+00	7.171794e+00	ATP2A2
+MSigDB_Hallmark_2020	negative regulation of sequestering of calcium ion (GO:0051283)	1/25	2.054196e-01	4.031229e-01	0	0	4.531364e+00	7.171794e+00	ITPR3
+MSigDB_Hallmark_2020	regulation of mitochondrial fission (GO:0090140)	1/25	2.054196e-01	4.031229e-01	0	0	4.531364e+00	7.171794e+00	RALA
+MSigDB_Hallmark_2020	regulation of myotube differentiation (GO:0010830)	1/25	2.054196e-01	4.031229e-01	0	0	4.531364e+00	7.171794e+00	HDAC9
+MSigDB_Hallmark_2020	phosphatidylinositol dephosphorylation (GO:0046856)	1/25	2.054196e-01	4.031229e-01	0	0	4.531364e+00	7.171794e+00	INPP5F
+MSigDB_Hallmark_2020	regulation of proteolysis involved in cellular protein catabolic process (GO:1903050)	1/25	2.054196e-01	4.031229e-01	0	0	4.531364e+00	7.171794e+00	PSMD14
+MSigDB_Hallmark_2020	positive regulation of ERBB signaling pathway (GO:1901186)	1/25	2.054196e-01	4.031229e-01	0	0	4.531364e+00	7.171794e+00	CCDC88A
+MSigDB_Hallmark_2020	RNA splicing, via transesterification reactions (GO:0000375)	1/25	2.054196e-01	4.031229e-01	0	0	4.531364e+00	7.171794e+00	PRPF8
+MSigDB_Hallmark_2020	negative regulation of mitotic cell cycle phase transition (GO:1901991)	2/92	2.058961e-01	4.031229e-01	0	0	2.421977e+00	3.827652e+00	AVEN;PSMD14
+MSigDB_Hallmark_2020	regulation of peptidyl-tyrosine phosphorylation (GO:0050730)	2/92	2.058961e-01	4.031229e-01	0	0	2.421977e+00	3.827652e+00	IL6R;BMP6
+MSigDB_Hallmark_2020	positive regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043123)	3/171	2.065385e-01	4.034390e-01	0	0	1.949306e+00	3.074578e+00	TRIM5;PRKD1;MTDH
+MSigDB_Hallmark_2020	protein ubiquitination (GO:0016567)	7/525	2.066773e-01	4.034390e-01	0	0	1.481803e+00	2.336205e+00	UBE2B;PSMD14;TRIM5;RNF217;FBXO25;FBXO7;TAF1
+MSigDB_Hallmark_2020	post-translational protein modification (GO:0043687)	5/345	2.097216e-01	4.042835e-01	0	0	1.609137e+00	2.513431e+00	COP1;CDH2;PSMD14;DCAF10;FBXO7
+MSigDB_Hallmark_2020	positive regulation of epithelial cell migration (GO:0010634)	2/94	2.125876e-01	4.042835e-01	0	0	2.369085e+00	3.668293e+00	PRKD1;CALR
+MSigDB_Hallmark_2020	hemopoiesis (GO:0030097)	2/94	2.125876e-01	4.042835e-01	0	0	2.369085e+00	3.668293e+00	ZNF160;TET2
+MSigDB_Hallmark_2020	interleukin-1-mediated signaling pathway (GO:0070498)	2/94	2.125876e-01	4.042835e-01	0	0	2.369085e+00	3.668293e+00	PSMD14;IL1R1
+MSigDB_Hallmark_2020	negative regulation of cell development (GO:0010721)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	PCM1
+MSigDB_Hallmark_2020	purine-containing compound biosynthetic process (GO:0072522)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	PNP
+MSigDB_Hallmark_2020	regulation of actin filament bundle assembly (GO:0032231)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	ACTG1
+MSigDB_Hallmark_2020	negative regulation of macroautophagy (GO:0016242)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	PIK3CA
+MSigDB_Hallmark_2020	negative regulation of proteolysis involved in cellular protein catabolic process (GO:1903051)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	TAF1
+MSigDB_Hallmark_2020	clathrin-dependent endocytosis (GO:0072583)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	INPP5F
+MSigDB_Hallmark_2020	regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway (GO:1900739)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	YWHAB
+MSigDB_Hallmark_2020	regulation of regulatory T cell differentiation (GO:0045589)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	BCL6
+MSigDB_Hallmark_2020	regulation of viral life cycle (GO:1903900)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	TRIM5
+MSigDB_Hallmark_2020	positive regulation of filopodium assembly (GO:0051491)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	RALA
+MSigDB_Hallmark_2020	positive regulation of interleukin-2 production (GO:0032743)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	PNP
+MSigDB_Hallmark_2020	histone lysine demethylation (GO:0070076)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	KDM4C
+MSigDB_Hallmark_2020	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway (GO:1900740)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	YWHAB
+MSigDB_Hallmark_2020	TOR signaling (GO:0031929)	1/26	2.126991e-01	4.042835e-01	0	0	4.349890e+00	6.733095e+00	CCDC88A
+MSigDB_Hallmark_2020	regulation of cell cycle phase transition (GO:1901987)	2/95	2.159414e-01	4.092514e-01	0	0	2.343492e+00	3.591983e+00	PSMD14;TAF1
+MSigDB_Hallmark_2020	mRNA metabolic process (GO:0016071)	2/95	2.159414e-01	4.092514e-01	0	0	2.343492e+00	3.591983e+00	HNRNPR;PRPF8
+MSigDB_Hallmark_2020	cellular response to DNA damage stimulus (GO:0006974)	5/350	2.178932e-01	4.096219e-01	0	0	1.585410e+00	2.415768e+00	UBE2B;BCL6;ZBTB1;CRY1;TAF1
+MSigDB_Hallmark_2020	cellular transition metal ion homeostasis (GO:0046916)	2/96	2.193000e-01	4.096219e-01	0	0	2.318444e+00	3.517808e+00	MT2A;BMP6
+MSigDB_Hallmark_2020	acute inflammatory response (GO:0002526)	1/27	2.199122e-01	4.096219e-01	0	0	4.182375e+00	6.334319e+00	IL6R
+MSigDB_Hallmark_2020	negative regulation of cation channel activity (GO:2001258)	1/27	2.199122e-01	4.096219e-01	0	0	4.182375e+00	6.334319e+00	UBQLN1
+MSigDB_Hallmark_2020	regulation of cardiac muscle cell contraction (GO:0086004)	1/27	2.199122e-01	4.096219e-01	0	0	4.182375e+00	6.334319e+00	ATP2A2
+MSigDB_Hallmark_2020	bile acid biosynthetic process (GO:0006699)	1/27	2.199122e-01	4.096219e-01	0	0	4.182375e+00	6.334319e+00	HSD17B4
+MSigDB_Hallmark_2020	cellular response to cadmium ion (GO:0071276)	1/27	2.199122e-01	4.096219e-01	0	0	4.182375e+00	6.334319e+00	MT2A
+MSigDB_Hallmark_2020	cellular senescence (GO:0090398)	1/27	2.199122e-01	4.096219e-01	0	0	4.182375e+00	6.334319e+00	CALR
+MSigDB_Hallmark_2020	entrainment of circadian clock by photoperiod (GO:0043153)	1/27	2.199122e-01	4.096219e-01	0	0	4.182375e+00	6.334319e+00	CRY1
+MSigDB_Hallmark_2020	release of sequestered calcium ion into cytosol (GO:0051209)	1/27	2.199122e-01	4.096219e-01	0	0	4.182375e+00	6.334319e+00	ITPR3
+MSigDB_Hallmark_2020	positive regulation of muscle cell differentiation (GO:0051149)	1/27	2.199122e-01	4.096219e-01	0	0	4.182375e+00	6.334319e+00	CDH2
+MSigDB_Hallmark_2020	protein export from nucleus (GO:0006611)	1/27	2.199122e-01	4.096219e-01	0	0	4.182375e+00	6.334319e+00	CALR
+MSigDB_Hallmark_2020	glycosaminoglycan biosynthetic process (GO:0006024)	2/97	2.226632e-01	4.123176e-01	0	0	2.293923e+00	3.445690e+00	DSE;HSPG2
+MSigDB_Hallmark_2020	regulation of translation (GO:0006417)	3/178	2.231893e-01	4.123176e-01	0	0	1.870667e+00	2.805505e+00	GRM5;CALR;EIF4G3
+MSigDB_Hallmark_2020	regulation of protein phosphorylation (GO:0001932)	4/266	2.270197e-01	4.123176e-01	0	0	1.667875e+00	2.472989e+00	CCDC88A;GRM5;ERBB4;KRAS
+MSigDB_Hallmark_2020	negative regulation of calcium ion transmembrane transporter activity (GO:1901020)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	UBQLN1
+MSigDB_Hallmark_2020	calcium ion import (GO:0070509)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	ATP2A2
+MSigDB_Hallmark_2020	negative regulation of oxidative stress-induced cell death (GO:1903202)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	FBXO7
+MSigDB_Hallmark_2020	cellular response to acid chemical (GO:0071229)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	SLC38A9
+MSigDB_Hallmark_2020	cellular response to interleukin-6 (GO:0071354)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	IL6R
+MSigDB_Hallmark_2020	cellular zinc ion homeostasis (GO:0006882)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	MT2A
+MSigDB_Hallmark_2020	photoperiodism (GO:0009648)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	CRY1
+MSigDB_Hallmark_2020	regulation of small molecule metabolic process (GO:0062012)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	PDK4
+MSigDB_Hallmark_2020	regulation of sodium ion transmembrane transport (GO:1902305)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	FGF12
+MSigDB_Hallmark_2020	positive regulation of cell communication (GO:0010647)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	GRIK2
+MSigDB_Hallmark_2020	glycerophospholipid catabolic process (GO:0046475)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	INPP5F
+MSigDB_Hallmark_2020	glycogen metabolic process (GO:0005977)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	UGP2
+MSigDB_Hallmark_2020	internal peptidyl-lysine acetylation (GO:0018393)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	NAA50
+MSigDB_Hallmark_2020	positive regulation of phosphatidylinositol 3-kinase activity (GO:0043552)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	PRKD1
+MSigDB_Hallmark_2020	positive regulation of response to wounding (GO:1903036)	1/28	2.270597e-01	4.123176e-01	0	0	4.027269e+00	5.970597e+00	ACTG1
+MSigDB_Hallmark_2020	negative regulation of signal transduction (GO:0009968)	4/267	2.289658e-01	4.147820e-01	0	0	1.661448e+00	2.449278e+00	YWHAB;CRY1;CALR;PHACTR4
+MSigDB_Hallmark_2020	cell-matrix adhesion (GO:0007160)	2/100	2.327759e-01	4.147820e-01	0	0	2.223362e+00	3.240948e+00	BCR;ITGA1
+MSigDB_Hallmark_2020	positive regulation of cell migration (GO:0030335)	4/269	2.328708e-01	4.147820e-01	0	0	1.648740e+00	2.402662e+00	MGAT5;SEMA3F;SYNE2;ACTG1
+MSigDB_Hallmark_2020	aggrephagy (GO:0035973)	1/29	2.341420e-01	4.147820e-01	0	0	3.883242e+00	5.637798e+00	UBQLN1
+MSigDB_Hallmark_2020	regulation of fatty acid biosynthetic process (GO:0042304)	1/29	2.341420e-01	4.147820e-01	0	0	3.883242e+00	5.637798e+00	PDK4
+MSigDB_Hallmark_2020	regulation of gluconeogenesis (GO:0006111)	1/29	2.341420e-01	4.147820e-01	0	0	3.883242e+00	5.637798e+00	CRY1
+MSigDB_Hallmark_2020	regulation of neuronal synaptic plasticity (GO:0048168)	1/29	2.341420e-01	4.147820e-01	0	0	3.883242e+00	5.637798e+00	GRIK2
+MSigDB_Hallmark_2020	regulation of response to biotic stimulus (GO:0002831)	1/29	2.341420e-01	4.147820e-01	0	0	3.883242e+00	5.637798e+00	TRIM5
+MSigDB_Hallmark_2020	glial cell differentiation (GO:0010001)	1/29	2.341420e-01	4.147820e-01	0	0	3.883242e+00	5.637798e+00	CDH2
+MSigDB_Hallmark_2020	response to cadmium ion (GO:0046686)	1/29	2.341420e-01	4.147820e-01	0	0	3.883242e+00	5.637798e+00	MT2A
+MSigDB_Hallmark_2020	response to zinc ion (GO:0010043)	1/29	2.341420e-01	4.147820e-01	0	0	3.883242e+00	5.637798e+00	MT2A
+MSigDB_Hallmark_2020	positive regulation of leukocyte migration (GO:0002687)	1/29	2.341420e-01	4.147820e-01	0	0	3.883242e+00	5.637798e+00	IL6R
+MSigDB_Hallmark_2020	limb development (GO:0060173)	1/29	2.341420e-01	4.147820e-01	0	0	3.883242e+00	5.637798e+00	CHD7
+MSigDB_Hallmark_2020	positive regulation of viral genome replication (GO:0045070)	1/29	2.341420e-01	4.147820e-01	0	0	3.883242e+00	5.637798e+00	VAPB
+MSigDB_Hallmark_2020	protein K11-linked ubiquitination (GO:0070979)	1/29	2.341420e-01	4.147820e-01	0	0	3.883242e+00	5.637798e+00	UBE2B
+MSigDB_Hallmark_2020	positive regulation of intracellular signal transduction (GO:1902533)	7/546	2.344618e-01	4.147820e-01	0	0	1.422521e+00	2.063313e+00	PIK3CA;TRIM5;ERBB4;SLC38A9;PRKD1;NRG2;MTDH
+MSigDB_Hallmark_2020	cellular response to chemical stress (GO:0062197)	2/101	2.361535e-01	4.147820e-01	0	0	2.200792e+00	3.176345e+00	PIK3CA;PRKD1
+MSigDB_Hallmark_2020	protein O-linked glycosylation (GO:0006493)	2/102	2.395338e-01	4.147820e-01	0	0	2.178674e+00	3.113458e+00	TET2;TMTC1
+MSigDB_Hallmark_2020	regulation of cell death (GO:0010941)	2/102	2.395338e-01	4.147820e-01	0	0	2.178674e+00	3.113458e+00	RRAS2;PRKD1
+MSigDB_Hallmark_2020	calcium-mediated signaling (GO:0019722)	2/102	2.395338e-01	4.147820e-01	0	0	2.178674e+00	3.113458e+00	GRM5;ATP2A2
+MSigDB_Hallmark_2020	cell junction assembly (GO:0034329)	2/102	2.395338e-01	4.147820e-01	0	0	2.178674e+00	3.113458e+00	CDH2;ACTG1
+MSigDB_Hallmark_2020	endoplasmic reticulum to Golgi vesicle-mediated transport (GO:0006888)	3/185	2.400960e-01	4.147820e-01	0	0	1.798077e+00	2.565346e+00	MCFD2;COG6;VAPB
+MSigDB_Hallmark_2020	negative regulation of cytoskeleton organization (GO:0051494)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	PIK3CA
+MSigDB_Hallmark_2020	negative regulation of gene expression, epigenetic (GO:0045814)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	AEBP2
+MSigDB_Hallmark_2020	regulation of cation transmembrane transport (GO:1904062)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	FGF12
+MSigDB_Hallmark_2020	cardiac muscle cell action potential (GO:0086001)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	FGF12
+MSigDB_Hallmark_2020	chondroitin sulfate metabolic process (GO:0030204)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	DSE
+MSigDB_Hallmark_2020	non-motile cilium assembly (GO:1905515)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	PCM1
+MSigDB_Hallmark_2020	peptidyl-lysine trimethylation (GO:0018023)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	TET2
+MSigDB_Hallmark_2020	plasma membrane invagination (GO:0099024)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	GULP1
+MSigDB_Hallmark_2020	regulation of protein localization to membrane (GO:1905475)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	STX8
+MSigDB_Hallmark_2020	estrogen metabolic process (GO:0008210)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	HSD17B4
+MSigDB_Hallmark_2020	histone H3-K4 methylation (GO:0051568)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	TET2
+MSigDB_Hallmark_2020	positive regulation of lipid kinase activity (GO:0090218)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	PRKD1
+MSigDB_Hallmark_2020	positive regulation of phosphate metabolic process (GO:0045937)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	BTBD10
+MSigDB_Hallmark_2020	synaptic vesicle cycle (GO:0099504)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	SNAP25
+MSigDB_Hallmark_2020	maintenance of blood-brain barrier (GO:0035633)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	ACTG1
+MSigDB_Hallmark_2020	primary neural tube formation (GO:0014020)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	PHACTR4
+MSigDB_Hallmark_2020	zinc ion homeostasis (GO:0055069)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	MT2A
+MSigDB_Hallmark_2020	morphogenesis of an epithelium (GO:0002009)	1/30	2.411597e-01	4.147820e-01	0	0	3.749147e+00	5.332396e+00	ACTG1
+MSigDB_Hallmark_2020	mRNA splicing, via spliceosome (GO:0000398)	4/274	2.427039e-01	4.167026e-01	0	0	1.617794e+00	2.290656e+00	NOVA1;HNRNPR;PRPF8;U2SURP
+MSigDB_Hallmark_2020	chromatin remodeling (GO:0006338)	2/103	2.429165e-01	4.167026e-01	0	0	2.156994e+00	3.052227e+00	KDM4C;ZBTB1
+MSigDB_Hallmark_2020	regulation of insulin secretion (GO:0050796)	2/104	2.463013e-01	4.184506e-01	0	0	2.135738e+00	2.992596e+00	SNAP25;ITPR3
+MSigDB_Hallmark_2020	negative regulation of axon extension (GO:0030517)	1/31	2.481136e-01	4.184506e-01	0	0	3.623993e+00	5.051370e+00	SEMA3F
+MSigDB_Hallmark_2020	activation of protein kinase B activity (GO:0032148)	1/31	2.481136e-01	4.184506e-01	0	0	3.623993e+00	5.051370e+00	CCDC88A
+MSigDB_Hallmark_2020	aminoglycan catabolic process (GO:0006026)	1/31	2.481136e-01	4.184506e-01	0	0	3.623993e+00	5.051370e+00	HSPG2
+MSigDB_Hallmark_2020	cardiac muscle cell action potential involved in contraction (GO:0086002)	1/31	2.481136e-01	4.184506e-01	0	0	3.623993e+00	5.051370e+00	FGF12
+MSigDB_Hallmark_2020	negative regulation of peptidyl-tyrosine phosphorylation (GO:0050732)	1/31	2.481136e-01	4.184506e-01	0	0	3.623993e+00	5.051370e+00	INPP5F
+MSigDB_Hallmark_2020	cellular response to cAMP (GO:0071320)	1/31	2.481136e-01	4.184506e-01	0	0	3.623993e+00	5.051370e+00	SLC26A3
+MSigDB_Hallmark_2020	regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090092)	1/31	2.481136e-01	4.184506e-01	0	0	3.623993e+00	5.051370e+00	NREP
+MSigDB_Hallmark_2020	positive regulation of mononuclear cell migration (GO:0071677)	1/31	2.481136e-01	4.184506e-01	0	0	3.623993e+00	5.051370e+00	CALR
+MSigDB_Hallmark_2020	positive regulation of Rho protein signal transduction (GO:0035025)	1/31	2.481136e-01	4.184506e-01	0	0	3.623993e+00	5.051370e+00	PRAG1
+MSigDB_Hallmark_2020	positive regulation of RNA splicing (GO:0033120)	1/31	2.481136e-01	4.184506e-01	0	0	3.623993e+00	5.051370e+00	RBM20
+MSigDB_Hallmark_2020	tube closure (GO:0060606)	1/31	2.481136e-01	4.184506e-01	0	0	3.623993e+00	5.051370e+00	PHACTR4
+MSigDB_Hallmark_2020	protein acetylation (GO:0006473)	1/31	2.481136e-01	4.184506e-01	0	0	3.623993e+00	5.051370e+00	NAA50
+MSigDB_Hallmark_2020	positive regulation of cellular metabolic process (GO:0031325)	2/105	2.496879e-01	4.197411e-01	0	0	2.114896e+00	2.934510e+00	INPP5F;IFNAR1
+MSigDB_Hallmark_2020	negative regulation of nucleic acid-templated transcription (GO:1903507)	6/464	2.522641e-01	4.197411e-01	0	0	1.432833e+00	1.973410e+00	BCL6;UIMC1;CRY1;CALR;HDAC9;YAF2
+MSigDB_Hallmark_2020	peptidyl-lysine modification (GO:0018205)	2/106	2.530759e-01	4.197411e-01	0	0	2.094454e+00	2.877918e+00	HDAC9;PIAS1
+MSigDB_Hallmark_2020	protein localization to nucleus (GO:0034504)	2/106	2.530759e-01	4.197411e-01	0	0	2.094454e+00	2.877918e+00	MORC3;CALR
+MSigDB_Hallmark_2020	positive regulation of protein phosphorylation (GO:0001934)	5/371	2.532220e-01	4.197411e-01	0	0	1.492832e+00	2.050388e+00	ERBB4;KRAS;PRKD1;IL6R;BMP6
+MSigDB_Hallmark_2020	negative regulation of Wnt signaling pathway (GO:0030178)	3/191	2.547548e-01	4.197411e-01	0	0	1.740160e+00	2.379587e+00	INVS;PSMD14;MCC
+MSigDB_Hallmark_2020	negative regulation of chemotaxis (GO:0050922)	1/32	2.550040e-01	4.197411e-01	0	0	3.506912e+00	4.792112e+00	SEMA3F
+MSigDB_Hallmark_2020	regulation of cell migration involved in sprouting angiogenesis (GO:0090049)	1/32	2.550040e-01	4.197411e-01	0	0	3.506912e+00	4.792112e+00	HDAC9
+MSigDB_Hallmark_2020	regulation of cellular amide metabolic process (GO:0034248)	1/32	2.550040e-01	4.197411e-01	0	0	3.506912e+00	4.792112e+00	GRM5
+MSigDB_Hallmark_2020	regulation of cellular biosynthetic process (GO:0031326)	1/32	2.550040e-01	4.197411e-01	0	0	3.506912e+00	4.792112e+00	PDK4
+MSigDB_Hallmark_2020	regulation of intracellular estrogen receptor signaling pathway (GO:0033146)	1/32	2.550040e-01	4.197411e-01	0	0	3.506912e+00	4.792112e+00	CNOT2
+MSigDB_Hallmark_2020	regulation of intracellular protein transport (GO:0033157)	1/32	2.550040e-01	4.197411e-01	0	0	3.506912e+00	4.792112e+00	PCM1
+MSigDB_Hallmark_2020	chondrocyte differentiation (GO:0002062)	1/32	2.550040e-01	4.197411e-01	0	0	3.506912e+00	4.792112e+00	SOX5
+MSigDB_Hallmark_2020	regulation of NMDA receptor activity (GO:2000310)	1/32	2.550040e-01	4.197411e-01	0	0	3.506912e+00	4.792112e+00	GRIA2
+MSigDB_Hallmark_2020	endodermal cell differentiation (GO:0035987)	1/32	2.550040e-01	4.197411e-01	0	0	3.506912e+00	4.792112e+00	COL4A2
+MSigDB_Hallmark_2020	response to amino acid (GO:0043200)	1/32	2.550040e-01	4.197411e-01	0	0	3.506912e+00	4.792112e+00	SLC38A9
+MSigDB_Hallmark_2020	positive regulation of lamellipodium organization (GO:1902745)	1/32	2.550040e-01	4.197411e-01	0	0	3.506912e+00	4.792112e+00	PIK3CA
+MSigDB_Hallmark_2020	intra-Golgi vesicle-mediated transport (GO:0006891)	1/32	2.550040e-01	4.197411e-01	0	0	3.506912e+00	4.792112e+00	COG6
+MSigDB_Hallmark_2020	transcription initiation from RNA polymerase I promoter (GO:0006361)	1/32	2.550040e-01	4.197411e-01	0	0	3.506912e+00	4.792112e+00	TAF1
+MSigDB_Hallmark_2020	response to calcium ion (GO:0051592)	2/107	2.564651e-01	4.216130e-01	0	0	2.074401e+00	2.822768e+00	STIM1;ITPR3
+MSigDB_Hallmark_2020	apoptotic cell clearance (GO:0043277)	1/33	2.618316e-01	4.255990e-01	0	0	3.397150e+00	4.552363e+00	XKR6
+MSigDB_Hallmark_2020	apoptotic mitochondrial changes (GO:0008637)	1/33	2.618316e-01	4.255990e-01	0	0	3.397150e+00	4.552363e+00	ERBB4
+MSigDB_Hallmark_2020	bile acid metabolic process (GO:0008206)	1/33	2.618316e-01	4.255990e-01	0	0	3.397150e+00	4.552363e+00	HSD17B4
+MSigDB_Hallmark_2020	negative regulation of smooth muscle cell proliferation (GO:0048662)	1/33	2.618316e-01	4.255990e-01	0	0	3.397150e+00	4.552363e+00	PRKG1
+MSigDB_Hallmark_2020	neuron projection extension (GO:1990138)	1/33	2.618316e-01	4.255990e-01	0	0	3.397150e+00	4.552363e+00	SEMA3F
+MSigDB_Hallmark_2020	positive regulation of organelle organization (GO:0010638)	1/33	2.618316e-01	4.255990e-01	0	0	3.397150e+00	4.552363e+00	KATNBL1
+MSigDB_Hallmark_2020	positive regulation of receptor signaling pathway via JAK-STAT (GO:0046427)	1/33	2.618316e-01	4.255990e-01	0	0	3.397150e+00	4.552363e+00	ERBB4
+MSigDB_Hallmark_2020	mitotic G2 DNA damage checkpoint signaling (GO:0007095)	1/33	2.618316e-01	4.255990e-01	0	0	3.397150e+00	4.552363e+00	UIMC1
+MSigDB_Hallmark_2020	negative chemotaxis (GO:0050919)	1/33	2.618316e-01	4.255990e-01	0	0	3.397150e+00	4.552363e+00	SEMA3F
+MSigDB_Hallmark_2020	regulation of protein ubiquitination (GO:0031396)	2/109	2.632456e-01	4.273639e-01	0	0	2.035421e+00	2.716611e+00	CRY1;UBQLN1
+MSigDB_Hallmark_2020	positive regulation of cell population proliferation (GO:0008284)	6/474	2.676408e-01	4.285702e-01	0	0	1.401492e+00	1.847320e+00	KDM4C;ERBB4;KRAS;CALR;IL6R;BMP6
+MSigDB_Hallmark_2020	cardiac muscle contraction (GO:0060048)	1/34	2.685970e-01	4.285702e-01	0	0	3.294039e+00	4.330157e+00	PIK3CA
+MSigDB_Hallmark_2020	cell-substrate junction assembly (GO:0007044)	1/34	2.685970e-01	4.285702e-01	0	0	3.294039e+00	4.330157e+00	BCR
+MSigDB_Hallmark_2020	cellular response to amino acid stimulus (GO:0071230)	1/34	2.685970e-01	4.285702e-01	0	0	3.294039e+00	4.330157e+00	SLC38A9
+MSigDB_Hallmark_2020	regulation of glucose metabolic process (GO:0010906)	1/34	2.685970e-01	4.285702e-01	0	0	3.294039e+00	4.330157e+00	PDK4
+MSigDB_Hallmark_2020	central nervous system neuron differentiation (GO:0021953)	1/34	2.685970e-01	4.285702e-01	0	0	3.294039e+00	4.330157e+00	AGTPBP1
+MSigDB_Hallmark_2020	neural tube closure (GO:0001843)	1/34	2.685970e-01	4.285702e-01	0	0	3.294039e+00	4.330157e+00	PHACTR4
+MSigDB_Hallmark_2020	regulation of lamellipodium assembly (GO:0010591)	1/34	2.685970e-01	4.285702e-01	0	0	3.294039e+00	4.330157e+00	PIK3CA
+MSigDB_Hallmark_2020	phosphatidylinositol 3-kinase signaling (GO:0014065)	1/34	2.685970e-01	4.285702e-01	0	0	3.294039e+00	4.330157e+00	PIK3CA
+MSigDB_Hallmark_2020	positive regulation of epidermal growth factor receptor signaling pathway (GO:0045742)	1/34	2.685970e-01	4.285702e-01	0	0	3.294039e+00	4.330157e+00	CCDC88A
+MSigDB_Hallmark_2020	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway (GO:1901030)	1/34	2.685970e-01	4.285702e-01	0	0	3.294039e+00	4.330157e+00	YWHAB
+MSigDB_Hallmark_2020	positive regulation of protein dephosphorylation (GO:0035307)	1/34	2.685970e-01	4.285702e-01	0	0	3.294039e+00	4.330157e+00	ITGA1
+MSigDB_Hallmark_2020	transcription by RNA polymerase I (GO:0006360)	1/34	2.685970e-01	4.285702e-01	0	0	3.294039e+00	4.330157e+00	TAF1
+MSigDB_Hallmark_2020	protein insertion into membrane (GO:0051205)	1/34	2.685970e-01	4.285702e-01	0	0	3.294039e+00	4.330157e+00	TRAM2
+MSigDB_Hallmark_2020	regulation of signal transduction (GO:0009966)	3/198	2.720110e-01	4.329004e-01	0	0	1.677094e+00	2.183430e+00	PRAG1;TRIM5;PRKD1
+MSigDB_Hallmark_2020	regulation of cytoskeleton organization (GO:0051493)	2/112	2.734177e-01	4.329004e-01	0	0	1.979608e+00	2.567066e+00	CCDC88A;KATNBL1
+MSigDB_Hallmark_2020	phosphatidylinositol metabolic process (GO:0046488)	2/112	2.734177e-01	4.329004e-01	0	0	1.979608e+00	2.567066e+00	INPP5F;PIK3CA
+MSigDB_Hallmark_2020	negative regulation of epithelial cell migration (GO:0010633)	1/35	2.753007e-01	4.329004e-01	0	0	3.196994e+00	4.123775e+00	MCC
+MSigDB_Hallmark_2020	negative regulation of neurogenesis (GO:0050768)	1/35	2.753007e-01	4.329004e-01	0	0	3.196994e+00	4.123775e+00	PCM1
+MSigDB_Hallmark_2020	cellular response to amyloid-beta (GO:1904646)	1/35	2.753007e-01	4.329004e-01	0	0	3.196994e+00	4.123775e+00	GRM5
+MSigDB_Hallmark_2020	negative regulation of Ras protein signal transduction (GO:0046580)	1/35	2.753007e-01	4.329004e-01	0	0	3.196994e+00	4.123775e+00	ABL2
+MSigDB_Hallmark_2020	regulation of lipid biosynthetic process (GO:0046890)	1/35	2.753007e-01	4.329004e-01	0	0	3.196994e+00	4.123775e+00	PDK4
+MSigDB_Hallmark_2020	regulation of phosphatidylinositol 3-kinase activity (GO:0043551)	1/35	2.753007e-01	4.329004e-01	0	0	3.196994e+00	4.123775e+00	PRKD1
+MSigDB_Hallmark_2020	respiratory system development (GO:0060541)	1/35	2.753007e-01	4.329004e-01	0	0	3.196994e+00	4.123775e+00	CHD7
+MSigDB_Hallmark_2020	semaphorin-plexin signaling pathway (GO:0071526)	1/35	2.753007e-01	4.329004e-01	0	0	3.196994e+00	4.123775e+00	SEMA3F
+MSigDB_Hallmark_2020	protein localization to cilium (GO:0061512)	1/35	2.753007e-01	4.329004e-01	0	0	3.196994e+00	4.123775e+00	INVS
+MSigDB_Hallmark_2020	regulation of macromolecule metabolic process (GO:0060255)	3/200	2.769660e-01	4.349937e-01	0	0	1.659898e+00	2.131078e+00	TRIM5;NOVA1;AFF3
+MSigDB_Hallmark_2020	cellular response to transforming growth factor beta stimulus (GO:0071560)	2/114	2.801967e-01	4.364925e-01	0	0	1.944061e+00	2.473358e+00	SMAD9;SOX5
+MSigDB_Hallmark_2020	regulation of androgen receptor signaling pathway (GO:0060765)	1/36	2.819433e-01	4.364925e-01	0	0	3.105495e+00	3.931709e+00	KDM4C
+MSigDB_Hallmark_2020	regulation of cardiac muscle contraction (GO:0055117)	1/36	2.819433e-01	4.364925e-01	0	0	3.105495e+00	3.931709e+00	ATP2A2
+MSigDB_Hallmark_2020	regulation of cell cycle G1/S phase transition (GO:1902806)	1/36	2.819433e-01	4.364925e-01	0	0	3.105495e+00	3.931709e+00	TAF1
+MSigDB_Hallmark_2020	endoderm formation (GO:0001706)	1/36	2.819433e-01	4.364925e-01	0	0	3.105495e+00	3.931709e+00	COL4A2
+MSigDB_Hallmark_2020	platelet aggregation (GO:0070527)	1/36	2.819433e-01	4.364925e-01	0	0	3.105495e+00	3.931709e+00	ACTG1
+MSigDB_Hallmark_2020	positive regulation of bone mineralization (GO:0030501)	1/36	2.819433e-01	4.364925e-01	0	0	3.105495e+00	3.931709e+00	BMP6
+MSigDB_Hallmark_2020	regulation of sodium ion transport (GO:0002028)	1/36	2.819433e-01	4.364925e-01	0	0	3.105495e+00	3.931709e+00	FGF12
+MSigDB_Hallmark_2020	retina homeostasis (GO:0001895)	1/36	2.819433e-01	4.364925e-01	0	0	3.105495e+00	3.931709e+00	ACTG1
+MSigDB_Hallmark_2020	positive regulation of substrate adhesion-dependent cell spreading (GO:1900026)	1/36	2.819433e-01	4.364925e-01	0	0	3.105495e+00	3.931709e+00	CALR
+MSigDB_Hallmark_2020	positive regulation of T cell mediated immunity (GO:0002711)	1/36	2.819433e-01	4.364925e-01	0	0	3.105495e+00	3.931709e+00	ZBTB1
+MSigDB_Hallmark_2020	mitochondrion disassembly (GO:0061726)	1/36	2.819433e-01	4.364925e-01	0	0	3.105495e+00	3.931709e+00	FBXO7
+MSigDB_Hallmark_2020	calcium ion transport (GO:0006816)	2/115	2.835846e-01	4.374729e-01	0	0	1.926759e+00	2.428188e+00	STIM1;ATP2A2
+MSigDB_Hallmark_2020	cellular response to lectin (GO:1990858)	2/115	2.835846e-01	4.374729e-01	0	0	1.926759e+00	2.428188e+00	PSMD14;KRAS
+MSigDB_Hallmark_2020	stimulatory C-type lectin receptor signaling pathway (GO:0002223)	2/115	2.835846e-01	4.374729e-01	0	0	1.926759e+00	2.428188e+00	PSMD14;KRAS
+MSigDB_Hallmark_2020	ion transport (GO:0006811)	2/116	2.869711e-01	4.414337e-01	0	0	1.909761e+00	2.384095e+00	SLC12A6;SLC26A3
+MSigDB_Hallmark_2020	regulation of actin cytoskeleton reorganization (GO:2000249)	1/37	2.885254e-01	4.414337e-01	0	0	3.019078e+00	3.752630e+00	ABL2
+MSigDB_Hallmark_2020	regulation of intracellular pH (GO:0051453)	1/37	2.885254e-01	4.414337e-01	0	0	3.019078e+00	3.752630e+00	SLC26A3
+MSigDB_Hallmark_2020	regulation of transport (GO:0051049)	1/37	2.885254e-01	4.414337e-01	0	0	3.019078e+00	3.752630e+00	ACTG1
+MSigDB_Hallmark_2020	regulation of vascular associated smooth muscle cell proliferation (GO:1904705)	1/37	2.885254e-01	4.414337e-01	0	0	3.019078e+00	3.752630e+00	PRKG1
+MSigDB_Hallmark_2020	positive regulation of signaling receptor activity (GO:2000273)	1/37	2.885254e-01	4.414337e-01	0	0	3.019078e+00	3.752630e+00	TAF1
+MSigDB_Hallmark_2020	protein insertion into ER membrane (GO:0045048)	1/37	2.885254e-01	4.414337e-01	0	0	3.019078e+00	3.752630e+00	TRAM2
+MSigDB_Hallmark_2020	proteasomal protein catabolic process (GO:0010498)	3/205	2.893912e-01	4.422386e-01	0	0	1.618399e+00	2.006776e+00	COP1;UBE2B;PSMD14
+MSigDB_Hallmark_2020	positive regulation of cell projection organization (GO:0031346)	2/117	2.903559e-01	4.431928e-01	0	0	1.893058e+00	2.341046e+00	ABL2;PRKD1
+MSigDB_Hallmark_2020	negative regulation of G0 to G1 transition (GO:0070317)	1/38	2.950474e-01	4.468273e-01	0	0	2.937333e+00	3.585365e+00	YAF2
+MSigDB_Hallmark_2020	negative regulation of ubiquitin-dependent protein catabolic process (GO:2000059)	1/38	2.950474e-01	4.468273e-01	0	0	2.937333e+00	3.585365e+00	TAF1
+MSigDB_Hallmark_2020	connective tissue development (GO:0061448)	1/38	2.950474e-01	4.468273e-01	0	0	2.937333e+00	3.585365e+00	SOX5
+MSigDB_Hallmark_2020	regulation of phosphoprotein phosphatase activity (GO:0043666)	1/38	2.950474e-01	4.468273e-01	0	0	2.937333e+00	3.585365e+00	ITGA1
+MSigDB_Hallmark_2020	response to cAMP (GO:0051591)	1/38	2.950474e-01	4.468273e-01	0	0	2.937333e+00	3.585365e+00	SLC26A3
+MSigDB_Hallmark_2020	spliceosomal snRNP assembly (GO:0000387)	1/38	2.950474e-01	4.468273e-01	0	0	2.937333e+00	3.585365e+00	PRPF8
+MSigDB_Hallmark_2020	mRNA processing (GO:0006397)	4/300	2.951394e-01	4.468273e-01	0	0	1.473728e+00	1.798401e+00	NOVA1;HNRNPR;PRPF8;U2SURP
+MSigDB_Hallmark_2020	innate immune response activating cell surface receptor signaling pathway (GO:0002220)	2/119	2.971197e-01	4.493030e-01	0	0	1.860509e+00	2.257951e+00	PSMD14;KRAS
+MSigDB_Hallmark_2020	protein monoubiquitination (GO:0006513)	1/39	3.015100e-01	4.507073e-01	0	0	2.859890e+00	3.428871e+00	UBE2B
+MSigDB_Hallmark_2020	regulation of intracellular transport (GO:0032386)	1/39	3.015100e-01	4.507073e-01	0	0	2.859890e+00	3.428871e+00	INPP5F
+MSigDB_Hallmark_2020	regulation of ion transmembrane transporter activity (GO:0032412)	1/39	3.015100e-01	4.507073e-01	0	0	2.859890e+00	3.428871e+00	FGF12
+MSigDB_Hallmark_2020	phospholipid dephosphorylation (GO:0046839)	1/39	3.015100e-01	4.507073e-01	0	0	2.859890e+00	3.428871e+00	INPP5F
+MSigDB_Hallmark_2020	endothelial cell migration (GO:0043542)	1/39	3.015100e-01	4.507073e-01	0	0	2.859890e+00	3.428871e+00	PIK3CA
+MSigDB_Hallmark_2020	regulation of protein tyrosine kinase activity (GO:0061097)	1/39	3.015100e-01	4.507073e-01	0	0	2.859890e+00	3.428871e+00	GRM5
+MSigDB_Hallmark_2020	regulation of T cell differentiation (GO:0045580)	1/39	3.015100e-01	4.507073e-01	0	0	2.859890e+00	3.428871e+00	ZBTB1
+MSigDB_Hallmark_2020	regulation of viral entry into host cell (GO:0046596)	1/39	3.015100e-01	4.507073e-01	0	0	2.859890e+00	3.428871e+00	TRIM5
+MSigDB_Hallmark_2020	positive regulation of intracellular transport (GO:0032388)	1/39	3.015100e-01	4.507073e-01	0	0	2.859890e+00	3.428871e+00	PCM1
+MSigDB_Hallmark_2020	vesicle cytoskeletal trafficking (GO:0099518)	1/39	3.015100e-01	4.507073e-01	0	0	2.859890e+00	3.428871e+00	CCDC186
+MSigDB_Hallmark_2020	cellular response to interferon-gamma (GO:0071346)	2/121	3.038739e-01	4.537200e-01	0	0	1.829054e+00	2.178664e+00	MT2A;TRIM5
+MSigDB_Hallmark_2020	regulation of mRNA catabolic process (GO:0061013)	2/122	3.072469e-01	4.545393e-01	0	0	1.813720e+00	2.140378e+00	PSMD14;YWHAB
+MSigDB_Hallmark_2020	negative regulation of ERBB signaling pathway (GO:1901185)	1/40	3.079137e-01	4.545393e-01	0	0	2.786419e+00	3.282222e+00	ITGA1
+MSigDB_Hallmark_2020	autophagy of mitochondrion (GO:0000422)	1/40	3.079137e-01	4.545393e-01	0	0	2.786419e+00	3.282222e+00	FBXO7
+MSigDB_Hallmark_2020	nucleocytoplasmic transport (GO:0006913)	1/40	3.079137e-01	4.545393e-01	0	0	2.786419e+00	3.282222e+00	BACH2
+MSigDB_Hallmark_2020	digestive tract development (GO:0048565)	1/40	3.079137e-01	4.545393e-01	0	0	2.786419e+00	3.282222e+00	RARB
+MSigDB_Hallmark_2020	regulation of sodium ion transmembrane transporter activity (GO:2000649)	1/40	3.079137e-01	4.545393e-01	0	0	2.786419e+00	3.282222e+00	FGF12
+MSigDB_Hallmark_2020	intraciliary transport involved in cilium assembly (GO:0035735)	1/40	3.079137e-01	4.545393e-01	0	0	2.786419e+00	3.282222e+00	PCM1
+MSigDB_Hallmark_2020	positive regulation of ossification (GO:0045778)	1/40	3.079137e-01	4.545393e-01	0	0	2.786419e+00	3.282222e+00	BMP6
+MSigDB_Hallmark_2020	synaptic vesicle exocytosis (GO:0016079)	1/40	3.079137e-01	4.545393e-01	0	0	2.786419e+00	3.282222e+00	SNAP25
+MSigDB_Hallmark_2020	positive regulation of wound healing (GO:0090303)	1/40	3.079137e-01	4.545393e-01	0	0	2.786419e+00	3.282222e+00	ACTG1
+MSigDB_Hallmark_2020	regulation of anatomical structure morphogenesis (GO:0022603)	2/123	3.106167e-01	4.556405e-01	0	0	1.798639e+00	2.102961e+00	CDH2;BCL6
+MSigDB_Hallmark_2020	positive regulation of epithelial cell proliferation (GO:0050679)	2/123	3.106167e-01	4.556405e-01	0	0	1.798639e+00	2.102961e+00	PRKD1;BMP6
+MSigDB_Hallmark_2020	negative regulation of cell-cell adhesion (GO:0022408)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	BMP6
+MSigDB_Hallmark_2020	regulation of cell development (GO:0060284)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	HDAC9
+MSigDB_Hallmark_2020	carboxylic acid transmembrane transport (GO:1905039)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	SLC38A9
+MSigDB_Hallmark_2020	regulation of filopodium assembly (GO:0051489)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	RALA
+MSigDB_Hallmark_2020	regulation of G0 to G1 transition (GO:0070316)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	YAF2
+MSigDB_Hallmark_2020	regulation of protein dephosphorylation (GO:0035304)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	YWHAB
+MSigDB_Hallmark_2020	epithelial cell migration (GO:0010631)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	PIK3CA
+MSigDB_Hallmark_2020	positive regulation of biomineral tissue development (GO:0070169)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	BMP6
+MSigDB_Hallmark_2020	gluconeogenesis (GO:0006094)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	CRY1
+MSigDB_Hallmark_2020	heart contraction (GO:0060047)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	PIK3CA
+MSigDB_Hallmark_2020	hexose metabolic process (GO:0019318)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	HECTD4
+MSigDB_Hallmark_2020	JNK cascade (GO:0007254)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	MAPK10
+MSigDB_Hallmark_2020	keratinocyte differentiation (GO:0030216)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	BCR
+MSigDB_Hallmark_2020	T cell differentiation (GO:0030217)	1/41	3.142590e-01	4.556405e-01	0	0	2.716621e+00	3.144592e+00	CHD7
+MSigDB_Hallmark_2020	extracellular structure organization (GO:0043062)	3/216	3.168527e-01	4.578493e-01	0	0	1.533959e+00	1.763007e+00	COL4A2;ITGA1;HSPG2
+MSigDB_Hallmark_2020	external encapsulating structure organization (GO:0045229)	3/217	3.193539e-01	4.578493e-01	0	0	1.526713e+00	1.742675e+00	COL4A2;ITGA1;HSPG2
+MSigDB_Hallmark_2020	protein modification by small protein conjugation (GO:0032446)	5/409	3.201918e-01	4.578493e-01	0	0	1.349775e+00	1.537171e+00	UBE2B;TRIM5;FBXO25;FBXO7;PIAS1
+MSigDB_Hallmark_2020	calcium ion transmembrane import into cytosol (GO:0097553)	1/42	3.205464e-01	4.578493e-01	0	0	2.650228e+00	3.015239e+00	ITPR3
+MSigDB_Hallmark_2020	regulation of chemokine production (GO:0032642)	1/42	3.205464e-01	4.578493e-01	0	0	2.650228e+00	3.015239e+00	IL6R
+MSigDB_Hallmark_2020	phosphatidylinositol phosphate biosynthetic process (GO:0046854)	1/42	3.205464e-01	4.578493e-01	0	0	2.650228e+00	3.015239e+00	PIK3CA
+MSigDB_Hallmark_2020	regulation of ubiquitin-dependent protein catabolic process (GO:2000058)	1/42	3.205464e-01	4.578493e-01	0	0	2.650228e+00	3.015239e+00	TAF1
+MSigDB_Hallmark_2020	positive regulation of protein tyrosine kinase activity (GO:0061098)	1/42	3.205464e-01	4.578493e-01	0	0	2.650228e+00	3.015239e+00	GRM5
+MSigDB_Hallmark_2020	translesion synthesis (GO:0019985)	1/42	3.205464e-01	4.578493e-01	0	0	2.650228e+00	3.015239e+00	ZBTB1
+MSigDB_Hallmark_2020	potassium ion import across plasma membrane (GO:1990573)	1/42	3.205464e-01	4.578493e-01	0	0	2.650228e+00	3.015239e+00	SLC12A6
+MSigDB_Hallmark_2020	monocyte chemotaxis (GO:0002548)	1/42	3.205464e-01	4.578493e-01	0	0	2.650228e+00	3.015239e+00	IL6R
+MSigDB_Hallmark_2020	negative regulation of growth (GO:0045926)	2/126	3.207055e-01	4.578493e-01	0	0	1.754857e+00	1.995679e+00	MT2A;BCL6
+MSigDB_Hallmark_2020	phosphatidylinositol biosynthetic process (GO:0006661)	2/126	3.207055e-01	4.578493e-01	0	0	1.754857e+00	1.995679e+00	INPP5F;PIK3CA
+MSigDB_Hallmark_2020	synapse organization (GO:0050808)	2/126	3.207055e-01	4.578493e-01	0	0	1.754857e+00	1.995679e+00	GRM5;CDH2
+MSigDB_Hallmark_2020	anion transport (GO:0006820)	1/43	3.267764e-01	4.644792e-01	0	0	2.586996e+00	2.893501e+00	SLC26A3
+MSigDB_Hallmark_2020	cellular response to retinoic acid (GO:0071300)	1/43	3.267764e-01	4.644792e-01	0	0	2.586996e+00	2.893501e+00	ABL2
+MSigDB_Hallmark_2020	signal release from synapse (GO:0099643)	1/43	3.267764e-01	4.644792e-01	0	0	2.586996e+00	2.893501e+00	SNAP25
+MSigDB_Hallmark_2020	positive regulation of phospholipase C activity (GO:0010863)	1/43	3.267764e-01	4.644792e-01	0	0	2.586996e+00	2.893501e+00	ABL2
+MSigDB_Hallmark_2020	transcription, DNA-templated (GO:0006351)	3/221	3.293605e-01	4.676381e-01	0	0	1.498394e+00	1.664120e+00	MED4;SOX5;TAF1
+MSigDB_Hallmark_2020	cellular response to insulin stimulus (GO:0032869)	2/129	3.307586e-01	4.676381e-01	0	0	1.713142e+00	1.895363e+00	PDK4;HDAC9
+MSigDB_Hallmark_2020	DNA-dependent DNA replication (GO:0006261)	2/129	3.307586e-01	4.676381e-01	0	0	1.713142e+00	1.895363e+00	PSMD14;WRNIP1
+MSigDB_Hallmark_2020	positive regulation of macromolecule biosynthetic process (GO:0010557)	2/129	3.307586e-01	4.676381e-01	0	0	1.713142e+00	1.895363e+00	SLC25A37;HSPH1
+MSigDB_Hallmark_2020	negative regulation of epidermal growth factor receptor signaling pathway (GO:0042059)	1/44	3.329497e-01	4.676381e-01	0	0	2.526706e+00	2.778780e+00	ITGA1
+MSigDB_Hallmark_2020	neurotransmitter secretion (GO:0007269)	1/44	3.329497e-01	4.676381e-01	0	0	2.526706e+00	2.778780e+00	SNAP25
+MSigDB_Hallmark_2020	response to amyloid-beta (GO:1904645)	1/44	3.329497e-01	4.676381e-01	0	0	2.526706e+00	2.778780e+00	GRM5
+MSigDB_Hallmark_2020	hexose biosynthetic process (GO:0019319)	1/44	3.329497e-01	4.676381e-01	0	0	2.526706e+00	2.778780e+00	CRY1
+MSigDB_Hallmark_2020	homotypic cell-cell adhesion (GO:0034109)	1/44	3.329497e-01	4.676381e-01	0	0	2.526706e+00	2.778780e+00	ACTG1
+MSigDB_Hallmark_2020	positive regulation of stress fiber assembly (GO:0051496)	1/44	3.329497e-01	4.676381e-01	0	0	2.526706e+00	2.778780e+00	CCDC88A
+MSigDB_Hallmark_2020	metal ion homeostasis (GO:0055065)	1/44	3.329497e-01	4.676381e-01	0	0	2.526706e+00	2.778780e+00	SLC12A6
+MSigDB_Hallmark_2020	regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043122)	3/224	3.368645e-01	4.716504e-01	0	0	1.477828e+00	1.607987e+00	TRIM5;PRKD1;MTDH
+MSigDB_Hallmark_2020	cellular response to hypoxia (GO:0071456)	2/131	3.374382e-01	4.716504e-01	0	0	1.686411e+00	1.832071e+00	PSMD14;UBQLN1
+MSigDB_Hallmark_2020	cellular response to metal ion (GO:0071248)	2/131	3.374382e-01	4.716504e-01	0	0	1.686411e+00	1.832071e+00	MT2A;BMP6
+MSigDB_Hallmark_2020	amino acid transmembrane transport (GO:0003333)	1/45	3.390667e-01	4.716504e-01	0	0	2.469156e+00	2.670537e+00	SLC38A9
+MSigDB_Hallmark_2020	regulation of receptor signaling pathway via JAK-STAT (GO:0046425)	1/45	3.390667e-01	4.716504e-01	0	0	2.469156e+00	2.670537e+00	ERBB4
+MSigDB_Hallmark_2020	positive regulation of response to biotic stimulus (GO:0002833)	1/45	3.390667e-01	4.716504e-01	0	0	2.469156e+00	2.670537e+00	BMP6
+MSigDB_Hallmark_2020	positive regulation of RNA metabolic process (GO:0051254)	1/45	3.390667e-01	4.716504e-01	0	0	2.469156e+00	2.670537e+00	RBM20
+MSigDB_Hallmark_2020	mitotic G2/M transition checkpoint (GO:0044818)	1/45	3.390667e-01	4.716504e-01	0	0	2.469156e+00	2.670537e+00	UIMC1
+MSigDB_Hallmark_2020	protein deacetylation (GO:0006476)	1/45	3.390667e-01	4.716504e-01	0	0	2.469156e+00	2.670537e+00	HDAC9
+MSigDB_Hallmark_2020	transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178)	2/133	3.440978e-01	4.770238e-01	0	0	1.660495e+00	1.771465e+00	SMAD9;BMP6
+MSigDB_Hallmark_2020	regulation of DNA metabolic process (GO:0051052)	1/46	3.451278e-01	4.770238e-01	0	0	2.414164e+00	2.568285e+00	WRNIP1
+MSigDB_Hallmark_2020	regulation of fibroblast proliferation (GO:0048145)	1/46	3.451278e-01	4.770238e-01	0	0	2.414164e+00	2.568285e+00	MORC3
+MSigDB_Hallmark_2020	interleukin-12-mediated signaling pathway (GO:0035722)	1/46	3.451278e-01	4.770238e-01	0	0	2.414164e+00	2.568285e+00	RALA
+MSigDB_Hallmark_2020	positive regulation of smooth muscle cell proliferation (GO:0048661)	1/46	3.451278e-01	4.770238e-01	0	0	2.414164e+00	2.568285e+00	IL6R
+MSigDB_Hallmark_2020	posttranscriptional regulation of gene expression (GO:0010608)	1/46	3.451278e-01	4.770238e-01	0	0	2.414164e+00	2.568285e+00	GRM5
+MSigDB_Hallmark_2020	negative regulation of cold-induced thermogenesis (GO:0120163)	1/47	3.511337e-01	4.817451e-01	0	0	2.361562e+00	2.471583e+00	NOVA1
+MSigDB_Hallmark_2020	regulation of cellular metabolic process (GO:0031323)	1/47	3.511337e-01	4.817451e-01	0	0	2.361562e+00	2.471583e+00	PDK4
+MSigDB_Hallmark_2020	polyol metabolic process (GO:0019751)	1/47	3.511337e-01	4.817451e-01	0	0	2.361562e+00	2.471583e+00	INPP5A
+MSigDB_Hallmark_2020	epidermal growth factor receptor signaling pathway (GO:0007173)	1/47	3.511337e-01	4.817451e-01	0	0	2.361562e+00	2.471583e+00	PIK3CA
+MSigDB_Hallmark_2020	regulation of wound healing (GO:0061041)	1/47	3.511337e-01	4.817451e-01	0	0	2.361562e+00	2.471583e+00	ACTG1
+MSigDB_Hallmark_2020	histone deacetylation (GO:0016575)	1/47	3.511337e-01	4.817451e-01	0	0	2.361562e+00	2.471583e+00	HDAC9
+MSigDB_Hallmark_2020	positive regulation of pathway-restricted SMAD protein phosphorylation (GO:0010862)	1/47	3.511337e-01	4.817451e-01	0	0	2.361562e+00	2.471583e+00	BMP6
+MSigDB_Hallmark_2020	protein localization to plasma membrane (GO:0072659)	2/136	3.540469e-01	4.852306e-01	0	0	1.623072e+00	1.685278e+00	CCDC88A;PACS2
+MSigDB_Hallmark_2020	negative regulation of mitotic cell cycle (GO:0045930)	1/48	3.570848e-01	4.863226e-01	0	0	2.311199e+00	2.380031e+00	BCL6
+MSigDB_Hallmark_2020	cellular response to interleukin-12 (GO:0071349)	1/48	3.570848e-01	4.863226e-01	0	0	2.311199e+00	2.380031e+00	RALA
+MSigDB_Hallmark_2020	regulation of interleukin-2 production (GO:0032663)	1/48	3.570848e-01	4.863226e-01	0	0	2.311199e+00	2.380031e+00	PNP
+MSigDB_Hallmark_2020	positive regulation of DNA repair (GO:0045739)	1/48	3.570848e-01	4.863226e-01	0	0	2.311199e+00	2.380031e+00	UIMC1
+MSigDB_Hallmark_2020	inositol phosphate metabolic process (GO:0043647)	1/48	3.570848e-01	4.863226e-01	0	0	2.311199e+00	2.380031e+00	INPP5A
+MSigDB_Hallmark_2020	substrate adhesion-dependent cell spreading (GO:0034446)	1/48	3.570848e-01	4.863226e-01	0	0	2.311199e+00	2.380031e+00	ATRNL1
+MSigDB_Hallmark_2020	regulation of nucleic acid-templated transcription (GO:1903506)	5/430	3.581397e-01	4.872496e-01	0	0	1.281692e+00	1.316082e+00	CHD7;GPBP1L1;CALR;FOXN2;YAF2
+MSigDB_Hallmark_2020	negative regulation of cell projection organization (GO:0031345)	1/49	3.629816e-01	4.907602e-01	0	0	2.262935e+00	2.293265e+00	PRAG1
+MSigDB_Hallmark_2020	aminoglycan biosynthetic process (GO:0006023)	1/49	3.629816e-01	4.907602e-01	0	0	2.262935e+00	2.293265e+00	HSPG2
+MSigDB_Hallmark_2020	regulation of cellular protein metabolic process (GO:0032268)	1/49	3.629816e-01	4.907602e-01	0	0	2.262935e+00	2.293265e+00	GRM5
+MSigDB_Hallmark_2020	oligosaccharide metabolic process (GO:0009311)	1/49	3.629816e-01	4.907602e-01	0	0	2.262935e+00	2.293265e+00	FUT8
+MSigDB_Hallmark_2020	regulation of smooth muscle cell proliferation (GO:0048660)	1/49	3.629816e-01	4.907602e-01	0	0	2.262935e+00	2.293265e+00	IL6R
+MSigDB_Hallmark_2020	response to unfolded protein (GO:0006986)	1/49	3.629816e-01	4.907602e-01	0	0	2.262935e+00	2.293265e+00	HSPH1
+MSigDB_Hallmark_2020	amino acid transport (GO:0006865)	1/50	3.688247e-01	4.971115e-01	0	0	2.216641e+00	2.210952e+00	SLC38A9
+MSigDB_Hallmark_2020	organic hydroxy compound biosynthetic process (GO:1901617)	1/50	3.688247e-01	4.971115e-01	0	0	2.216641e+00	2.210952e+00	HSD17B4
+MSigDB_Hallmark_2020	positive regulation of cell morphogenesis involved in differentiation (GO:0010770)	1/50	3.688247e-01	4.971115e-01	0	0	2.216641e+00	2.210952e+00	CALR
+MSigDB_Hallmark_2020	regulation of intracellular signal transduction (GO:1902531)	5/437	3.708450e-01	4.993177e-01	0	0	1.260469e+00	1.250348e+00	BCR;FAM13B;ARHGEF4;SRGAP1;TAF1
+MSigDB_Hallmark_2020	protein localization to organelle (GO:0033365)	2/142	3.737822e-01	5.007679e-01	0	0	1.553039e+00	1.528317e+00	CALR;TRAM2
+MSigDB_Hallmark_2020	regulation of axonogenesis (GO:0050770)	1/51	3.746144e-01	5.007679e-01	0	0	2.172198e+00	2.132790e+00	CDH2
+MSigDB_Hallmark_2020	regulation of cellular amine metabolic process (GO:0033238)	1/51	3.746144e-01	5.007679e-01	0	0	2.172198e+00	2.132790e+00	PSMD14
+MSigDB_Hallmark_2020	regulation of epithelial cell migration (GO:0010632)	1/51	3.746144e-01	5.007679e-01	0	0	2.172198e+00	2.132790e+00	MCC
+MSigDB_Hallmark_2020	negative regulation of transport (GO:0051051)	1/51	3.746144e-01	5.007679e-01	0	0	2.172198e+00	2.132790e+00	PRKD1
+MSigDB_Hallmark_2020	positive regulation of actin filament bundle assembly (GO:0032233)	1/51	3.746144e-01	5.007679e-01	0	0	2.172198e+00	2.132790e+00	CCDC88A
+MSigDB_Hallmark_2020	regulation of substrate adhesion-dependent cell spreading (GO:1900024)	1/51	3.746144e-01	5.007679e-01	0	0	2.172198e+00	2.132790e+00	CALR
+MSigDB_Hallmark_2020	negative regulation of BMP signaling pathway (GO:0030514)	1/52	3.803513e-01	5.042947e-01	0	0	2.129498e+00	2.058501e+00	SMAD9
+MSigDB_Hallmark_2020	negative regulation of cellular biosynthetic process (GO:0031327)	1/52	3.803513e-01	5.042947e-01	0	0	2.129498e+00	2.058501e+00	CRY1
+MSigDB_Hallmark_2020	cartilage development (GO:0051216)	1/52	3.803513e-01	5.042947e-01	0	0	2.129498e+00	2.058501e+00	SOX5
+MSigDB_Hallmark_2020	regulation of exocytosis (GO:0017157)	1/52	3.803513e-01	5.042947e-01	0	0	2.129498e+00	2.058501e+00	RALA
+MSigDB_Hallmark_2020	regulation of intrinsic apoptotic signaling pathway (GO:2001242)	1/52	3.803513e-01	5.042947e-01	0	0	2.129498e+00	2.058501e+00	UBQLN1
+MSigDB_Hallmark_2020	fatty acid beta-oxidation (GO:0006635)	1/52	3.803513e-01	5.042947e-01	0	0	2.129498e+00	2.058501e+00	HSD17B4
+MSigDB_Hallmark_2020	response to peptide hormone (GO:0043434)	1/52	3.803513e-01	5.042947e-01	0	0	2.129498e+00	2.058501e+00	CRY1
+MSigDB_Hallmark_2020	myeloid cell differentiation (GO:0030099)	1/52	3.803513e-01	5.042947e-01	0	0	2.129498e+00	2.058501e+00	TET2
+MSigDB_Hallmark_2020	membrane organization (GO:0061024)	3/242	3.817139e-01	5.055865e-01	0	0	1.365272e+00	1.314871e+00	CCDC88A;VAPB;ACTG1
+MSigDB_Hallmark_2020	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	6/547	3.849059e-01	5.076956e-01	0	0	1.207807e+00	1.153162e+00	BCL6;UIMC1;CRY1;CALR;HDAC9;YAF2
+MSigDB_Hallmark_2020	regulation of DNA replication (GO:0006275)	1/53	3.860358e-01	5.076956e-01	0	0	2.088440e+00	1.987830e+00	CCDC88A
+MSigDB_Hallmark_2020	epidermal cell differentiation (GO:0009913)	1/53	3.860358e-01	5.076956e-01	0	0	2.088440e+00	1.987830e+00	BCR
+MSigDB_Hallmark_2020	positive regulation of chemokine production (GO:0032722)	1/53	3.860358e-01	5.076956e-01	0	0	2.088440e+00	1.987830e+00	IL6R
+MSigDB_Hallmark_2020	heart morphogenesis (GO:0003007)	1/53	3.860358e-01	5.076956e-01	0	0	2.088440e+00	1.987830e+00	CHD7
+MSigDB_Hallmark_2020	IRE1-mediated unfolded protein response (GO:0036498)	1/53	3.860358e-01	5.076956e-01	0	0	2.088440e+00	1.987830e+00	VAPB
+MSigDB_Hallmark_2020	positive regulation of phagocytosis (GO:0050766)	1/53	3.860358e-01	5.076956e-01	0	0	2.088440e+00	1.987830e+00	CALR
+MSigDB_Hallmark_2020	positive regulation of cytosolic calcium ion concentration (GO:0007204)	2/147	3.900420e-01	5.104629e-01	0	0	1.499105e+00	1.411408e+00	ABL2;ITPR3
+MSigDB_Hallmark_2020	regulation of cellular amino acid metabolic process (GO:0006521)	1/54	3.916685e-01	5.104629e-01	0	0	2.048932e+00	1.920545e+00	PSMD14
+MSigDB_Hallmark_2020	regulation of cyclin-dependent protein kinase activity (GO:1904029)	1/54	3.916685e-01	5.104629e-01	0	0	2.048932e+00	1.920545e+00	CCNI
+MSigDB_Hallmark_2020	regulation of focal adhesion assembly (GO:0051893)	1/54	3.916685e-01	5.104629e-01	0	0	2.048932e+00	1.920545e+00	ACTG1
+MSigDB_Hallmark_2020	regulation of proteasomal protein catabolic process (GO:0061136)	1/54	3.916685e-01	5.104629e-01	0	0	2.048932e+00	1.920545e+00	PSMD14
+MSigDB_Hallmark_2020	glycosaminoglycan metabolic process (GO:0030203)	1/54	3.916685e-01	5.104629e-01	0	0	2.048932e+00	1.920545e+00	HSPG2
+MSigDB_Hallmark_2020	inorganic anion transport (GO:0015698)	1/54	3.916685e-01	5.104629e-01	0	0	2.048932e+00	1.920545e+00	ANO5
+MSigDB_Hallmark_2020	striated muscle contraction (GO:0006941)	1/54	3.916685e-01	5.104629e-01	0	0	2.048932e+00	1.920545e+00	PIK3CA
+MSigDB_Hallmark_2020	unsaturated fatty acid metabolic process (GO:0033559)	1/54	3.916685e-01	5.104629e-01	0	0	2.048932e+00	1.920545e+00	HSD17B4
+MSigDB_Hallmark_2020	regulation of cytosolic calcium ion concentration (GO:0051480)	2/148	3.932719e-01	5.115285e-01	0	0	1.488761e+00	1.389392e+00	ABL2;ITPR3
+MSigDB_Hallmark_2020	positive regulation of intracellular protein transport (GO:0090316)	2/148	3.932719e-01	5.115285e-01	0	0	1.488761e+00	1.389392e+00	PCM1;YWHAB
+MSigDB_Hallmark_2020	protein sumoylation (GO:0016925)	1/55	3.972498e-01	5.136239e-01	0	0	2.010887e+00	1.856431e+00	PIAS1
+MSigDB_Hallmark_2020	protein targeting to mitochondrion (GO:0006626)	1/55	3.972498e-01	5.136239e-01	0	0	2.010887e+00	1.856431e+00	FBXO7
+MSigDB_Hallmark_2020	pyruvate metabolic process (GO:0006090)	1/55	3.972498e-01	5.136239e-01	0	0	2.010887e+00	1.856431e+00	GLO1
+MSigDB_Hallmark_2020	regulation of blood vessel endothelial cell migration (GO:0043535)	1/55	3.972498e-01	5.136239e-01	0	0	2.010887e+00	1.856431e+00	PRKD1
+MSigDB_Hallmark_2020	negative regulation of protein modification by small protein conjugation or removal (GO:1903321)	1/55	3.972498e-01	5.136239e-01	0	0	2.010887e+00	1.856431e+00	CRY1
+MSigDB_Hallmark_2020	positive regulation of response to DNA damage stimulus (GO:2001022)	1/55	3.972498e-01	5.136239e-01	0	0	2.010887e+00	1.856431e+00	UIMC1
+MSigDB_Hallmark_2020	regulation of cytokine production (GO:0001817)	2/150	3.997085e-01	5.136335e-01	0	0	1.468493e+00	1.346637e+00	BCL6;HDAC9
+MSigDB_Hallmark_2020	cellular response to organic cyclic compound (GO:0071407)	2/150	3.997085e-01	5.136335e-01	0	0	1.468493e+00	1.346637e+00	SLC26A3;TAF1
+MSigDB_Hallmark_2020	supramolecular fiber organization (GO:0097435)	4/351	4.006842e-01	5.136335e-01	0	0	1.253844e+00	1.146743e+00	CCDC88A;PCM1;COL4A2;HSPG2
+MSigDB_Hallmark_2020	protein-containing complex disassembly (GO:0032984)	1/56	4.027802e-01	5.136335e-01	0	0	1.974226e+00	1.795291e+00	UBQLN1
+MSigDB_Hallmark_2020	blood vessel morphogenesis (GO:0048514)	1/56	4.027802e-01	5.136335e-01	0	0	1.974226e+00	1.795291e+00	CDH2
+MSigDB_Hallmark_2020	negative regulation of metabolic process (GO:0009892)	1/56	4.027802e-01	5.136335e-01	0	0	1.974226e+00	1.795291e+00	NOVA1
+MSigDB_Hallmark_2020	nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay (GO:0000288)	1/56	4.027802e-01	5.136335e-01	0	0	1.974226e+00	1.795291e+00	CNOT2
+MSigDB_Hallmark_2020	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest (GO:0006977)	1/56	4.027802e-01	5.136335e-01	0	0	1.974226e+00	1.795291e+00	CNOT2
+MSigDB_Hallmark_2020	positive regulation of establishment of protein localization to mitochondrion (GO:1903749)	1/56	4.027802e-01	5.136335e-01	0	0	1.974226e+00	1.795291e+00	YWHAB
+MSigDB_Hallmark_2020	glycosaminoglycan catabolic process (GO:0006027)	1/56	4.027802e-01	5.136335e-01	0	0	1.974226e+00	1.795291e+00	HSPG2
+MSigDB_Hallmark_2020	Rho protein signal transduction (GO:0007266)	1/56	4.027802e-01	5.136335e-01	0	0	1.974226e+00	1.795291e+00	PHACTR4
+MSigDB_Hallmark_2020	sensory organ development (GO:0007423)	1/56	4.027802e-01	5.136335e-01	0	0	1.974226e+00	1.795291e+00	CHD7
+MSigDB_Hallmark_2020	tight junction assembly (GO:0120192)	1/56	4.027802e-01	5.136335e-01	0	0	1.974226e+00	1.795291e+00	ACTG1
+MSigDB_Hallmark_2020	mitochondrial transport (GO:0006839)	1/56	4.027802e-01	5.136335e-01	0	0	1.974226e+00	1.795291e+00	FBXO7
+MSigDB_Hallmark_2020	regulation of bone mineralization (GO:0030500)	1/57	4.082601e-01	5.185899e-01	0	0	1.938874e+00	1.736942e+00	BMP6
+MSigDB_Hallmark_2020	cellular response to peptide (GO:1901653)	1/57	4.082601e-01	5.185899e-01	0	0	1.938874e+00	1.736942e+00	GRM5
+MSigDB_Hallmark_2020	positive regulation of interferon-gamma production (GO:0032729)	1/57	4.082601e-01	5.185899e-01	0	0	1.938874e+00	1.736942e+00	IL1R1
+MSigDB_Hallmark_2020	protein K48-linked ubiquitination (GO:0070936)	1/57	4.082601e-01	5.185899e-01	0	0	1.938874e+00	1.736942e+00	UBE2B
+MSigDB_Hallmark_2020	positive regulation of phosphorylation (GO:0042327)	3/253	4.088193e-01	5.187940e-01	0	0	1.304467e+00	1.166822e+00	ERBB4;KRAS;BTBD10
+MSigDB_Hallmark_2020	regulation of calcium ion transport (GO:0051924)	1/58	4.136899e-01	5.194063e-01	0	0	1.904762e+00	1.681216e+00	STIM1
+MSigDB_Hallmark_2020	negative regulation of neuron projection development (GO:0010977)	1/58	4.136899e-01	5.194063e-01	0	0	1.904762e+00	1.681216e+00	PRAG1
+MSigDB_Hallmark_2020	cellular iron ion homeostasis (GO:0006879)	1/58	4.136899e-01	5.194063e-01	0	0	1.904762e+00	1.681216e+00	BMP6
+MSigDB_Hallmark_2020	regulation of neurotransmitter receptor activity (GO:0099601)	1/58	4.136899e-01	5.194063e-01	0	0	1.904762e+00	1.681216e+00	GRIA2
+MSigDB_Hallmark_2020	regulation of pathway-restricted SMAD protein phosphorylation (GO:0060393)	1/58	4.136899e-01	5.194063e-01	0	0	1.904762e+00	1.681216e+00	BMP6
+MSigDB_Hallmark_2020	regulation of phagocytosis (GO:0050764)	1/58	4.136899e-01	5.194063e-01	0	0	1.904762e+00	1.681216e+00	CALR
+MSigDB_Hallmark_2020	RNA modification (GO:0009451)	1/58	4.136899e-01	5.194063e-01	0	0	1.904762e+00	1.681216e+00	DTWD1
+MSigDB_Hallmark_2020	positive regulation of protein binding (GO:0032092)	1/58	4.136899e-01	5.194063e-01	0	0	1.904762e+00	1.681216e+00	TAF1
+MSigDB_Hallmark_2020	mitochondrial respiratory chain complex I assembly (GO:0032981)	1/58	4.136899e-01	5.194063e-01	0	0	1.904762e+00	1.681216e+00	NDUFAF2
+MSigDB_Hallmark_2020	muscle organ development (GO:0007517)	1/58	4.136899e-01	5.194063e-01	0	0	1.904762e+00	1.681216e+00	TEAD4
+MSigDB_Hallmark_2020	NADH dehydrogenase complex assembly (GO:0010257)	1/58	4.136899e-01	5.194063e-01	0	0	1.904762e+00	1.681216e+00	NDUFAF2
+MSigDB_Hallmark_2020	cellular response to interleukin-1 (GO:0071347)	2/155	4.156591e-01	5.213759e-01	0	0	1.420142e+00	1.246728e+00	PSMD14;IL1R1
+MSigDB_Hallmark_2020	regulation of secretion by cell (GO:1903530)	1/59	4.190703e-01	5.236368e-01	0	0	1.871826e+00	1.627959e+00	RALA
+MSigDB_Hallmark_2020	fatty acid oxidation (GO:0019395)	1/59	4.190703e-01	5.236368e-01	0	0	1.871826e+00	1.627959e+00	HSD17B4
+MSigDB_Hallmark_2020	selective autophagy (GO:0061912)	1/59	4.190703e-01	5.236368e-01	0	0	1.871826e+00	1.627959e+00	UBQLN1
+MSigDB_Hallmark_2020	mitotic DNA damage checkpoint signaling (GO:0044773)	1/59	4.190703e-01	5.236368e-01	0	0	1.871826e+00	1.627959e+00	UIMC1
+MSigDB_Hallmark_2020	homophilic cell adhesion via plasma membrane adhesion molecules (GO:0007156)	1/60	4.244015e-01	5.297898e-01	0	0	1.840007e+00	1.577025e+00	CDH2
+MSigDB_Hallmark_2020	T cell receptor signaling pathway (GO:0050852)	2/158	4.251281e-01	5.301885e-01	0	0	1.392619e+00	1.191197e+00	PSMD14;PIK3CA
+MSigDB_Hallmark_2020	regulation of DNA-templated transcription, initiation (GO:2000142)	1/61	4.296841e-01	5.348457e-01	0	0	1.809249e+00	1.528282e+00	MED4
+MSigDB_Hallmark_2020	iron ion homeostasis (GO:0055072)	1/61	4.296841e-01	5.348457e-01	0	0	1.809249e+00	1.528282e+00	BMP6
+MSigDB_Hallmark_2020	regulation of neurogenesis (GO:0050767)	1/62	4.349184e-01	5.398129e-01	0	0	1.779499e+00	1.481605e+00	PCM1
+MSigDB_Hallmark_2020	response to retinoic acid (GO:0032526)	1/62	4.349184e-01	5.398129e-01	0	0	1.779499e+00	1.481605e+00	ABL2
+MSigDB_Hallmark_2020	stress-activated MAPK cascade (GO:0051403)	1/62	4.349184e-01	5.398129e-01	0	0	1.779499e+00	1.481605e+00	MAPK10
+MSigDB_Hallmark_2020	actin cytoskeleton reorganization (GO:0031532)	1/63	4.401050e-01	5.416037e-01	0	0	1.750709e+00	1.436880e+00	RALA
+MSigDB_Hallmark_2020	amyloid fibril formation (GO:1990000)	1/63	4.401050e-01	5.416037e-01	0	0	1.750709e+00	1.436880e+00	HSPG2
+MSigDB_Hallmark_2020	COPII vesicle coating (GO:0048208)	1/63	4.401050e-01	5.416037e-01	0	0	1.750709e+00	1.436880e+00	MCFD2
+MSigDB_Hallmark_2020	positive regulation of DNA metabolic process (GO:0051054)	1/63	4.401050e-01	5.416037e-01	0	0	1.750709e+00	1.436880e+00	UIMC1
+MSigDB_Hallmark_2020	positive regulation of Ras protein signal transduction (GO:0046579)	1/63	4.401050e-01	5.416037e-01	0	0	1.750709e+00	1.436880e+00	PRAG1
+MSigDB_Hallmark_2020	positive regulation of viral process (GO:0048524)	1/63	4.401050e-01	5.416037e-01	0	0	1.750709e+00	1.436880e+00	VAPB
+MSigDB_Hallmark_2020	vesicle coating (GO:0006901)	1/63	4.401050e-01	5.416037e-01	0	0	1.750709e+00	1.436880e+00	MCFD2
+MSigDB_Hallmark_2020	vesicle targeting, rough ER to cis-Golgi (GO:0048207)	1/63	4.401050e-01	5.416037e-01	0	0	1.750709e+00	1.436880e+00	MCFD2
+MSigDB_Hallmark_2020	monocarboxylic acid biosynthetic process (GO:0072330)	1/63	4.401050e-01	5.416037e-01	0	0	1.750709e+00	1.436880e+00	HSD17B4
+MSigDB_Hallmark_2020	negative regulation of cell cycle process (GO:0010948)	1/64	4.452442e-01	5.448383e-01	0	0	1.722833e+00	1.394000e+00	YAF2
+MSigDB_Hallmark_2020	regulation of cilium assembly (GO:1902017)	1/64	4.452442e-01	5.448383e-01	0	0	1.722833e+00	1.394000e+00	CCDC88A
+MSigDB_Hallmark_2020	diterpenoid metabolic process (GO:0016101)	1/64	4.452442e-01	5.448383e-01	0	0	1.722833e+00	1.394000e+00	HSPG2
+MSigDB_Hallmark_2020	regulation of transcription initiation from RNA polymerase II promoter (GO:0060260)	1/64	4.452442e-01	5.448383e-01	0	0	1.722833e+00	1.394000e+00	MED4
+MSigDB_Hallmark_2020	tRNA processing (GO:0008033)	1/64	4.452442e-01	5.448383e-01	0	0	1.722833e+00	1.394000e+00	DTWD1
+MSigDB_Hallmark_2020	pre-replicative complex assembly (GO:0036388)	1/64	4.452442e-01	5.448383e-01	0	0	1.722833e+00	1.394000e+00	PSMD14
+MSigDB_Hallmark_2020	regulation of cell-matrix adhesion (GO:0001952)	1/65	4.503365e-01	5.474679e-01	0	0	1.695828e+00	1.352864e+00	ACTG1
+MSigDB_Hallmark_2020	cellular response to type I interferon (GO:0071357)	1/65	4.503365e-01	5.474679e-01	0	0	1.695828e+00	1.352864e+00	IFNAR1
+MSigDB_Hallmark_2020	steroid biosynthetic process (GO:0006694)	1/65	4.503365e-01	5.474679e-01	0	0	1.695828e+00	1.352864e+00	HSD17B4
+MSigDB_Hallmark_2020	tRNA modification (GO:0006400)	1/65	4.503365e-01	5.474679e-01	0	0	1.695828e+00	1.352864e+00	DTWD1
+MSigDB_Hallmark_2020	type I interferon signaling pathway (GO:0060337)	1/65	4.503365e-01	5.474679e-01	0	0	1.695828e+00	1.352864e+00	IFNAR1
+MSigDB_Hallmark_2020	mitotic G1 DNA damage checkpoint signaling (GO:0031571)	1/65	4.503365e-01	5.474679e-01	0	0	1.695828e+00	1.352864e+00	CNOT2
+MSigDB_Hallmark_2020	protein autoubiquitination (GO:0051865)	1/65	4.503365e-01	5.474679e-01	0	0	1.695828e+00	1.352864e+00	UBE2B
+MSigDB_Hallmark_2020	positive regulation of gene expression (GO:0010628)	5/482	4.520883e-01	5.490849e-01	0	0	1.138907e+00	9.041525e-01	RBM20;KRAS;TENT4A;BMP6;ACTG1
+MSigDB_Hallmark_2020	cellular response to nutrient levels (GO:0031669)	1/66	4.553823e-01	5.510295e-01	0	0	1.669653e+00	1.313379e+00	PDK4
+MSigDB_Hallmark_2020	regulation of protein localization (GO:0032880)	1/66	4.553823e-01	5.510295e-01	0	0	1.669653e+00	1.313379e+00	TRIM5
+MSigDB_Hallmark_2020	positive regulation of cell cycle (GO:0045787)	1/66	4.553823e-01	5.510295e-01	0	0	1.669653e+00	1.313379e+00	CALR
+MSigDB_Hallmark_2020	positive regulation of T cell proliferation (GO:0042102)	1/66	4.553823e-01	5.510295e-01	0	0	1.669653e+00	1.313379e+00	PNP
+MSigDB_Hallmark_2020	negative regulation of apoptotic process (GO:0043066)	5/485	4.574314e-01	5.529670e-01	0	0	1.131613e+00	8.850666e-01	AVEN;PIK3CA;GLO1;PDK4;MTDH
+MSigDB_Hallmark_2020	negative regulation of cell population proliferation (GO:0008285)	4/379	4.578329e-01	5.529670e-01	0	0	1.158555e+00	9.051222e-01	MORC3;ERBB4;ITGA1;MCC
+MSigDB_Hallmark_2020	regulation of viral genome replication (GO:0045069)	1/67	4.603820e-01	5.555305e-01	0	0	1.644272e+00	1.275460e+00	VAPB
+MSigDB_Hallmark_2020	regulation of translational initiation (GO:0006446)	1/68	4.653361e-01	5.609886e-01	0	0	1.619649e+00	1.239024e+00	EIF4G3
+MSigDB_Hallmark_2020	positive regulation of macromolecule metabolic process (GO:0010604)	4/384	4.678631e-01	5.635132e-01	0	0	1.143017e+00	8.682121e-01	INPP5F;KRAS;BMP6;ACTG1
+MSigDB_Hallmark_2020	plasma membrane bounded cell projection assembly (GO:0120031)	3/278	4.689359e-01	5.637744e-01	0	0	1.184364e+00	8.969057e-01	CCDC88A;PCM1;ARHGEF4
+MSigDB_Hallmark_2020	negative regulation of cellular catabolic process (GO:0031330)	1/69	4.702450e-01	5.637744e-01	0	0	1.595750e+00	1.203996e+00	EIF4G3
+MSigDB_Hallmark_2020	cellular response to decreased oxygen levels (GO:0036294)	1/69	4.702450e-01	5.637744e-01	0	0	1.595750e+00	1.203996e+00	UBQLN1
+MSigDB_Hallmark_2020	RNA 3'-end processing (GO:0031123)	1/69	4.702450e-01	5.637744e-01	0	0	1.595750e+00	1.203996e+00	TENT4A
+MSigDB_Hallmark_2020	synapse assembly (GO:0007416)	1/69	4.702450e-01	5.637744e-01	0	0	1.595750e+00	1.203996e+00	CDH2
+MSigDB_Hallmark_2020	negative regulation of viral process (GO:0048525)	1/70	4.751090e-01	5.680367e-01	0	0	1.572543e+00	1.170304e+00	TRIM5
+MSigDB_Hallmark_2020	fatty acid catabolic process (GO:0009062)	1/70	4.751090e-01	5.680367e-01	0	0	1.572543e+00	1.170304e+00	HSD17B4
+MSigDB_Hallmark_2020	positive regulation of cell-substrate adhesion (GO:0010811)	1/70	4.751090e-01	5.680367e-01	0	0	1.572543e+00	1.170304e+00	CALR
+MSigDB_Hallmark_2020	mitochondrion organization (GO:0007005)	2/175	4.772084e-01	5.696145e-01	0	0	1.254687e+00	9.282195e-01	AGTPBP1;FBXO7
+MSigDB_Hallmark_2020	regulation of hematopoietic stem cell differentiation (GO:1902036)	1/71	4.799286e-01	5.696145e-01	0	0	1.550000e+00	1.137883e+00	PSMD14
+MSigDB_Hallmark_2020	cholesterol homeostasis (GO:0042632)	1/71	4.799286e-01	5.696145e-01	0	0	1.550000e+00	1.137883e+00	HDAC9
+MSigDB_Hallmark_2020	nucleic acid metabolic process (GO:0090304)	1/71	4.799286e-01	5.696145e-01	0	0	1.550000e+00	1.137883e+00	HNRNPR
+MSigDB_Hallmark_2020	positive regulation of cellular protein localization (GO:1903829)	1/71	4.799286e-01	5.696145e-01	0	0	1.550000e+00	1.137883e+00	CCDC88A
+MSigDB_Hallmark_2020	gland development (GO:0048732)	1/71	4.799286e-01	5.696145e-01	0	0	1.550000e+00	1.137883e+00	ZBTB1
+MSigDB_Hallmark_2020	histone acetylation (GO:0016573)	1/71	4.799286e-01	5.696145e-01	0	0	1.550000e+00	1.137883e+00	NAA50
+MSigDB_Hallmark_2020	myeloid leukocyte differentiation (GO:0002573)	1/71	4.799286e-01	5.696145e-01	0	0	1.550000e+00	1.137883e+00	GLO1
+MSigDB_Hallmark_2020	positive regulation of developmental process (GO:0051094)	2/177	4.831477e-01	5.706012e-01	0	0	1.240221e+00	9.021776e-01	RALA;SOX5
+MSigDB_Hallmark_2020	glycerophospholipid biosynthetic process (GO:0046474)	2/177	4.831477e-01	5.706012e-01	0	0	1.240221e+00	9.021776e-01	INPP5F;PIK3CA
+MSigDB_Hallmark_2020	negative regulation of epithelial cell proliferation (GO:0050680)	1/72	4.847042e-01	5.706012e-01	0	0	1.528092e+00	1.106669e+00	MCC
+MSigDB_Hallmark_2020	cell morphogenesis involved in differentiation (GO:0000904)	1/72	4.847042e-01	5.706012e-01	0	0	1.528092e+00	1.106669e+00	ATRNL1
+MSigDB_Hallmark_2020	negative regulation of supramolecular fiber organization (GO:1902904)	1/72	4.847042e-01	5.706012e-01	0	0	1.528092e+00	1.106669e+00	PIK3CA
+MSigDB_Hallmark_2020	extrinsic apoptotic signaling pathway (GO:0097191)	1/72	4.847042e-01	5.706012e-01	0	0	1.528092e+00	1.106669e+00	IL6R
+MSigDB_Hallmark_2020	sterol homeostasis (GO:0055092)	1/72	4.847042e-01	5.706012e-01	0	0	1.528092e+00	1.106669e+00	HDAC9
+MSigDB_Hallmark_2020	positive regulation of protein secretion (GO:0050714)	1/72	4.847042e-01	5.706012e-01	0	0	1.528092e+00	1.106669e+00	BMP6
+MSigDB_Hallmark_2020	positive regulation of secretion by cell (GO:1903532)	1/72	4.847042e-01	5.706012e-01	0	0	1.528092e+00	1.106669e+00	BMP6
+MSigDB_Hallmark_2020	regulation of actin filament-based process (GO:0032970)	1/73	4.894362e-01	5.725480e-01	0	0	1.506792e+00	1.076604e+00	CCDC88A
+MSigDB_Hallmark_2020	regulation of hydrolase activity (GO:0051336)	1/73	4.894362e-01	5.725480e-01	0	0	1.506792e+00	1.076604e+00	PRKG1
+MSigDB_Hallmark_2020	neurotransmitter transport (GO:0006836)	1/73	4.894362e-01	5.725480e-01	0	0	1.506792e+00	1.076604e+00	SNAP25
+MSigDB_Hallmark_2020	defense response to Gram-negative bacterium (GO:0050829)	1/73	4.894362e-01	5.725480e-01	0	0	1.506792e+00	1.076604e+00	IL6R
+MSigDB_Hallmark_2020	response to molecule of bacterial origin (GO:0002237)	1/73	4.894362e-01	5.725480e-01	0	0	1.506792e+00	1.076604e+00	IFNAR1
+MSigDB_Hallmark_2020	positive regulation of synaptic transmission (GO:0050806)	1/73	4.894362e-01	5.725480e-01	0	0	1.506792e+00	1.076604e+00	GRIK2
+MSigDB_Hallmark_2020	ubiquitin-dependent ERAD pathway (GO:0030433)	1/73	4.894362e-01	5.725480e-01	0	0	1.506792e+00	1.076604e+00	UBQLN1
+MSigDB_Hallmark_2020	regulated exocytosis (GO:0045055)	2/180	4.919785e-01	5.750054e-01	0	0	1.219132e+00	8.647551e-01	SNAP25;MMRN1
+MSigDB_Hallmark_2020	regulation of cytokine-mediated signaling pathway (GO:0001959)	1/74	4.941250e-01	5.754479e-01	0	0	1.486076e+00	1.047634e+00	PIAS1
+MSigDB_Hallmark_2020	negative regulation of protein binding (GO:0032091)	1/74	4.941250e-01	5.754479e-01	0	0	1.486076e+00	1.047634e+00	ATP2A2
+MSigDB_Hallmark_2020	NIK/NF-kappaB signaling (GO:0038061)	1/74	4.941250e-01	5.754479e-01	0	0	1.486076e+00	1.047634e+00	PSMD14
+MSigDB_Hallmark_2020	DNA damage response, signal transduction by p53 class mediator (GO:0030330)	1/74	4.941250e-01	5.754479e-01	0	0	1.486076e+00	1.047634e+00	CNOT2
+MSigDB_Hallmark_2020	regulation of hematopoietic progenitor cell differentiation (GO:1901532)	1/75	4.987709e-01	5.787876e-01	0	0	1.465919e+00	1.019706e+00	PSMD14
+MSigDB_Hallmark_2020	regulation of transcription from RNA polymerase II promoter in response to hypoxia (GO:0061418)	1/75	4.987709e-01	5.787876e-01	0	0	1.465919e+00	1.019706e+00	PSMD14
+MSigDB_Hallmark_2020	positive regulation of lymphocyte proliferation (GO:0050671)	1/75	4.987709e-01	5.787876e-01	0	0	1.465919e+00	1.019706e+00	PNP
+MSigDB_Hallmark_2020	integrin-mediated signaling pathway (GO:0007229)	1/75	4.987709e-01	5.787876e-01	0	0	1.465919e+00	1.019706e+00	PRKD1
+MSigDB_Hallmark_2020	regulation of BMP signaling pathway (GO:0030510)	1/76	5.033744e-01	5.815381e-01	0	0	1.446300e+00	9.927710e-01	SMAD9
+MSigDB_Hallmark_2020	establishment of protein localization to organelle (GO:0072594)	1/76	5.033744e-01	5.815381e-01	0	0	1.446300e+00	9.927710e-01	RALA
+MSigDB_Hallmark_2020	regulation of T cell proliferation (GO:0042129)	1/76	5.033744e-01	5.815381e-01	0	0	1.446300e+00	9.927710e-01	PNP
+MSigDB_Hallmark_2020	positive regulation of interleukin-6 production (GO:0032755)	1/76	5.033744e-01	5.815381e-01	0	0	1.446300e+00	9.927710e-01	IL6R
+MSigDB_Hallmark_2020	protein import into nucleus (GO:0006606)	1/76	5.033744e-01	5.815381e-01	0	0	1.446300e+00	9.927710e-01	KPNA3
+MSigDB_Hallmark_2020	antigen receptor-mediated signaling pathway (GO:0050851)	2/185	5.064849e-01	5.842160e-01	0	0	1.185521e+00	8.064631e-01	PIK3CA;PSMD14
+MSigDB_Hallmark_2020	positive regulation of endothelial cell proliferation (GO:0001938)	1/77	5.079358e-01	5.842160e-01	0	0	1.427198e+00	9.667840e-01	PRKD1
+MSigDB_Hallmark_2020	import into nucleus (GO:0051170)	1/77	5.079358e-01	5.842160e-01	0	0	1.427198e+00	9.667840e-01	BACH2
+MSigDB_Hallmark_2020	inorganic cation import across plasma membrane (GO:0098659)	1/77	5.079358e-01	5.842160e-01	0	0	1.427198e+00	9.667840e-01	SLC12A6
+MSigDB_Hallmark_2020	positive regulation of phosphatidylinositol 3-kinase signaling (GO:0014068)	1/77	5.079358e-01	5.842160e-01	0	0	1.427198e+00	9.667840e-01	PIK3CA
+MSigDB_Hallmark_2020	positive regulation of cellular process (GO:0048522)	6/625	5.106041e-01	5.867666e-01	0	0	1.051340e+00	7.066697e-01	KDM4C;ERBB4;KRAS;CALR;IL6R;BMP6
+MSigDB_Hallmark_2020	regulation of mitotic cell cycle phase transition (GO:1901990)	2/188	5.150596e-01	5.913647e-01	0	0	1.166221e+00	7.737558e-01	PCM1;PSMD14
+MSigDB_Hallmark_2020	recombinational repair (GO:0000725)	1/79	5.169341e-01	5.919509e-01	0	0	1.390462e+00	9.174823e-01	PSMD14
+MSigDB_Hallmark_2020	axon development (GO:0061564)	1/79	5.169341e-01	5.919509e-01	0	0	1.390462e+00	9.174823e-01	NREP
+MSigDB_Hallmark_2020	regulation of cellular response to heat (GO:1900034)	1/79	5.169341e-01	5.919509e-01	0	0	1.390462e+00	9.174823e-01	HSPH1
+MSigDB_Hallmark_2020	extracellular matrix organization (GO:0030198)	3/300	5.195145e-01	5.943831e-01	0	0	1.095398e+00	7.173332e-01	COL4A2;ITGA1;HSPG2
+MSigDB_Hallmark_2020	negative regulation of cellular response to growth factor stimulus (GO:0090288)	1/80	5.213717e-01	5.949395e-01	0	0	1.372792e+00	8.940884e-01	SMAD9
+MSigDB_Hallmark_2020	regulation of protein localization to plasma membrane (GO:1903076)	1/80	5.213717e-01	5.949395e-01	0	0	1.372792e+00	8.940884e-01	STX8
+MSigDB_Hallmark_2020	skin development (GO:0043588)	1/80	5.213717e-01	5.949395e-01	0	0	1.372792e+00	8.940884e-01	BCR
+MSigDB_Hallmark_2020	negative regulation of protein modification process (GO:0031400)	1/81	5.257687e-01	5.989071e-01	0	0	1.355563e+00	8.714833e-01	YWHAB
+MSigDB_Hallmark_2020	phospholipase C-activating G protein-coupled receptor signaling pathway (GO:0007200)	1/81	5.257687e-01	5.989071e-01	0	0	1.355563e+00	8.714833e-01	GRM5
+MSigDB_Hallmark_2020	regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0000079)	1/82	5.301256e-01	6.017641e-01	0	0	1.338760e+00	8.496325e-01	CCNI
+MSigDB_Hallmark_2020	regulation of gene expression, epigenetic (GO:0040029)	1/82	5.301256e-01	6.017641e-01	0	0	1.338760e+00	8.496325e-01	AEBP2
+MSigDB_Hallmark_2020	ephrin receptor signaling pathway (GO:0048013)	1/82	5.301256e-01	6.017641e-01	0	0	1.338760e+00	8.496325e-01	ACTG1
+MSigDB_Hallmark_2020	positive regulation of cytoskeleton organization (GO:0051495)	1/82	5.301256e-01	6.017641e-01	0	0	1.338760e+00	8.496325e-01	KATNBL1
+MSigDB_Hallmark_2020	regulation of programmed cell death (GO:0043067)	2/194	5.319130e-01	6.032671e-01	0	0	1.129431e+00	7.129823e-01	BCL6;CALR
+MSigDB_Hallmark_2020	regulation of Notch signaling pathway (GO:0008593)	1/83	5.344426e-01	6.045563e-01	0	0	1.322367e+00	8.285036e-01	PRAG1
+MSigDB_Hallmark_2020	epidermis development (GO:0008544)	1/83	5.344426e-01	6.045563e-01	0	0	1.322367e+00	8.285036e-01	ATP2A2
+MSigDB_Hallmark_2020	long-chain fatty acid metabolic process (GO:0001676)	1/83	5.344426e-01	6.045563e-01	0	0	1.322367e+00	8.285036e-01	HSD17B4
+MSigDB_Hallmark_2020	organelle organization (GO:0006996)	4/420	5.378599e-01	6.072846e-01	0	0	1.042168e+00	6.463079e-01	AGTPBP1;VAPB;PRKD1;BRWD1
+MSigDB_Hallmark_2020	anaphase-promoting complex-dependent catabolic process (GO:0031145)	1/84	5.387202e-01	6.072846e-01	0	0	1.306368e+00	8.080659e-01	PSMD14
+MSigDB_Hallmark_2020	nuclear export (GO:0051168)	1/84	5.387202e-01	6.072846e-01	0	0	1.306368e+00	8.080659e-01	CALR
+MSigDB_Hallmark_2020	response to insulin (GO:0032868)	1/84	5.387202e-01	6.072846e-01	0	0	1.306368e+00	8.080659e-01	HDAC9
+MSigDB_Hallmark_2020	B cell activation (GO:0042113)	1/85	5.429587e-01	6.104769e-01	0	0	1.290751e+00	7.882900e-01	HDAC9
+MSigDB_Hallmark_2020	regulation of cell cycle G2/M phase transition (GO:1902749)	1/85	5.429587e-01	6.104769e-01	0	0	1.290751e+00	7.882900e-01	PCM1
+MSigDB_Hallmark_2020	Wnt signaling pathway, planar cell polarity pathway (GO:0060071)	1/85	5.429587e-01	6.104769e-01	0	0	1.290751e+00	7.882900e-01	PSMD14
+MSigDB_Hallmark_2020	endomembrane system organization (GO:0010256)	2/199	5.456515e-01	6.121002e-01	0	0	1.100485e+00	6.666461e-01	VAPB;PRKD1
+MSigDB_Hallmark_2020	negative regulation of cellular amide metabolic process (GO:0034249)	1/86	5.471585e-01	6.121002e-01	0	0	1.275501e+00	7.691486e-01	CALR
+MSigDB_Hallmark_2020	regulation of interferon-gamma production (GO:0032649)	1/86	5.471585e-01	6.121002e-01	0	0	1.275501e+00	7.691486e-01	IL1R1
+MSigDB_Hallmark_2020	regulation of Ras protein signal transduction (GO:0046578)	1/86	5.471585e-01	6.121002e-01	0	0	1.275501e+00	7.691486e-01	BCR
+MSigDB_Hallmark_2020	response to interleukin-1 (GO:0070555)	1/86	5.471585e-01	6.121002e-01	0	0	1.275501e+00	7.691486e-01	IL1R1
+MSigDB_Hallmark_2020	organelle assembly (GO:0070925)	4/425	5.472232e-01	6.121002e-01	0	0	1.029525e+00	6.206992e-01	PCM1;PACS2;UBQLN1;ATP2A2
+MSigDB_Hallmark_2020	calcium ion transmembrane transport (GO:0070588)	1/87	5.513198e-01	6.150972e-01	0	0	1.260606e+00	7.506153e-01	ATP2A2
+MSigDB_Hallmark_2020	ERAD pathway (GO:0036503)	1/87	5.513198e-01	6.150972e-01	0	0	1.260606e+00	7.506153e-01	UBQLN1
+MSigDB_Hallmark_2020	regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618)	1/87	5.513198e-01	6.150972e-01	0	0	1.260606e+00	7.506153e-01	PSMD14
+MSigDB_Hallmark_2020	regulation of establishment of planar polarity (GO:0090175)	1/88	5.554432e-01	6.191670e-01	0	0	1.246053e+00	7.326653e-01	PSMD14
+MSigDB_Hallmark_2020	axon guidance (GO:0007411)	2/203	5.564396e-01	6.197471e-01	0	0	1.078365e+00	6.321339e-01	PIK3CA;SEMA3F
+MSigDB_Hallmark_2020	collagen fibril organization (GO:0030199)	1/89	5.595288e-01	6.210627e-01	0	0	1.231831e+00	7.152750e-01	COL4A2
+MSigDB_Hallmark_2020	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process (GO:0031146)	1/89	5.595288e-01	6.210627e-01	0	0	1.231831e+00	7.152750e-01	PSMD14
+MSigDB_Hallmark_2020	second-messenger-mediated signaling (GO:0019932)	1/89	5.595288e-01	6.210627e-01	0	0	1.231831e+00	7.152750e-01	INPP5A
+MSigDB_Hallmark_2020	transforming growth factor beta receptor signaling pathway (GO:0007179)	1/89	5.595288e-01	6.210627e-01	0	0	1.231831e+00	7.152750e-01	SMAD9
+MSigDB_Hallmark_2020	negative regulation of translation (GO:0017148)	1/90	5.635772e-01	6.234303e-01	0	0	1.217928e+00	6.984221e-01	CALR
+MSigDB_Hallmark_2020	positive regulation of binding (GO:0051099)	1/90	5.635772e-01	6.234303e-01	0	0	1.217928e+00	6.984221e-01	TAF1
+MSigDB_Hallmark_2020	mitochondrial respiratory chain complex assembly (GO:0033108)	1/90	5.635772e-01	6.234303e-01	0	0	1.217928e+00	6.984221e-01	NDUFAF2
+MSigDB_Hallmark_2020	protein complex oligomerization (GO:0051259)	1/90	5.635772e-01	6.234303e-01	0	0	1.217928e+00	6.984221e-01	ZBTB1
+MSigDB_Hallmark_2020	regulation of inflammatory response (GO:0050727)	2/206	5.644116e-01	6.238233e-01	0	0	1.062344e+00	6.076307e-01	BCL6;IL1R1
+MSigDB_Hallmark_2020	regulation of stem cell differentiation (GO:2000736)	1/91	5.675885e-01	6.262713e-01	0	0	1.204335e+00	6.820853e-01	PSMD14
+MSigDB_Hallmark_2020	positive regulation of transport (GO:0051050)	1/91	5.675885e-01	6.262713e-01	0	0	1.204335e+00	6.820853e-01	CALR
+MSigDB_Hallmark_2020	regulation of endothelial cell proliferation (GO:0001936)	1/92	5.715631e-01	6.279959e-01	0	0	1.191040e+00	6.662443e-01	PRKD1
+MSigDB_Hallmark_2020	retinoid metabolic process (GO:0001523)	1/92	5.715631e-01	6.279959e-01	0	0	1.191040e+00	6.662443e-01	HSPG2
+MSigDB_Hallmark_2020	T cell activation (GO:0042110)	1/92	5.715631e-01	6.279959e-01	0	0	1.191040e+00	6.662443e-01	CHD7
+MSigDB_Hallmark_2020	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)	1/92	5.715631e-01	6.279959e-01	0	0	1.191040e+00	6.662443e-01	BMP6
+MSigDB_Hallmark_2020	Wnt signaling pathway (GO:0016055)	1/92	5.715631e-01	6.279959e-01	0	0	1.191040e+00	6.662443e-01	CSNK1G3
+MSigDB_Hallmark_2020	mitotic cell cycle phase transition (GO:0044772)	2/209	5.722808e-01	6.282543e-01	0	0	1.046788e+00	5.842389e-01	PCM1;CCNI
+MSigDB_Hallmark_2020	positive regulation of peptidyl-serine phosphorylation (GO:0033138)	1/93	5.755014e-01	6.312577e-01	0	0	1.178034e+00	6.508798e-01	PRKD1
+MSigDB_Hallmark_2020	negative regulation of cellular protein metabolic process (GO:0032269)	1/94	5.794037e-01	6.344690e-01	0	0	1.165308e+00	6.359735e-01	CALR
+MSigDB_Hallmark_2020	regulation of kinase activity (GO:0043549)	1/94	5.794037e-01	6.344690e-01	0	0	1.165308e+00	6.359735e-01	ERBB4
+MSigDB_Hallmark_2020	phosphate-containing compound metabolic process (GO:0006796)	2/212	5.800471e-01	6.346398e-01	0	0	1.031676e+00	5.618981e-01	INPP5A;PIK3CA
+MSigDB_Hallmark_2020	ciliary basal body-plasma membrane docking (GO:0097711)	1/95	5.832703e-01	6.376305e-01	0	0	1.152852e+00	6.215080e-01	PCM1
+MSigDB_Hallmark_2020	positive regulation of protein modification process (GO:0031401)	2/214	5.851673e-01	6.391676e-01	0	0	1.021839e+00	5.475600e-01	ERBB4;KRAS
+MSigDB_Hallmark_2020	protein maturation (GO:0051604)	1/97	5.908978e-01	6.443459e-01	0	0	1.128720e+00	5.938335e-01	NAA50
+MSigDB_Hallmark_2020	double-strand break repair via homologous recombination (GO:0000724)	1/97	5.908978e-01	6.443459e-01	0	0	1.128720e+00	5.938335e-01	PSMD14
+MSigDB_Hallmark_2020	positive regulation of cytokine production (GO:0001819)	3/335	5.943045e-01	6.473633e-01	0	0	9.781627e-01	5.090000e-01	PNP;IL1R1;IL6R
+MSigDB_Hallmark_2020	regulation of peptidyl-serine phosphorylation (GO:0033135)	1/98	5.946593e-01	6.473633e-01	0	0	1.117027e+00	5.805935e-01	PRKD1
+MSigDB_Hallmark_2020	cellular response to lipid (GO:0071396)	2/219	5.977667e-01	6.502024e-01	0	0	9.980396e-01	5.135460e-01	PDK4;ABL2
+MSigDB_Hallmark_2020	regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)	1/100	6.020795e-01	6.543468e-01	0	0	1.094350e+00	5.552358e-01	NREP
+MSigDB_Hallmark_2020	epithelial cell differentiation (GO:0030855)	1/101	6.057387e-01	6.572265e-01	0	0	1.083352e+00	5.430912e-01	ERBB4
+MSigDB_Hallmark_2020	positive regulation of protein localization to membrane (GO:1905477)	1/101	6.057387e-01	6.572265e-01	0	0	1.083352e+00	5.430912e-01	YWHAB
+MSigDB_Hallmark_2020	steroid metabolic process (GO:0008202)	1/104	6.165169e-01	6.683639e-01	0	0	1.051638e+00	5.086451e-01	HSD17B4
+MSigDB_Hallmark_2020	activation of GTPase activity (GO:0090630)	1/105	6.200441e-01	6.716285e-01	0	0	1.041473e+00	4.977872e-01	BCR
+MSigDB_Hallmark_2020	cellular response to peptide hormone stimulus (GO:0071375)	1/106	6.235391e-01	6.737327e-01	0	0	1.031502e+00	4.872236e-01	HDAC9
+MSigDB_Hallmark_2020	chromosome organization (GO:0051276)	1/106	6.235391e-01	6.737327e-01	0	0	1.031502e+00	4.872236e-01	BRWD1
+MSigDB_Hallmark_2020	regulation of phosphatidylinositol 3-kinase signaling (GO:0014066)	1/106	6.235391e-01	6.737327e-01	0	0	1.031502e+00	4.872236e-01	PIK3CA
+MSigDB_Hallmark_2020	inflammatory response (GO:0006954)	2/230	6.244741e-01	6.741835e-01	0	0	9.493554e-01	4.469997e-01	HSPG2;HDAC9
+MSigDB_Hallmark_2020	apoptotic process (GO:0006915)	2/231	6.268332e-01	6.761697e-01	0	0	9.451615e-01	4.414611e-01	PIK3CA;ATN1
+MSigDB_Hallmark_2020	negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090101)	1/108	6.304333e-01	6.789282e-01	0	0	1.012119e+00	4.669389e-01	SMAD9
+MSigDB_Hallmark_2020	DNA replication (GO:0006260)	1/108	6.304333e-01	6.789282e-01	0	0	1.012119e+00	4.669389e-01	WRNIP1
+MSigDB_Hallmark_2020	regulation of interleukin-6 production (GO:0032675)	1/110	6.372019e-01	6.850842e-01	0	0	9.934469e-01	4.477154e-01	IL6R
+MSigDB_Hallmark_2020	response to tumor necrosis factor (GO:0034612)	1/110	6.372019e-01	6.850842e-01	0	0	9.934469e-01	4.477154e-01	AFF3
+MSigDB_Hallmark_2020	regulation of protein serine/threonine kinase activity (GO:0071900)	1/111	6.405399e-01	6.881047e-01	0	0	9.843656e-01	4.384796e-01	CCNI
+MSigDB_Hallmark_2020	protein-containing complex subunit organization (GO:0043933)	1/112	6.438473e-01	6.910875e-01	0	0	9.754480e-01	4.294836e-01	KPNA3
+MSigDB_Hallmark_2020	sulfur compound biosynthetic process (GO:0044272)	1/113	6.471244e-01	6.939201e-01	0	0	9.666896e-01	4.207194e-01	DSE
+MSigDB_Hallmark_2020	axonogenesis (GO:0007409)	2/240	6.475521e-01	6.939201e-01	0	0	9.090023e-01	3.950124e-01	PIK3CA;SEMA3F
+MSigDB_Hallmark_2020	activation of protein kinase activity (GO:0032147)	1/114	6.503716e-01	6.946545e-01	0	0	9.580862e-01	4.121796e-01	CCDC88A
+MSigDB_Hallmark_2020	negative regulation of cell motility (GO:2000146)	1/114	6.503716e-01	6.946545e-01	0	0	9.580862e-01	4.121796e-01	SRGAP1
+MSigDB_Hallmark_2020	response to lipid (GO:0033993)	1/114	6.503716e-01	6.946545e-01	0	0	9.580862e-01	4.121796e-01	IFNAR1
+MSigDB_Hallmark_2020	positive regulation of kinase activity (GO:0033674)	1/114	6.503716e-01	6.946545e-01	0	0	9.580862e-01	4.121796e-01	ERBB4
+MSigDB_Hallmark_2020	positive regulation of protein metabolic process (GO:0051247)	1/115	6.535890e-01	6.975188e-01	0	0	9.496337e-01	4.038569e-01	SLC25A37
+MSigDB_Hallmark_2020	cytosolic transport (GO:0016482)	1/116	6.567770e-01	6.997738e-01	0	0	9.413282e-01	3.957445e-01	STX8
+MSigDB_Hallmark_2020	tumor necrosis factor-mediated signaling pathway (GO:0033209)	1/116	6.567770e-01	6.997738e-01	0	0	9.413282e-01	3.957445e-01	PSMD14
+MSigDB_Hallmark_2020	regulation of cellular response to stress (GO:0080135)	1/118	6.630657e-01	7.047441e-01	0	0	9.251432e-01	3.801240e-01	HSPH1
+MSigDB_Hallmark_2020	negative regulation of response to external stimulus (GO:0032102)	1/118	6.630657e-01	7.047441e-01	0	0	9.251432e-01	3.801240e-01	INPP5F
+MSigDB_Hallmark_2020	regulation of protein binding (GO:0043393)	1/118	6.630657e-01	7.047441e-01	0	0	9.251432e-01	3.801240e-01	TAF1
+MSigDB_Hallmark_2020	cellular response to lipopolysaccharide (GO:0071222)	1/120	6.692398e-01	7.095685e-01	0	0	9.095023e-01	3.652679e-01	MTDH
+MSigDB_Hallmark_2020	cytoskeleton organization (GO:0007010)	1/120	6.692398e-01	7.095685e-01	0	0	9.095023e-01	3.652679e-01	BRWD1
+MSigDB_Hallmark_2020	macroautophagy (GO:0016236)	1/120	6.692398e-01	7.095685e-01	0	0	9.095023e-01	3.652679e-01	UBQLN1
+MSigDB_Hallmark_2020	protein homooligomerization (GO:0051260)	1/121	6.722845e-01	7.122167e-01	0	0	9.018773e-01	3.581118e-01	ZBTB1
+MSigDB_Hallmark_2020	positive regulation of signal transduction (GO:0009967)	2/252	6.737545e-01	7.131938e-01	0	0	8.648398e-01	3.415161e-01	MGAT5;BMP6
+MSigDB_Hallmark_2020	regulation of apoptotic process (GO:0042981)	6/742	6.772660e-01	7.163284e-01	0	0	8.788228e-01	3.424695e-01	AVEN;BCL6;GLO1;ARHGEF4;CALR;MTDH
+MSigDB_Hallmark_2020	negative regulation of programmed cell death (GO:0043069)	3/381	6.805048e-01	7.187930e-01	0	0	8.570988e-01	3.299148e-01	AVEN;GLO1;MTDH
+MSigDB_Hallmark_2020	non-canonical Wnt signaling pathway (GO:0035567)	1/124	6.812524e-01	7.187930e-01	0	0	8.797463e-01	3.376664e-01	PSMD14
+MSigDB_Hallmark_2020	defense response to symbiont (GO:0140546)	1/124	6.812524e-01	7.187930e-01	0	0	8.797463e-01	3.376664e-01	TRIM5
+MSigDB_Hallmark_2020	protein targeting (GO:0006605)	1/125	6.841871e-01	7.201387e-01	0	0	8.726072e-01	3.311753e-01	FBXO7
+MSigDB_Hallmark_2020	cellular response to oxidative stress (GO:0034599)	1/125	6.841871e-01	7.201387e-01	0	0	8.726072e-01	3.311753e-01	PRKD1
+MSigDB_Hallmark_2020	platelet degranulation (GO:0002576)	1/125	6.841871e-01	7.201387e-01	0	0	8.726072e-01	3.311753e-01	MMRN1
+MSigDB_Hallmark_2020	negative regulation of cell growth (GO:0030308)	1/126	6.870949e-01	7.226152e-01	0	0	8.655824e-01	3.248382e-01	BCL6
+MSigDB_Hallmark_2020	positive regulation of nucleic acid-templated transcription (GO:1903508)	4/511	6.911250e-01	7.262669e-01	0	0	8.511013e-01	3.144263e-01	ERBB4;MED4;YAF2;CREB5
+MSigDB_Hallmark_2020	cellular component assembly (GO:0022607)	2/261	6.923582e-01	7.269761e-01	0	0	8.344035e-01	3.067700e-01	KPNA3;ACTG1
+MSigDB_Hallmark_2020	muscle contraction (GO:0006936)	1/129	6.956597e-01	7.298541e-01	0	0	8.451666e-01	3.067065e-01	ITGA1
+MSigDB_Hallmark_2020	regulation of primary metabolic process (GO:0080090)	1/130	6.984625e-01	7.310274e-01	0	0	8.385723e-01	3.009417e-01	PSMD14
+MSigDB_Hallmark_2020	G2/M transition of mitotic cell cycle (GO:0000086)	1/130	6.984625e-01	7.310274e-01	0	0	8.385723e-01	3.009417e-01	PCM1
+MSigDB_Hallmark_2020	Golgi organization (GO:0007030)	1/130	6.984625e-01	7.310274e-01	0	0	8.385723e-01	3.009417e-01	PRKD1
+MSigDB_Hallmark_2020	cell cycle G2/M phase transition (GO:0044839)	1/131	7.012396e-01	7.333445e-01	0	0	8.320795e-01	2.953098e-01	PCM1
+MSigDB_Hallmark_2020	protein-containing complex assembly (GO:0065003)	2/267	7.042715e-01	7.353340e-01	0	0	8.152611e-01	2.858234e-01	MCFD2;KPNA3
+MSigDB_Hallmark_2020	protein deubiquitination (GO:0016579)	2/267	7.042715e-01	7.353340e-01	0	0	8.152611e-01	2.858234e-01	PSMD14;UIMC1
+MSigDB_Hallmark_2020	regulation of cell adhesion (GO:0030155)	1/133	7.067177e-01	7.367065e-01	0	0	8.193889e-01	2.844296e-01	ABL2
+MSigDB_Hallmark_2020	defense response to virus (GO:0051607)	1/133	7.067177e-01	7.367065e-01	0	0	8.193889e-01	2.844296e-01	TRIM5
+MSigDB_Hallmark_2020	positive regulation of MAPK cascade (GO:0043410)	2/274	7.176855e-01	7.475412e-01	0	0	7.939958e-01	2.633873e-01	TRIM5;ERBB4
+MSigDB_Hallmark_2020	protein modification by small protein removal (GO:0070646)	2/276	7.214235e-01	7.502176e-01	0	0	7.881195e-01	2.573438e-01	PSMD14;UIMC1
+MSigDB_Hallmark_2020	regulation of cellular component organization (GO:0051128)	1/139	7.225598e-01	7.502176e-01	0	0	7.835244e-01	2.546102e-01	ABL2
+MSigDB_Hallmark_2020	positive regulation of response to external stimulus (GO:0032103)	1/139	7.225598e-01	7.502176e-01	0	0	7.835244e-01	2.546102e-01	BMP6
+MSigDB_Hallmark_2020	potassium ion transmembrane transport (GO:0071805)	1/139	7.225598e-01	7.502176e-01	0	0	7.835244e-01	2.546102e-01	SLC12A6
+MSigDB_Hallmark_2020	DNA metabolic process (GO:0006259)	2/277	7.232769e-01	7.503638e-01	0	0	7.852135e-01	2.543802e-01	UBE2B;ZBTB1
+MSigDB_Hallmark_2020	enzyme linked receptor protein signaling pathway (GO:0007167)	1/140	7.251162e-01	7.510750e-01	0	0	7.778481e-01	2.500186e-01	ERBB4
+MSigDB_Hallmark_2020	protein localization to cell periphery (GO:1990778)	1/140	7.251162e-01	7.510750e-01	0	0	7.778481e-01	2.500186e-01	PACS2
+MSigDB_Hallmark_2020	protein-DNA complex assembly (GO:0065004)	1/143	7.326455e-01	7.570670e-01	0	0	7.612986e-01	2.368349e-01	PSMD14
+MSigDB_Hallmark_2020	negative regulation of DNA-binding transcription factor activity (GO:0043433)	1/143	7.326455e-01	7.570670e-01	0	0	7.612986e-01	2.368349e-01	TAF1
+MSigDB_Hallmark_2020	monocarboxylic acid metabolic process (GO:0032787)	1/143	7.326455e-01	7.570670e-01	0	0	7.612986e-01	2.368349e-01	GLO1
+MSigDB_Hallmark_2020	cellular protein metabolic process (GO:0044267)	3/417	7.379976e-01	7.619927e-01	0	0	7.811192e-01	2.373155e-01	CSNK1G3;CDH2;ABL2
+MSigDB_Hallmark_2020	positive regulation of programmed cell death (GO:0043068)	2/286	7.394956e-01	7.629344e-01	0	0	7.599798e-01	2.293520e-01	BCL6;ARHGEF4
+MSigDB_Hallmark_2020	positive regulation of transferase activity (GO:0051347)	1/148	7.447412e-01	7.677379e-01	0	0	7.352172e-01	2.166821e-01	ERBB4
+MSigDB_Hallmark_2020	regulation of cell cycle (GO:0051726)	2/296	7.565630e-01	7.793077e-01	0	0	7.337543e-01	2.046951e-01	CALR;PHACTR4
+MSigDB_Hallmark_2020	regulation of signal transduction by p53 class mediator (GO:1901796)	1/156	7.629721e-01	7.852883e-01	0	0	6.969869e-01	1.885585e-01	TAF1
+MSigDB_Hallmark_2020	negative regulation of cellular process (GO:0048523)	4/566	7.645630e-01	7.863041e-01	0	0	7.656216e-01	2.055318e-01	BCL6;ERBB4;ITGA1;PRKD1
+MSigDB_Hallmark_2020	response to lipopolysaccharide (GO:0032496)	1/159	7.694697e-01	7.907258e-01	0	0	6.836486e-01	1.791527e-01	IFNAR1
+MSigDB_Hallmark_2020	positive regulation of apoptotic process (GO:0043065)	2/310	7.788383e-01	7.997219e-01	0	0	6.998995e-01	1.749412e-01	BCL6;ARHGEF4
+MSigDB_Hallmark_2020	regulation of MAPK cascade (GO:0043408)	1/166	7.839500e-01	8.043364e-01	0	0	6.544123e-01	1.592905e-01	TRIM5
+MSigDB_Hallmark_2020	cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)	1/170	7.918144e-01	8.117656e-01	0	0	6.387932e-01	1.491124e-01	CDH2
+MSigDB_Hallmark_2020	nuclear-transcribed mRNA catabolic process (GO:0000956)	1/171	7.937356e-01	8.130950e-01	0	0	6.350032e-01	1.466888e-01	CNOT2
+MSigDB_Hallmark_2020	positive regulation of ERK1 and ERK2 cascade (GO:0070374)	1/172	7.956392e-01	8.144043e-01	0	0	6.312576e-01	1.443115e-01	ERBB4
+MSigDB_Hallmark_2020	defense response to bacterium (GO:0042742)	1/176	8.030804e-01	8.213752e-01	0	0	6.167033e-01	1.352433e-01	IL6R
+MSigDB_Hallmark_2020	cellular protein localization (GO:0034613)	2/329	8.062178e-01	8.237823e-01	0	0	6.585906e-01	1.418613e-01	PACS2;STX8
+MSigDB_Hallmark_2020	regulation of mitotic cell cycle (GO:0007346)	1/178	8.066993e-01	8.237823e-01	0	0	6.096728e-01	1.309603e-01	PSMD14
+MSigDB_Hallmark_2020	regulation of immune response (GO:0050776)	1/179	8.084839e-01	8.249577e-01	0	0	6.062168e-01	1.288784e-01	BCL6
+MSigDB_Hallmark_2020	positive regulation of cellular biosynthetic process (GO:0031328)	1/180	8.102520e-01	8.261145e-01	0	0	6.027994e-01	1.268350e-01	SLC25A37
+MSigDB_Hallmark_2020	negative regulation of cytokine production (GO:0001818)	1/182	8.137399e-01	8.290214e-01	0	0	5.960780e-01	1.228603e-01	HDAC9
+MSigDB_Hallmark_2020	intracellular protein transport (GO:0006886)	2/336	8.155243e-01	8.301897e-01	0	0	6.445562e-01	1.314406e-01	STX8;CALR
+MSigDB_Hallmark_2020	neutrophil degranulation (GO:0043312)	3/481	8.197500e-01	8.338394e-01	0	0	6.743026e-01	1.340216e-01	SNAP25;PNP;PSMD14
+MSigDB_Hallmark_2020	neutrophil activation involved in immune response (GO:0002283)	3/485	8.240584e-01	8.375675e-01	0	0	6.685685e-01	1.293773e-01	SNAP25;PNP;PSMD14
+MSigDB_Hallmark_2020	regulation of GTPase activity (GO:0043087)	1/189	8.254526e-01	8.383301e-01	0	0	5.736790e-01	1.100451e-01	PRKG1
+MSigDB_Hallmark_2020	neutrophil mediated immunity (GO:0002446)	3/488	8.272321e-01	8.394826e-01	0	0	6.643299e-01	1.260034e-01	SNAP25;PNP;PSMD14
+MSigDB_Hallmark_2020	negative regulation of cell differentiation (GO:0045596)	1/191	8.286624e-01	8.402792e-01	0	0	5.675824e-01	1.066728e-01	CALR
+MSigDB_Hallmark_2020	negative regulation of macromolecule metabolic process (GO:0010605)	1/194	8.333674e-01	8.437359e-01	0	0	5.586745e-01	1.018355e-01	TAF1
+MSigDB_Hallmark_2020	cellular response to tumor necrosis factor (GO:0071356)	1/194	8.333674e-01	8.437359e-01	0	0	5.586745e-01	1.018355e-01	PSMD14
+MSigDB_Hallmark_2020	protein localization to membrane (GO:0072657)	1/195	8.349070e-01	8.446379e-01	0	0	5.557664e-01	1.002796e-01	PACS2
+MSigDB_Hallmark_2020	negative regulation of intracellular signal transduction (GO:1902532)	1/198	8.394415e-01	8.485658e-01	0	0	5.472193e-01	9.577350e-02	UBE2B
+MSigDB_Hallmark_2020	positive regulation of transcription by RNA polymerase II (GO:0045944)	6/908	8.428183e-01	8.513184e-01	0	0	7.108497e-01	1.215581e-01	TET2;SMAD9;RARB;PRKD1;MED4;BMP6
+MSigDB_Hallmark_2020	generation of neurons (GO:0048699)	1/202	8.452953e-01	8.531585e-01	0	0	5.362200e-01	9.012210e-02	TAFA1
+MSigDB_Hallmark_2020	positive regulation of transcription, DNA-templated (GO:0045893)	8/1183	8.542359e-01	8.615145e-01	0	0	7.252815e-01	1.142665e-01	ERBB4;TET2;RARB;PRKD1;MED4;YAF2;BMP6;CREB5
+MSigDB_Hallmark_2020	positive regulation of GTPase activity (GO:0043547)	1/214	8.616133e-01	8.682821e-01	0	0	5.057009e-01	7.532352e-02	BCR
+MSigDB_Hallmark_2020	regulation of cell growth (GO:0001558)	1/217	8.654178e-01	8.714416e-01	0	0	4.986009e-01	7.206922e-02	BCL6
+MSigDB_Hallmark_2020	cilium organization (GO:0044782)	1/228	8.784989e-01	8.839301e-01	0	0	4.741734e-01	6.142470e-02	PCM1
+MSigDB_Hallmark_2020	regulation of ERK1 and ERK2 cascade (GO:0070372)	1/238	8.892897e-01	8.940966e-01	0	0	4.539343e-01	5.326113e-02	ERBB4
+MSigDB_Hallmark_2020	inorganic cation transmembrane transport (GO:0098662)	1/274	9.208214e-01	9.250845e-01	0	0	3.933502e-01	3.244712e-02	ATP2A2
+MSigDB_Hallmark_2020	proteolysis (GO:0006508)	1/287	9.298591e-01	9.334437e-01	0	0	3.752209e-01	2.728691e-02	ATG4C
+MSigDB_Hallmark_2020	innate immune response (GO:0045087)	1/302	9.390190e-01	9.419127e-01	0	0	3.562484e-01	2.241500e-02	TRIM5
+MSigDB_Hallmark_2020	cilium assembly (GO:0060271)	1/314	9.454820e-01	9.476656e-01	0	0	3.423797e-01	1.919395e-02	PCM1
+MSigDB_Hallmark_2020	positive regulation of multicellular organismal process (GO:0051240)	1/345	9.591952e-01	9.606709e-01	0	0	3.110305e-01	1.295775e-02	SOX5
+MSigDB_Hallmark_2020	gene expression (GO:0010467)	1/356	9.631858e-01	9.639262e-01	0	0	3.012227e-01	1.129854e-02	NOVA1
+MSigDB_Hallmark_2020	protein transport (GO:0015031)	1/369	9.674043e-01	9.674043e-01	0	0	2.903876e-01	9.623091e-03	STX8
